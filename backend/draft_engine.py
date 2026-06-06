@@ -5,6 +5,7 @@ from uuid import uuid4
 
 from data_loader import available_years, list_teams, load_players, load_team_overalls, strip_roster_suffix
 from models import DraftPick, DraftPlayer, DraftSession, Formation, Player
+from storage import Store
 
 
 ROLE_TO_DEPARTMENT = {
@@ -36,7 +37,11 @@ FORMATIONS = {
 
 class DraftEngine:
     def __init__(self) -> None:
-        self.sessions: dict[str, DraftSession] = {}
+        self.store = Store("draft_sessions.json")
+        self.sessions: dict[str, DraftSession] = self.store.load_all(DraftSession)
+
+    def _save_sessions(self) -> None:
+        self.store.save_all(self.sessions)
 
     def start(self, formation_id: str, year: int = 0, team_filter: str | None = None, difficulty: str = "normale") -> DraftSession:
         formation = FORMATIONS.get(formation_id)
@@ -52,6 +57,7 @@ class DraftEngine:
             difficulty=difficulty,
         )
         self.sessions[session.id] = session
+        self._save_sessions()
         return session
 
     def get(self, session_id: str) -> DraftSession:
@@ -74,6 +80,7 @@ class DraftEngine:
             if team is None:
                 raise ValueError(f"Squadra {session.team_filter} non trovata per l'annata selezionata.")
             session.current_team = team
+            self._save_sessions()
         else:
             if session.year == 0:
                 year = random.choice(available_years())
@@ -83,6 +90,7 @@ class DraftEngine:
             base_team = self._pick_team_by_difficulty(session.difficulty, year)
             team = self._find_team(base_team, year)
             session.current_team = team
+            self._save_sessions()
         return session, self.players_for_current_team(session)
 
     def _pick_team_by_difficulty(self, difficulty: str, year: int) -> str:
@@ -155,6 +163,7 @@ class DraftEngine:
         session.selected_players.append(pick)
         session.current_team = None
         session.completed = len(session.selected_players) == sum(session.formation.slots.values())
+        self._save_sessions()
         return session
 
     def players_for_current_team(self, session: DraftSession) -> list[DraftPlayer]:

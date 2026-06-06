@@ -7,6 +7,7 @@ from uuid import uuid4
 from data_loader import latest_year, load_team_overalls, strip_roster_suffix
 from draft_engine import departments_for_player
 from models import DraftSession, GoalEvent, Match, Player, Season, StandingRow
+from storage import Store
 
 
 USER_TEAM_DEFAULT = "Draft FC"
@@ -15,7 +16,11 @@ MATCHDAYS_PER_SEASON = 38
 
 class MatchEngine:
     def __init__(self) -> None:
-        self.seasons: dict[str, Season] = {}
+        self.store = Store("seasons.json")
+        self.seasons: dict[str, Season] = self.store.load_all(Season)
+
+    def _save_seasons(self) -> None:
+        self.store.save_all(self.seasons)
 
     def start_season(
         self,
@@ -60,6 +65,7 @@ class MatchEngine:
             year=season_year,
         )
         self.seasons[season.id] = season
+        self._save_seasons()
         return season
 
     def get(self, season_id: str) -> Season:
@@ -83,6 +89,7 @@ class MatchEngine:
         if season.current_matchday > MATCHDAYS_PER_SEASON:
             season.completed = True
             season.current_matchday = MATCHDAYS_PER_SEASON
+        self._save_seasons()
         return season
 
     def simulate_until_matchday(self, season_id: str, draft_session: DraftSession, target_matchday: int) -> Season:
