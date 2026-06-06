@@ -32,6 +32,12 @@
           "configurations": {
             "production": {
               "budgets": [
+                              {
+                  "type": "bundle",
+                  "name": "main",
+                  "maximumWarning": "600kb",
+                  "maximumError": "1.2mb"
+                },
                 {
                   "type": "initial",
                   "maximumWarning": "500kB",
