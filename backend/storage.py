@@ -21,9 +21,15 @@ class Store:
         if REDIS_URL:
             try:
                 import redis as redis_mod
-                self._redis = redis_mod.from_url(REDIS_URL, decode_responses=True)
+                self._redis = redis_mod.from_url(
+                    REDIS_URL,
+                    decode_responses=True,
+                    socket_connect_timeout=5,
+                    socket_timeout=5,
+                )
+                self._redis.ping()
             except Exception:
-                pass
+                self._redis = None
 
     def _json_path(self) -> Path:
         return DATA_DIR / self.filename
