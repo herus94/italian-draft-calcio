@@ -1,9 +1,9 @@
 FROM node:22-alpine AS build
 
 WORKDIR /app
-COPY package.json package-lock.json ./
+COPY progetto-calcio-frontend/package.json progetto-calcio-frontend/package-lock.json ./
 RUN npm ci
-COPY . .
+COPY progetto-calcio-frontend/ .
 RUN npm run build -- --output-path=dist
 
 FROM nginx:alpine
