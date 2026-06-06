@@ -1,0 +1,288 @@
+<main class="shell">
+  <div class="grid three-col">
+    <section class="panel roll-panel">
+      <div class="panel-head">
+        <div>
+          <p class="eyebrow">Draft</p>
+        </div>
+        <button class="primary" type="button" (click)="startDraft()" [disabled]="loading()">
+          {{ draft() ? 'Nuovo Draft' : 'Conferma' }}
+        </button>
+      </div>
+
+      @if (!draft()) {
+        <div class="year-bar">
+          <div class="year-bar-row">
+            <span class="eyebrow">Annata</span>
+            <label class="toggle-all">
+              <input type="checkbox" [checked]="allYearsMode()" (change)="onAllYearsToggle($event)" />
+              Tutte
+            </label>
+          </div>
+          @if (!allYearsMode()) {
+            <div class="year-options">
+              @for (y of years(); track y) {
+                <label [class.active]="selectedYear() === y">
+                  <input type="radio" name="year" [checked]="selectedYear() === y" (change)="selectedYear.set(y); onYearChange()" />
+                  {{ y }}
+                </label>
+              }
+            </div>
+          }
+        </div>
+        <div class="team-filter-bar">
+          <span class="eyebrow">Squadra</span>
+          <select (change)="onTeamChange($event)">
+            <option value="">Tutte le squadre</option>
+            @for (t of teams(); track t) {
+              <option [value]="t" [selected]="teamFilter() === t">{{ t }}</option>
+            }
+          </select>
+        </div>
+        <div class="year-bar">
+          <div class="year-bar-row">
+            <span class="eyebrow">Annata avversari</span>
+            <label class="toggle-all">
+              <input type="checkbox" [checked]="opponentAllYears()" (change)="opponentAllYears.set(!opponentAllYears())" />
+              Tutte
+            </label>
+          </div>
+          @if (!opponentAllYears()) {
+            <div class="year-options">
+              @for (y of years(); track y) {
+                <label [class.active]="opponentYear() === y">
+                  <input type="radio" name="opponentYear"
+                         [checked]="opponentYear() === y"
+                         (change)="opponentYear.set(y)" />
+                  {{ y }}
+                </label>
+              }
+            </div>
+          }
+        </div>
+        <div class="year-bar">
+          <div class="year-bar-row">
+            <span class="eyebrow">Difficoltà</span>
+          </div>
+          <div class="year-options">
+            @for (d of ['facile', 'normale', 'difficile']; track d) {
+              <label [class.active]="difficulty() === d">
+                <input type="radio" name="difficulty"
+                       [checked]="difficulty() === d"
+                       (change)="difficulty.set(d)" />
+                {{ d.charAt(0).toUpperCase() + d.slice(1) }}
+              </label>
+            }
+          </div>
+        </div>
+      }
+
+      @if (draft()) {
+        <div class="rolled-team">
+          <div class="rolled-team-info">
+            <strong>{{ draft()?.current_team ?? 'Tira il dado' }}</strong>
+            @if (message() && draft()?.current_team) {
+              <span class="rolled-alert">{{ message() }}</span>
+            }
+          </div>
+          <button class="dice" type="button" (click)="rollTeam()" [disabled]="draft()?.completed || !!draft()?.current_team || loading()">
+            Tira
+          </button>
+        </div>
+      }
+
+      @if (rolledPlayers().length > 0) {
+        <div class="players-list">
+          @for (player of rolledPlayers(); track player.player_id) {
+          <article class="player-row"
+                   [class.locked]="!player.pickable"
+                   [class.selected]="selectedPlayer()?.player_id === player.player_id"
+                   (click)="selectPlayer(player)">
+            <div class="rating">{{ player.overall }}</div>
+            <div class="player-main">
+              <strong>{{ player.name }}</strong>
+              <span>{{ player.roles.join(' / ') }}</span>
+            </div>
+            <div class="pick-actions">
+              @for (dept of player.departments; track dept) {
+                <span class="dept-badge"
+                  [class.dept-open]="remainingSlots()[dept] > 0"
+                  [class.dept-por]="dept === 'POR'"
+                  [class.dept-dif]="dept === 'DIF'"
+                  [class.dept-cc]="dept === 'CC'"
+                  [class.dept-att]="dept === 'ATT'">{{ dept }}</span>
+              }
+              @if (!player.pickable) {
+                <small>non pickabile</small>
+              }
+            </div>
+          </article>
+        }
+        </div>
+      }
+    </section>
+
+    <section class="panel pitch-panel">
+      <div class="panel-head">
+        <div>
+          <p class="eyebrow">Modulo</p>
+        </div>
+        <div class="head-actions">
+          <div class="formation-bar">
+            @for (formation of formations(); track formation.id) {
+              <label [class.active]="selectedFormationId() === formation.id"
+                     [class.disabled]="!!draft() || !!season()">
+                <input
+                  type="radio"
+                  name="formation"
+                  [ngModel]="selectedFormationId()"
+                  (ngModelChange)="selectedFormationId.set($event)"
+                  [value]="formation.id"
+                  [disabled]="!!draft() || !!season()"
+                />
+                {{ formation.label }}
+              </label>
+            }
+          </div>
+        </div>
+      </div>
+
+      <div class="pitch">
+        @for (dept of ['POR', 'DIF', 'CC', 'ATT']; track dept) {
+          <div class="pitch-row">
+            @for (slot of formationSlots().filter(s => s.department === dept); track slot.id) {
+              <div class="pitch-card"
+                   [class.filled]="!!slot.player"
+                   [class.selectable]="!!selectedPlayer() && !slot.player && selectedPlayer()?.departments?.includes(dept) && remainingSlots()[dept] > 0"
+                   (click)="assignToSlot(slot)">
+                @if (slot.player) {
+                  <span class="pitch-card-ovr">{{ slot.player.player.overall }}</span>
+                  <span class="pitch-card-name">{{ shortName(slot.player.player.name) }}</span>
+                } @else {
+                  <span class="pitch-card-empty">{{ dept }}</span>
+                }
+              </div>
+            }
+          </div>
+        }
+      </div>
+    </section>
+
+    <section class="panel squad-panel">
+      <div class="panel-head stack">
+        <p class="eyebrow">La mia squadra</p>
+        <div class="panel-head-row">
+          <div class="squad-metrics">
+            <div class="squad-metric">
+              <span>Overall</span>
+              <strong>{{ teamOverall() || '-' }}</strong>
+            </div>
+            <div class="squad-metric">
+              <span>Pick</span>
+              <strong>{{ draft()?.selected_players?.length ?? 0 }}/11</strong>
+            </div>
+            <div class="squad-metric">
+              <span>Giornata</span>
+              <strong>{{ season()?.current_matchday ?? '-' }}</strong>
+            </div>
+            <div class="squad-metric clickable" [class.disabled]="!draft()?.completed || !!season() || loading()" (click)="startSeason()">
+              <span>Campionato</span>
+              <strong>{{ season() ? season()?.completed ? 'Finito' : 'In corso' : draft()?.completed ? 'Avvia' : '---' }}</strong>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="squad-list">
+        @for (pick of draft()?.selected_players ?? []; track pick.player.player_id) {
+          <article>
+            <span class="pick-num">{{ pick.round }}</span>
+            <div class="squad-player-info">
+              <strong>{{ pick.player.name }}</strong>
+              <span>{{ pick.assigned_department }} · {{ pick.team }}</span>
+            </div>
+            <b>{{ pick.player.overall }}</b>
+          </article>
+        }
+      </div>
+
+      @if (season()) {
+        <div class="season-actions">
+          <button type="button" (click)="simulateNext()" [disabled]="loading() || season()?.completed">Prossima</button>
+          <button type="button" (click)="simulateMid()" [disabled]="loading() || season()?.completed || (season()?.current_matchday ?? 0) > 19">Metà stagione</button>
+          <button type="button" (click)="simulateEnd()" [disabled]="loading() || season()?.completed">Fine stagione</button>
+        </div>
+
+        <div class="latest">
+          <h3>Ultime partite</h3>
+          @for (match of userMatches(); track match.id) {
+            <article>
+              <div class="match-line">
+                <span>{{ match.home_team }}</span>
+                <strong>{{ match.home_goals }} - {{ match.away_goals }}</strong>
+                <span>{{ match.away_team }}</span>
+              </div>
+              <p>
+                @for (goal of match.goals; track goal.minute + goal.scorer) {
+                  <span>{{ goal.minute }}' {{ goal.scorer }}</span>
+                }
+              </p>
+            </article>
+          }
+        </div>
+      }
+    </section>
+  </div>
+
+  @if (season()) {
+    @if (isChampion()) {
+      <section class="panel victory-panel">
+        <div class="victory-content">
+          <h1>CAMPIONI!</h1>
+          <p>Complimenti, {{ season()?.user_team }} ha vinto il campionato!</p>
+        </div>
+      </section>
+    }
+
+    <section class="panel table-panel">
+      <div class="panel-head">
+        <div>
+          <p class="eyebrow">Campionato</p>
+          <h2>Classifica</h2>
+        </div>
+        <span class="replaced">Sostituita: {{ season()?.replaced_team }}</span>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Squadra</th>
+              <th>Pt</th>
+              <th>G</th>
+              <th>V</th>
+              <th>N</th>
+              <th>P</th>
+              <th>DR</th>
+            </tr>
+          </thead>
+          <tbody>
+            @for (row of season()?.standings ?? []; track row.team; let index = $index) {
+              <tr [class.user-team]="row.team === season()?.user_team">
+                <td>{{ index + 1 }}</td>
+                <td>{{ row.team }}</td>
+                <td>{{ row.points }}</td>
+                <td>{{ row.played }}</td>
+                <td>{{ row.wins }}</td>
+                <td>{{ row.draws }}</td>
+                <td>{{ row.losses }}</td>
+                <td>{{ row.goal_difference }}</td>
+              </tr>
+            }
+          </tbody>
+        </table>
+      </div>
+    </section>
+  }
+</main>

@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/browser",
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://<RAILWAY_BACKEND_URL>/api/$1"
+    }
+  ]
+}
