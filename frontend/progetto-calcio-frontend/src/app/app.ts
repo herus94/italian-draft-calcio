@@ -4,7 +4,8 @@ import { Component, computed, inject, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { firstValueFrom } from 'rxjs';
 
-const API_URL = (window as Record<string, unknown>).__API_URL__ as string || `http://${window.location.hostname}:8000/api`;
+const API_URL = (window as unknown as Record<string, unknown>)['__API_URL__'] as string || `http://${window.location.hostname}:3000`;
+
 
 type Formation = {
   id: string;
