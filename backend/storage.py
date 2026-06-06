@@ -21,22 +21,35 @@ class Store:
         if REDIS_URL:
             try:
                 import redis as redis_mod
-                self._redis = redis_mod.from_url(REDIS_URL, decode_responses=True)
-            except Exception:
-                pass
+                self._redis = redis_mod.from_url(REDIS_URL, decode_responses=True, socket_connect_timeout=5, socket_timeout=5)
+                # Test connection
+                self._redis.ping()
+            except Exception as e:
+                print(f"Redis connection failed: {e}")
+                self._redis = None
 
     def _json_path(self) -> Path:
         return DATA_DIR / self.filename
 
     def load_all(self, model: type[T]) -> dict[str, T]:
         if self._redis:
-            return self._load_redis(model)
+            try:
+                return self._load_redis(model)
+            except Exception as e:
+                print(f"Redis load failed: {e}, falling back to JSON")
+                self._redis = None
+                return self._load_json(model)
         return self._load_json(model)
 
     def save_all(self, data: dict[str, BaseModel]) -> None:
         serialized = {k: v.model_dump(mode="json") for k, v in data.items()}
         if self._redis:
-            self._save_redis(serialized)
+            try:
+                self._save_redis(serialized)
+            except Exception as e:
+                print(f"Redis save failed: {e}, falling back to JSON")
+                self._redis = None
+                self._save_json(serialized)
         else:
             self._save_json(serialized)
 
@@ -68,3 +81,4 @@ class Store:
 
     def _save_redis(self, data: dict[str, dict]) -> None:
         self._redis.set(self.filename, json.dumps(data, ensure_ascii=False))
+
