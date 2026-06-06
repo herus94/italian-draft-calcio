@@ -1,0 +1,7235 @@
+[
+  {
+    "player_id": 7763,
+    "name": "Andrea Pirlo",
+    "overall": 86,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138956,
+    "name": "Giorgio Chiellini",
+    "overall": 86,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 143001,
+    "name": "Carlos Tévez",
+    "overall": 86,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 1179,
+    "name": "Gianluigi Buffon",
+    "overall": 85,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 181872,
+    "name": "Arturo Vidal",
+    "overall": 85,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 120274,
+    "name": "Antonio Di Natale",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 150418,
+    "name": "Mario Gomez",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162835,
+    "name": "Samir Handanovič",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137186,
+    "name": "Andrea Barzagli",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173210,
+    "name": "Claudio Marchisio",
+    "overall": 84,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 139668,
+    "name": "Federico Marchetti",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186627,
+    "name": "Mario Balotelli",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 171877,
+    "name": "Marek Hamšik",
+    "overall": 84,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 53302,
+    "name": "Daniele De Rossi",
+    "overall": 84,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 11141,
+    "name": "Miroslav Klose",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 180432,
+    "name": "A. Hernanes de Carvalho A. Lima",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159287,
+    "name": "Riccardo Montolivo",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 24630,
+    "name": "José Manuel Reina Páez",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 167664,
+    "name": "Gonzalo Higuaín",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163925,
+    "name": "Alessandro Diamanti",
+    "overall": 83,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 23461,
+    "name": "Walter Samuel",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123603,
+    "name": "Hugo Campagnaro",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 152999,
+    "name": "Rodrigo Palacio",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 106850,
+    "name": "Mirko Vučinić",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173221,
+    "name": "Antonio Candreva",
+    "overall": 82,
+    "roles": [
+      "ED",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 41635,
+    "name": "Philippe Mexès",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138449,
+    "name": "Ricardo Izecson dos Santos Leite",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190813,
+    "name": "Stephan El Shaarawy",
+    "overall": 82,
+    "roles": [
+      "AS",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 177509,
+    "name": "Medhi Benatia",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 161956,
+    "name": "Borja Valero Iglesias",
+    "overall": 82,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162409,
+    "name": "Giuseppe Rossi",
+    "overall": 82,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 142708,
+    "name": "Diego Milito",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 169051,
+    "name": "Fredy Guarín",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162131,
+    "name": "Fernando Llorente Torres",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 7631,
+    "name": "Antonio Cassano",
+    "overall": 81,
+    "roles": [
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 4667,
+    "name": "Morgan De Sanctis",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190544,
+    "name": "Adem Ljajić",
+    "overall": 81,
+    "roles": [
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178393,
+    "name": "Alessio Cerci",
+    "overall": 81,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45186,
+    "name": "Joaquín Sánchez Rodríguez",
+    "overall": 81,
+    "roles": [
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 142780,
+    "name": "Gonzalo Rodríguez",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Cuadrado",
+    "overall": 81,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 142938,
+    "name": "Germán Denis",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163489,
+    "name": "Andrea Consigli",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 182168,
+    "name": "Andrea Ranocchia",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159261,
+    "name": "Fabio Quagliarella",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 52797,
+    "name": "Cristian Ledesma",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 1219,
+    "name": "Christian Abbiati",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137506,
+    "name": "Goran Pandev",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 175943,
+    "name": "Dries Mertens",
+    "overall": 80,
+    "roles": [
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184312,
+    "name": "Jonathan Biabiany",
+    "overall": 80,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 1238,
+    "name": "Francesco Totti",
+    "overall": 80,
+    "roles": [
+      "AS",
+      "COC",
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 51101,
+    "name": "Maurizio Domizzi",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 166072,
+    "name": "Danilo Larangeira",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199110,
+    "name": "Luis Muriel",
+    "overall": 80,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178518,
+    "name": "Radja Nainggolan",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 171830,
+    "name": "Nicolás Spolli",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 24248,
+    "name": "David Pizarro",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 103935,
+    "name": "Alberto Aquilani",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189125,
+    "name": "Giacomo Bonaventura",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "AT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200752,
+    "name": "Juan Guilherme Nunes Jesus",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 182495,
+    "name": "Martín Cáceres",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183855,
+    "name": "Angelo Ogbonna",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184344,
+    "name": "Leonardo Bonucci",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186832,
+    "name": "Kwadwo Asamoah",
+    "overall": 79,
+    "roles": [
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 195864,
+    "name": "Paul Pogba",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 161999,
+    "name": "Abdoulay Konko",
+    "overall": 79,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 165109,
+    "name": "Stefan Radu",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188427,
+    "name": "Senad Lulić",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "CC",
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137361,
+    "name": "Giampaolo Pazzini",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149184,
+    "name": "Christian Maggio",
+    "overall": 79,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 157481,
+    "name": "Raúl Albiol Tortajada",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 158810,
+    "name": "Gökhan Inler",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 176546,
+    "name": "Juan Camilo Zúñiga",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "TS",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 135455,
+    "name": "Maicon Douglas Sisenando",
+    "overall": 79,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189712,
+    "name": "Kevin Strootman",
+    "overall": 79,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173198,
+    "name": "Davide Astori",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183966,
+    "name": "Facundo Roncaglia",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138123,
+    "name": "Esteban Cambiasso",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 103936,
+    "name": "Simone Pepe",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 108080,
+    "name": "Stephan Lichtsteiner",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184431,
+    "name": "Sebastian Giovinco",
+    "overall": 78,
+    "roles": [
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 134956,
+    "name": "Lorik Cana",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137114,
+    "name": "Michaël Ciani",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 164300,
+    "name": "Andrè Gonçalves Dias",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 53578,
+    "name": "Nigel de Jong",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 136144,
+    "name": "Robson de Souza",
+    "overall": 78,
+    "roles": [
+      "AT",
+      "AD",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 177935,
+    "name": "Kévin Constant",
+    "overall": 78,
+    "roles": [
+      "TS",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 177983,
+    "name": "Cristian Zapata",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 1178,
+    "name": "Paolo Cannavaro",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 161805,
+    "name": "Valon Behrami",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 176605,
+    "name": "Pablo Armero",
+    "overall": 78,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 165526,
+    "name": "Gabriel Paletta",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 170733,
+    "name": "Gervais Yao Kouassi",
+    "overall": 78,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172610,
+    "name": "Leandro Castán da Silva",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 180206,
+    "name": "Miralem Pjanić",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 167514,
+    "name": "Dušan Basta",
+    "overall": 78,
+    "roles": [
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 164985,
+    "name": "Cyril Théréau",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 103496,
+    "name": "Andrea Cossu",
+    "overall": 78,
+    "roles": [
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162932,
+    "name": "Pablo Barrientos",
+    "overall": 78,
+    "roles": [
+      "AD",
+      "COC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194203,
+    "name": "Nenad Tomović",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 120238,
+    "name": "Francesco Lodi",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 24438,
+    "name": "Mario Yepes",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173146,
+    "name": "Luca Cigarini",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 6747,
+    "name": "Cristian Chivu",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 165816,
+    "name": "Jonathan Cícero Moreira",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194359,
+    "name": "Yuto Nagatomo",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204555,
+    "name": "Ricardo Álvarez",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137854,
+    "name": "Marco Storari",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 187800,
+    "name": "Mauricio Isla",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 156272,
+    "name": "Ederson Honorato Campos",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 182860,
+    "name": "Álvaro González",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "ED",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45595,
+    "name": "Daniele Bonera",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168312,
+    "name": "Ignazio Abate",
+    "overall": 77,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 169808,
+    "name": "Urby Emanuelson",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206058,
+    "name": "Mattia De Sciglio",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189067,
+    "name": "Miguel Angel Britos",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192397,
+    "name": "Rafael Cabral Barbosa",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 140293,
+    "name": "Antonio Mirante",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 139038,
+    "name": "Nicolás Burdisso",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 195090,
+    "name": "Željko Brkić",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149571,
+    "name": "Sergio Pellissier",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178767,
+    "name": "Nikolay Mihaylov",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188616,
+    "name": "Marco Sau",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204550,
+    "name": "Víctor Ibarbo",
+    "overall": 77,
+    "roles": [
+      "ATT",
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 104047,
+    "name": "Sergio Bernardo Almirón",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 171975,
+    "name": "Gonzalo Bergessio",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173857,
+    "name": "Mariano Andújar",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 167305,
+    "name": "Juan Manuel Vargas",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "AS",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200647,
+    "name": "Josip Iličić",
+    "overall": 77,
+    "roles": [
+      "AT",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 5213,
+    "name": "Alessandro Gamberini",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 5879,
+    "name": "Alberto Gilardino",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190875,
+    "name": "Juraj Kucka",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183895,
+    "name": "Maximiliano Moralez",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "COC",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 1041,
+    "name": "Javier Zanetti",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "TD",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 167666,
+    "name": "Juan Pablo Carrizo",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172835,
+    "name": "Marco Andreolli",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163083,
+    "name": "Rolando Jorge Pires da Fonseca",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172098,
+    "name": "Álvaro Pereira",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 207410,
+    "name": "Mateo Kovačić",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178418,
+    "name": "Federico Peluso",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137133,
+    "name": "Giuseppe Biava",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 158963,
+    "name": "Lucas Biglia",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 169386,
+    "name": "Sergio Floccari",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123621,
+    "name": "Sulley Muntari",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 156988,
+    "name": "Antonio Nocerino",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 177528,
+    "name": "Alessandro Matri",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 185174,
+    "name": "Andrea Poli",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138699,
+    "name": "Blerim Džemaili",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198219,
+    "name": "Lorenzo Insigne",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "AS",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 105318,
+    "name": "Jaime Valdés",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149568,
+    "name": "Amauri Carvalho De Oliv.",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 182859,
+    "name": "Walter Gargano",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123576,
+    "name": "Marco Borriello",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 155887,
+    "name": "Michael Bradley",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193338,
+    "name": "Mattia Destro",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190547,
+    "name": "Kamil Glik",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172882,
+    "name": "Panagiotis Kone",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186961,
+    "name": "Alberto Paloschi",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 105474,
+    "name": "Daniele Conti",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123586,
+    "name": "Michael Agazzi",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 4724,
+    "name": "Nicola Legrottaglie",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205633,
+    "name": "Lucas Castro",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "AS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 53055,
+    "name": "Massimo Ambrosini",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 154634,
+    "name": "Manuel Pasqual",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204639,
+    "name": "Stefan Savić",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198009,
+    "name": "Mattia Perin",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149147,
+    "name": "Guglielmo Stendardo",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168650,
+    "name": "Zdravko Kuzmanović",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194728,
+    "name": "Ishak Belfodil",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201399,
+    "name": "Mauro Icardi",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 49617,
+    "name": "Cristian Zaccardo",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137160,
+    "name": "Marco Amelia",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159028,
+    "name": "Matías Silvestre",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204077,
+    "name": "M'Baye Niang",
+    "overall": 75,
+    "roles": [
+      "AD",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 185020,
+    "name": "José María Callejón Bueno",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "COC",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 142359,
+    "name": "Alessandro Lucarelli",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 181459,
+    "name": "Vassilis Torosidis",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 167098,
+    "name": "Guillermo Rodríguez",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192387,
+    "name": "Ciro Immobile",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 164,
+    "name": "Giampiero Pinzi",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193061,
+    "name": "Roberto Pereyra",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "CDC",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 52935,
+    "name": "Cesare Natali",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 52941,
+    "name": "Rolando Bianchi",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 7647,
+    "name": "Dario Dainelli",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172233,
+    "name": "Perparim Hetemaj",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178604,
+    "name": "Boško Janković",
+    "overall": 75,
+    "roles": [
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137410,
+    "name": "Daniele Gastaldello",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198683,
+    "name": "Manolo Gabbiadini",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 113045,
+    "name": "Mauricio Pinilla",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 181318,
+    "name": "Albin Ekdal",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 164256,
+    "name": "Paulo Sérgio Betanin",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 112244,
+    "name": "Jaroslav Plašil",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173300,
+    "name": "Sebastián Leto",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "COC",
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184338,
+    "name": "Giuseppe Bellusci",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45437,
+    "name": "Thomas Manfredini",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137179,
+    "name": "Daniele Portanova",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123629,
+    "name": "Mario Santana",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199845,
+    "name": "Francesco Acerbi",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123597,
+    "name": "Stefano Lucchini",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163490,
+    "name": "Michele Canini",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188413,
+    "name": "Carlos Carmona",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198760,
+    "name": "Saphir Taïder",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 176104,
+    "name": "Valter Birsa",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201988,
+    "name": "Federico Fernández",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215333,
+    "name": "Duván Zapata",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183498,
+    "name": "Marco Parolo",
+    "overall": 74,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205555,
+    "name": "Cristóbal Jorquera",
+    "overall": 74,
+    "roles": [
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184704,
+    "name": "Marco Antônio de Mattos Filho",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 203551,
+    "name": "Alessandro Florenzi",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "AD",
+      "AS",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 46736,
+    "name": "Emiliano Moretti",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163491,
+    "name": "Andrea Lazzari",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 167683,
+    "name": "Maicosuel Reginaldo de Matos",
+    "overall": 74,
+    "roles": [
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192575,
+    "name": "Emmanuel Badu",
+    "overall": 74,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199914,
+    "name": "Allan Marques Loureiro",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200700,
+    "name": "Alexander Merkel",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45534,
+    "name": "Mikael Antonsson",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137519,
+    "name": "Michele Pazienza",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159518,
+    "name": "Diego Pérez",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178115,
+    "name": "Lazaros Christodoulopoulos",
+    "overall": 74,
+    "roles": [
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159265,
+    "name": "Christian Puggioni",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188992,
+    "name": "Marcelo Estigarribia",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "AS",
+      "AD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199151,
+    "name": "Juan Manuel Iturbe",
+    "overall": 74,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200054,
+    "name": "Pedro Mba Obiang Avomo",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173147,
+    "name": "Daniele Dessena",
+    "overall": 74,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 185163,
+    "name": "Luca Rossettini",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163402,
+    "name": "Andrea Coda",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193786,
+    "name": "Francesco Bardi",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138806,
+    "name": "Maxi López",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211328,
+    "name": "Alexis Rolin",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215181,
+    "name": "Gino Peruzzi",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 146660,
+    "name": "Gustavo Munúa",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 14907,
+    "name": "Albano Bizzarri",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149224,
+    "name": "Emanuele Calaió",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173204,
+    "name": "Luca Antonelli",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 197117,
+    "name": "Giannis Fetfatzidis",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "ES",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211267,
+    "name": "Adrián Centurión",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 34824,
+    "name": "Antonio Floro Flores",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137199,
+    "name": "Franco Brienza",
+    "overall": 73,
+    "roles": [
+      "AT",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 7584,
+    "name": "Luca Castellazzi",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 102056,
+    "name": "Simone Padoin",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "CC",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200434,
+    "name": "Luis Pedro Cavanda",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202934,
+    "name": "Ogenyi Onazi",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 4832,
+    "name": "Marco Marchionni",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159284,
+    "name": "Raffaele Palladino",
+    "overall": 73,
+    "roles": [
+      "AS",
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163461,
+    "name": "Daniele Galloppa",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178117,
+    "name": "Aleandro Rosi",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 113176,
+    "name": "Federico Balzaretti",
+    "overall": 73,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 136875,
+    "name": "Bogdan Lobonţ",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45605,
+    "name": "Matteo Brighi",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178425,
+    "name": "Giuseppe Vives",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184392,
+    "name": "Matteo Darmian",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 187702,
+    "name": "Omar El Kaddouri",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188506,
+    "name": "Riccardo Meggiorini",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188654,
+    "name": "Thomas Heurtaux",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 197688,
+    "name": "Gabriel Moisés Antunes da Silva",
+    "overall": 73,
+    "roles": [
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138871,
+    "name": "Davide Moscardelli",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201342,
+    "name": "Frederik Sørensen",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138918,
+    "name": "Luca Rigoni",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 139274,
+    "name": "Boštjan Cesar",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 23015,
+    "name": "Luca Toni",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193839,
+    "name": "Rômulo Souza Orestes Caldeira",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "AD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199666,
+    "name": "Ezequiel Cirigliano",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178042,
+    "name": "Andrea Costa",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178311,
+    "name": "Eder Citadin Martins",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190501,
+    "name": "Nenad Krstičić",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178264,
+    "name": "Anderson Miguel da Silva",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189436,
+    "name": "Lorenzo Ariaudo",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 144511,
+    "name": "Leandro Greco",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186852,
+    "name": "Innocent Emeghara",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205707,
+    "name": "Emerson Ramos Borges",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188949,
+    "name": "Luca Siligardi",
+    "overall": 73,
+    "roles": [
+      "AD",
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215199,
+    "name": "Rubén Botta",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 165490,
+    "name": "Mariano Izco",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173023,
+    "name": "Alberto Frison",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186550,
+    "name": "Luciano Fabián Monzón",
+    "overall": 73,
+    "roles": [
+      "TS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190084,
+    "name": "Panagiotis Tachtsidis",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194404,
+    "name": "Norberto Murara Neto",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149242,
+    "name": "Francelino Da Silva",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162174,
+    "name": "Davide Biondini",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192073,
+    "name": "Andrea Bertolacci",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 106795,
+    "name": "Gianluca Pegolo",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 106874,
+    "name": "Davide Brivio",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189728,
+    "name": "Guido Marilungo",
+    "overall": 72,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 135073,
+    "name": "Rubens Fernando Moedim",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 171097,
+    "name": "Marco Motta",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201995,
+    "name": "Felipe Anderson Pereira Gomes",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 207677,
+    "name": "Emiliano Alfaro",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 7674,
+    "name": "Ferdinando Coppola",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137373,
+    "name": "Massimo Gobbi",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137380,
+    "name": "Mattia Cassani",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201223,
+    "name": "Afriyie Acquah",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201858,
+    "name": "Nicola Sansone",
+    "overall": 72,
+    "roles": [
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 136126,
+    "name": "Júlio Sérgio Bertagnoli",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202848,
+    "name": "Gianluca Caprari",
+    "overall": 72,
+    "roles": [
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45874,
+    "name": "Alexander Farnerud",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189779,
+    "name": "Migjen Basha",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 179896,
+    "name": "Mathias Ranégie",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202054,
+    "name": "Edinaldo Gomes Pereira",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 207409,
+    "name": "Ivan Kelava",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 207715,
+    "name": "Nicolas López",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 107579,
+    "name": "Federico Agliardi",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138129,
+    "name": "György Garics",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168297,
+    "name": "Gianluca Curci",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178490,
+    "name": "Robert Acquafresca",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172696,
+    "name": "Matteo Ardemagni",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 140082,
+    "name": "Rafael Pinheiro Andrade Bittencourt",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159167,
+    "name": "Rafael Marques Pinto",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183437,
+    "name": "Matteo Rubin",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205498,
+    "name": "Luiz Frello Filho Jorge",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 52829,
+    "name": "Angelo Palombo",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189894,
+    "name": "Gianluca Sansone",
+    "overall": 72,
+    "roles": [
+      "AT",
+      "ATT",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 164370,
+    "name": "Francesco Pisano",
+    "overall": 72,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202672,
+    "name": "Danilo Fernando Avelar",
+    "overall": 72,
+    "roles": [
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 213113,
+    "name": "Matías Cabrera",
+    "overall": 72,
+    "roles": [
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 102084,
+    "name": "Luca Belingheri",
+    "overall": 72,
+    "roles": [
+      "COC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168353,
+    "name": "Leandro Rinaudo",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162145,
+    "name": "Tiberio Guarente",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 48826,
+    "name": "Rubén Olivera",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "CC",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 170231,
+    "name": "Marvin Compper",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 174549,
+    "name": "Matías Fernández",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137427,
+    "name": "Luca Antonini",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192072,
+    "name": "Adrian Stoian",
+    "overall": 72,
+    "roles": [
+      "AT",
+      "AD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 108061,
+    "name": "Reto Ziegler",
+    "overall": 72,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202061,
+    "name": "Jasmin Kurtić",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202685,
+    "name": "Simone Zaza",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210935,
+    "name": "Domenico Berardi",
+    "overall": 72,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137440,
+    "name": "Giulio Migliaccio",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "DC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205855,
+    "name": "Marko Livaja",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173212,
+    "name": "Paolo De Ceglie",
+    "overall": 71,
+    "roles": [
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163678,
+    "name": "Bakaye Traoré",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123610,
+    "name": "Giandomenico Mesto",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 157581,
+    "name": "Djamel Mesbah",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183288,
+    "name": "Yohan Benalouane",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193337,
+    "name": "Joel Obi",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149231,
+    "name": "Rodrigo Ferrante Taddei",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 105866,
+    "name": "Cesare Bovo",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138903,
+    "name": "Salvatore Masiello",
+    "overall": 71,
+    "roles": [
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198946,
+    "name": "Danilo D'Ambrosio",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178043,
+    "name": "Francesco Della Rocca",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192823,
+    "name": "Archimede Morleo",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 158455,
+    "name": "Lorenzo Squizzi",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168799,
+    "name": "Boukary Dramé",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186589,
+    "name": "Ivan Radovanovic",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204211,
+    "name": "Paul Papp",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 1210,
+    "name": "Massimo Donati",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45129,
+    "name": "Daniele Cacia",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 122361,
+    "name": "Marco Donadel",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 133249,
+    "name": "Emil Hallfreðsson",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 150035,
+    "name": "Vangelis Moras",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 161969,
+    "name": "Nicola Pozzi",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189707,
+    "name": "Angelo Esmael da Costa Júnior",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 113188,
+    "name": "Vlada Avramov",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216523,
+    "name": "Marios Oikonomou",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149165,
+    "name": "Marco Biagianti",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178448,
+    "name": "Andrea Luci",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 158088,
+    "name": "Pablo Álvarez",
+    "overall": 71,
+    "roles": [
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198908,
+    "name": "Isaac Cofie",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 158996,
+    "name": "Ciro Polito",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168365,
+    "name": "Riccardo Cazzola",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184339,
+    "name": "Luigi Giorgi",
+    "overall": 70,
+    "roles": [
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 176846,
+    "name": "McDonald Mariga",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 176031,
+    "name": "Bruno Alexandre Marques Pereirinha",
+    "overall": 70,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193510,
+    "name": "Diego Novaretti",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 213303,
+    "name": "Brayan Perea",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201046,
+    "name": "Riccardo Saponara",
+    "overall": 70,
+    "roles": [
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178091,
+    "name": "Stefano Okaka Chuka",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200677,
+    "name": "Pedro Filipe Teodósio Mendes",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 54037,
+    "name": "Tommaso Berni",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137734,
+    "name": "Francesco Benussi",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 163989,
+    "name": "Alessio Sestu",
+    "overall": 70,
+    "roles": [
+      "AT",
+      "ES",
+      "ED"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178430,
+    "name": "Nicolas Frey",
+    "overall": 70,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 197169,
+    "name": "Dejan Lazarevic",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 185172,
+    "name": "Vincenzo Fiorillo",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 175789,
+    "name": "Birkir Bjarnason",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189143,
+    "name": "Sebastian Eriksson",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 143746,
+    "name": "Dániel Tőzsér",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 182179,
+    "name": "Sebastian De Maio",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189485,
+    "name": "Diego Farías da Silva",
+    "overall": 70,
+    "roles": [
+      "AS",
+      "AT",
+      "AD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192838,
+    "name": "Ezequiel Schelotto",
+    "overall": 70,
+    "roles": [
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137151,
+    "name": "Cristian Raimondi",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 45618,
+    "name": "Gaby Mudingayi",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189296,
+    "name": "Etrit Berisha",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215930,
+    "name": "Tin Jedvaj",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "CDC",
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184982,
+    "name": "Marcelo Larrondo",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 208824,
+    "name": "Jadson Alves dos Santos",
+    "overall": 69,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123611,
+    "name": "Andrea Mantovani",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 162048,
+    "name": "Marek Čech",
+    "overall": 69,
+    "roles": [
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183365,
+    "name": "Nicolò Cherubin",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192205,
+    "name": "Rene Krhin",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 156986,
+    "name": "Gennaro Sardo",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 157741,
+    "name": "Simone Bentivoglio",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "AT",
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 203671,
+    "name": "Juan Ignacio Gomez",
+    "overall": 69,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 208251,
+    "name": "Samuele Longo",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173155,
+    "name": "Antonino Barillà",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219862,
+    "name": "Miguel Borja",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194174,
+    "name": "Sergio Gontán Gallardo",
+    "overall": 69,
+    "roles": [
+      "AD",
+      "AS",
+      "ED"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 12011,
+    "name": "Cristiano Lupatelli",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 169221,
+    "name": "Oleksandr Yakovenko",
+    "overall": 69,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201363,
+    "name": "Ryder Matos Santos",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 203890,
+    "name": "Šime Vrsaljko",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183671,
+    "name": "Emanuele Terranova",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189729,
+    "name": "Jonathan Rossini",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194753,
+    "name": "Luca Marrone",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204214,
+    "name": "Marius Alexe",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AS",
+      "AT",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 7597,
+    "name": "Giorgio Frezzolini",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 173305,
+    "name": "Cristiano Del Grosso",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205687,
+    "name": "Giuseppe De Luca",
+    "overall": 68,
+    "roles": [
+      "AT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200818,
+    "name": "Bruno Uvini Bortolança",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 768,
+    "name": "Felipe Dal Bello",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210413,
+    "name": "Alessio Romagnoli",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 2,
+    "name": "Giovanni Pasquale",
+    "overall": 68,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205548,
+    "name": "Nicola Bellomo",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210406,
+    "name": "Piotr Zielinski",
+    "overall": 68,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216158,
+    "name": "Silvan Widmer",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 213400,
+    "name": "Diego Laxalt",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 177485,
+    "name": "Mamadou Samassa",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184587,
+    "name": "Tomasz Kupisz",
+    "overall": 68,
+    "roles": [
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137774,
+    "name": "Domenico Maietta",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188617,
+    "name": "Simon Laner",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199205,
+    "name": "R. Martinho Alves de Lima",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "CC",
+      "AS",
+      "ES"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216666,
+    "name": "Alejandro González",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 182178,
+    "name": "Gaetano Berardi",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ED",
+      "TS",
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186553,
+    "name": "Matias Nicolas Rodriguez",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189558,
+    "name": "Bartosz Salamon",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192227,
+    "name": "Shkodran Mustafi",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 203568,
+    "name": "Paweł Wszołek",
+    "overall": 68,
+    "roles": [
+      "ED",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188541,
+    "name": "Pasquale Schiattarella",
+    "overall": 68,
+    "roles": [
+      "ED",
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211354,
+    "name": "Marco Benassi",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 154563,
+    "name": "Ciro Capuano",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204078,
+    "name": "Rafał Wolski",
+    "overall": 68,
+    "roles": [
+      "COC",
+      "ED",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206601,
+    "name": "Mario Sampirisi",
+    "overall": 68,
+    "roles": [
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149309,
+    "name": "Antonio Rosati",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 176553,
+    "name": "Simone Missiroli",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 11808,
+    "name": "Gianpaolo Bellini",
+    "overall": 67,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216410,
+    "name": "Vinícius de Freitas Ribeiro",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201931,
+    "name": "Gabriel Vasconcellos F.",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219184,
+    "name": "Jherson Vergara",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 159040,
+    "name": "Gianni Munari",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189908,
+    "name": "Łukasz Skorupski",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193571,
+    "name": "José Rodolfo Pires Ribeiro",
+    "overall": 67,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198932,
+    "name": "Neuton Sergio Piccoli",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210822,
+    "name": "Douglas Justino de Melo",
+    "overall": 67,
+    "roles": [
+      "TS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194988,
+    "name": "Henry Damián Gimenez",
+    "overall": 67,
+    "roles": [
+      "AT",
+      "ATT",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186499,
+    "name": "Manuel Pamić",
+    "overall": 67,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198117,
+    "name": "Alessandro Bernardini",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199517,
+    "name": "Claiton Machado dos Santos",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188334,
+    "name": "Fabrizio Cacciatore",
+    "overall": 67,
+    "roles": [
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 197777,
+    "name": "Jacopo Sala",
+    "overall": 67,
+    "roles": [
+      "ED",
+      "CC",
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 178328,
+    "name": "Renan Fernandes Garcia",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 199085,
+    "name": "Fernando Rui V. Pinto Sampaio",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205934,
+    "name": "Nicola Murru",
+    "overall": 67,
+    "roles": [
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188017,
+    "name": "Alberto Pomini",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138901,
+    "name": "Michele Ferri",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205654,
+    "name": "Moussa Kone",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 138971,
+    "name": "Nicola Pavarini",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186604,
+    "name": "Lys Gomis",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215466,
+    "name": "Nikola Maksimović",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220128,
+    "name": "Jonathan Cristaldo",
+    "overall": 66,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190745,
+    "name": "Marco Silvestri",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 186607,
+    "name": "Daniele Ragatzu",
+    "overall": 66,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 189751,
+    "name": "Mirko Eramo",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190090,
+    "name": "Savvas Gentsoglou",
+    "overall": 66,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193686,
+    "name": "Vasco Regini",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "ES",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 123620,
+    "name": "Giuseppe Gemiti",
+    "overall": 66,
+    "roles": [
+      "ES",
+      "TS",
+      "ASA"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 140468,
+    "name": "Luca Anania",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 208535,
+    "name": "Alfred Duncan",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 192638,
+    "name": "Marcos Alonso Mendoza",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219985,
+    "name": "Matias Vecino",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220018,
+    "name": "Ante Rebić",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211321,
+    "name": "Moussa Konaté",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149185,
+    "name": "Francesco Magnanelli",
+    "overall": 66,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204254,
+    "name": "Wallace Oliveira dos Santos",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 158718,
+    "name": "Roberto Colombo",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211671,
+    "name": "Josip Radošević",
+    "overall": 65,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212198,
+    "name": "Bruno Fernandes",
+    "overall": 65,
+    "roles": [
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 27971,
+    "name": "Alessandro Agostini",
+    "overall": 65,
+    "roles": [
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205363,
+    "name": "Matteo Bianchetti",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193361,
+    "name": "Roberto Soriano",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "COC",
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184328,
+    "name": "Gabriele Perico",
+    "overall": 65,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210648,
+    "name": "Ahmed Hegazy",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201179,
+    "name": "Antonio Donnarumma",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 188031,
+    "name": "Gaetano Masucci",
+    "overall": 65,
+    "roles": [
+      "AD",
+      "AT",
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212944,
+    "name": "José Cevallos",
+    "overall": 64,
+    "roles": [
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 213957,
+    "name": "Luca Crecco",
+    "overall": 64,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215785,
+    "name": "Balde Diao Keita",
+    "overall": 64,
+    "roles": [
+      "ATT",
+      "AS",
+      "ES",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172685,
+    "name": "José Ángel Crespo Rincón",
+    "overall": 64,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211250,
+    "name": "Uros Radakovic",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 198080,
+    "name": "Boadu Maxwell Acosty",
+    "overall": 64,
+    "roles": [
+      "ED",
+      "AS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 46807,
+    "name": "Paolo Castellini",
+    "overall": 64,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201389,
+    "name": "Cristiano Biraghi",
+    "overall": 64,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201560,
+    "name": "Daniane Jawad",
+    "overall": 64,
+    "roles": [
+      "AD",
+      "AS",
+      "COC",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 137206,
+    "name": "Paolo Bianco",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 190499,
+    "name": "Karim Laribi",
+    "overall": 64,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205720,
+    "name": "Alessandro Longhi",
+    "overall": 64,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 208427,
+    "name": "Luca Milesi",
+    "overall": 63,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 203967,
+    "name": "Lorenzo Tassi",
+    "overall": 63,
+    "roles": [
+      "COC",
+      "AT",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215777,
+    "name": "Mamadou Tounkara",
+    "overall": 63,
+    "roles": [
+      "AD",
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215797,
+    "name": "Milos Antic",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 184331,
+    "name": "Michelangelo Albertazzi",
+    "overall": 63,
+    "roles": [
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 193645,
+    "name": "Davide Gavazzi",
+    "overall": 63,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206396,
+    "name": "Agim Ibraimi",
+    "overall": 63,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219473,
+    "name": "Werther Carboni",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210964,
+    "name": "Federico Ceccherini",
+    "overall": 63,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211574,
+    "name": "Marko Bakić",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 149270,
+    "name": "Carl Valeri",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 172695,
+    "name": "Lino Marzorati",
+    "overall": 63,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205691,
+    "name": "Raffaele Pucino",
+    "overall": 63,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205407,
+    "name": "Daniele Baselli",
+    "overall": 62,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216578,
+    "name": "Constantin Nica",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215805,
+    "name": "Riccardo Serpieri",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210428,
+    "name": "Pavol Bajza",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212324,
+    "name": "Filip Janković",
+    "overall": 62,
+    "roles": [
+      "COC",
+      "CC",
+      "ED",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220489,
+    "name": "Filippo Scaglia",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 197971,
+    "name": "Denis Alibec",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210833,
+    "name": "Riccardo Improta",
+    "overall": 62,
+    "roles": [
+      "AD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215452,
+    "name": "Victor Da Silva",
+    "overall": 62,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211067,
+    "name": "Dario Del Fabro",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 194716,
+    "name": "Alessandro Lambrughi",
+    "overall": 62,
+    "roles": [
+      "ES",
+      "DC",
+      "TS"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 201939,
+    "name": "Cristiano Piccini",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210320,
+    "name": "Ibrahima Mbaye",
+    "overall": 62,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219584,
+    "name": "Luca Lezzerini",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205554,
+    "name": "Lukas Zima",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 183188,
+    "name": "Marcello Gazzola",
+    "overall": 62,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220478,
+    "name": "Federico Varano",
+    "overall": 61,
+    "roles": [
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 203399,
+    "name": "Ouasim Bouy",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212151,
+    "name": "Thomas Strakosha",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 208268,
+    "name": "Bryan Cristante",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 200904,
+    "name": "Davide Bariti",
+    "overall": 61,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219984,
+    "name": "Mattia Aramu",
+    "overall": 61,
+    "roles": [
+      "ES"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220490,
+    "name": "Alberto Rosa Gastaldo",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220052,
+    "name": "Igor Bubnjić",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210393,
+    "name": "Abdallah Yaisien",
+    "overall": 61,
+    "roles": [
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205496,
+    "name": "David Nicolas Andrade",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 214046,
+    "name": "Jonny Mosquera",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220061,
+    "name": "Norbert Gyömbér",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206109,
+    "name": "Raman Chibsah",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220477,
+    "name": "Mattia Caldara",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215766,
+    "name": "Lorenzo Filippini",
+    "overall": 60,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215787,
+    "name": "Gianluca Pollace",
+    "overall": 60,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219998,
+    "name": "José Mauri",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219983,
+    "name": "Umberto Saracco",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205759,
+    "name": "Dejan Stojanovic",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220512,
+    "name": "Riccardo Benatti",
+    "overall": 60,
+    "roles": [
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220502,
+    "name": "Mattia Zaccagni",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 213323,
+    "name": "Saulo Decarli",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216037,
+    "name": "Nahuel Valentini",
+    "overall": 60,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219970,
+    "name": "Kingsley Boateng",
+    "overall": 60,
+    "roles": [
+      "AD",
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220044,
+    "name": "Erick Cabalceta",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 202135,
+    "name": "Stefano Sturaro",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 208626,
+    "name": "Said Ahmed Said",
+    "overall": 60,
+    "roles": [
+      "ATT",
+      "AD",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205529,
+    "name": "Luca Antei",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220475,
+    "name": "Alberto Grassi",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220476,
+    "name": "Joakim Olausson",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211322,
+    "name": "Joel Untersee",
+    "overall": 59,
+    "roles": [
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211323,
+    "name": "Pol Tena Garcia",
+    "overall": 59,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220462,
+    "name": "Matteo Gerbaudo",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220049,
+    "name": "Maks Barisic",
+    "overall": 59,
+    "roles": [
+      "AD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220500,
+    "name": "Francesco Silipo",
+    "overall": 59,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220494,
+    "name": "Marco Sordi",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220496,
+    "name": "Lorenzo Coccolo",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 214675,
+    "name": "Simone Aldrovandi",
+    "overall": 59,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220501,
+    "name": "Alessandro Gatto",
+    "overall": 59,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220504,
+    "name": "Daniele Borra",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 168393,
+    "name": "Gabriele Aldegani",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219895,
+    "name": "Alberto Aladje Gomes De Pina",
+    "overall": 59,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220481,
+    "name": "Lorenzo Paramatti",
+    "overall": 58,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220465,
+    "name": "Edoardo Ceria",
+    "overall": 58,
+    "roles": [
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206053,
+    "name": "Davide Marsura",
+    "overall": 58,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220488,
+    "name": "Filippo Costa",
+    "overall": 58,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206150,
+    "name": "Michele Chelo",
+    "overall": 58,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220485,
+    "name": "Matteo Saias",
+    "overall": 58,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220486,
+    "name": "Alessandro Masia",
+    "overall": 58,
+    "roles": [
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220032,
+    "name": "Giuseppe Ficara",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210940,
+    "name": "Simone Perilli",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220130,
+    "name": "Daniele Vacondio",
+    "overall": 58,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220144,
+    "name": "Davide Lodesani",
+    "overall": 58,
+    "roles": [
+      "AD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220460,
+    "name": "Leonardo Citti",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220461,
+    "name": "Luca Barlocco",
+    "overall": 57,
+    "roles": [
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220498,
+    "name": "Davide Mazzocco",
+    "overall": 57,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220492,
+    "name": "Luca Cargnino",
+    "overall": 57,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220493,
+    "name": "Antonio Barreca",
+    "overall": 57,
+    "roles": [
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220495,
+    "name": "Giovanni Graziano",
+    "overall": 57,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220048,
+    "name": "Simone Scuffet",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206628,
+    "name": "Adrián Calello",
+    "overall": 57,
+    "roles": [
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220503,
+    "name": "Fabio Alba",
+    "overall": 57,
+    "roles": [
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220505,
+    "name": "Filippo Boni",
+    "overall": 57,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215689,
+    "name": "Andrea Petagna",
+    "overall": 57,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220483,
+    "name": "Michele Suella",
+    "overall": 57,
+    "roles": [
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220484,
+    "name": "Alberto Atzori",
+    "overall": 57,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220514,
+    "name": "Simone Brugaletta",
+    "overall": 57,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219589,
+    "name": "Michael Ventre",
+    "overall": 56,
+    "roles": [
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220480,
+    "name": "Leonardo Longo",
+    "overall": 56,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219591,
+    "name": "Stefan Simic",
+    "overall": 56,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220499,
+    "name": "Leonardo Dias Consulin",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220513,
+    "name": "Federico Ricci",
+    "overall": 56,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220491,
+    "name": "Emmanuel Gyasi",
+    "overall": 56,
+    "roles": [
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220497,
+    "name": "Stefano Ignico",
+    "overall": 56,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212512,
+    "name": "Marco Russu",
+    "overall": 56,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220487,
+    "name": "Mohamed Mbow",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212505,
+    "name": "Saverio Madrigali",
+    "overall": 56,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220065,
+    "name": "Ettore Gliozzi",
+    "overall": 56,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220134,
+    "name": "Eros Castelletto",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220479,
+    "name": "Patrick Olsen",
+    "overall": 55,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220517,
+    "name": "Francesco Di Mariano",
+    "overall": 55,
+    "roles": [
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219852,
+    "name": "Alex Ferrari",
+    "overall": 55,
+    "roles": [
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210673,
+    "name": "Idriz Toskic",
+    "overall": 55,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 204437,
+    "name": "Andrea Tozzo",
+    "overall": 55,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 206074,
+    "name": "Michele Fornasier",
+    "overall": 55,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215173,
+    "name": "Federico Freire",
+    "overall": 55,
+    "roles": [
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 215455,
+    "name": "Bruno Petkovic",
+    "overall": 55,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219588,
+    "name": "Jami Rafati",
+    "overall": 55,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 212445,
+    "name": "Isaac Donkor",
+    "overall": 54,
+    "roles": [
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220510,
+    "name": "Vahid Hambo",
+    "overall": 54,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 210548,
+    "name": "Leonardo Capezzi",
+    "overall": 54,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220509,
+    "name": "Lorenzo Venuti",
+    "overall": 54,
+    "roles": [
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 213829,
+    "name": "Alberto Cerri",
+    "overall": 53,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 205709,
+    "name": "Lorenzo Marchionni",
+    "overall": 53,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219474,
+    "name": "Andrea Demontis",
+    "overall": 53,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219590,
+    "name": "Tiberio Velocci",
+    "overall": 53,
+    "roles": [
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 220521,
+    "name": "Mihai Balasa",
+    "overall": 51,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 211377,
+    "name": "Marco Maini",
+    "overall": 51,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 214676,
+    "name": "Tommaso Biasci",
+    "overall": 51,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 219592,
+    "name": "Allan Blaze",
+    "overall": 51,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2014"
+  },
+  {
+    "player_id": 216065,
+    "name": "Marco Sportiello",
+    "overall": 49,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2014"
+  }
+]

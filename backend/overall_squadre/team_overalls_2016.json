@@ -1,0 +1,2021 @@
+[
+  {
+    "team": "Torino Bianconera",
+    "players_count": 31,
+    "avg_overall": 77.35,
+    "best_11_avg_overall": 83.64,
+    "best_players": [
+      {
+        "player_id": 138956,
+        "name": "Giorgio Chiellini",
+        "overall": 87,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 195864,
+        "name": "Paul Pogba",
+        "overall": 86,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 1179,
+        "name": "Gianluigi Buffon",
+        "overall": 84,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 137186,
+        "name": "Andrea Barzagli",
+        "overall": 84,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 173210,
+        "name": "Claudio Marchisio",
+        "overall": 84,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 179846,
+        "name": "Sami Khedira",
+        "overall": 83,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 181783,
+        "name": "Mario Mandžukić",
+        "overall": 83,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 184344,
+        "name": "Leonardo Bonucci",
+        "overall": 83,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 108080,
+        "name": "Stephan Lichtsteiner",
+        "overall": 82,
+        "roles": [
+          "TD",
+          "ED"
+        ]
+      },
+      {
+        "player_id": 191043,
+        "name": "Alex Sandro Lobo Silva",
+        "overall": 82,
+        "roles": [
+          "TS"
+        ]
+      },
+      {
+        "player_id": 193082,
+        "name": "Juan Cuadrado",
+        "overall": 82,
+        "roles": [
+          "ED",
+          "ATT",
+          "ES"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Roma Capitolina",
+    "players_count": 31,
+    "avg_overall": 75.16,
+    "best_11_avg_overall": 81.36,
+    "best_players": [
+      {
+        "player_id": 180206,
+        "name": "Miralem Pjanić",
+        "overall": 84,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 53302,
+        "name": "Daniele De Rossi",
+        "overall": 83,
+        "roles": [
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 178518,
+        "name": "Radja Nainggolan",
+        "overall": 83,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 172610,
+        "name": "Leandro Castán da Silva",
+        "overall": 82,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 192774,
+        "name": "Kostas Manolas",
+        "overall": 82,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 180930,
+        "name": "Edin Džeko",
+        "overall": 81,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 1238,
+        "name": "Francesco Totti",
+        "overall": 80,
+        "roles": [
+          "AT",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 135455,
+        "name": "Maicon Douglas Sisenando",
+        "overall": 80,
+        "roles": [
+          "TD"
+        ]
+      },
+      {
+        "player_id": 170733,
+        "name": "Gervais Yao Kouassi",
+        "overall": 80,
+        "roles": [
+          "AS",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 189712,
+        "name": "Kevin Strootman",
+        "overall": 80,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 209331,
+        "name": "Mohamed Salah",
+        "overall": 80,
+        "roles": [
+          "AD"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Milano Nerazzurra",
+    "players_count": 33,
+    "avg_overall": 73.85,
+    "best_11_avg_overall": 80.91,
+    "best_players": [
+      {
+        "player_id": 168609,
+        "name": "João Miranda de Souza Filho",
+        "overall": 84,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 140601,
+        "name": "Nemanja Vidić",
+        "overall": 83,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 162835,
+        "name": "Samir Handanovič",
+        "overall": 83,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 181458,
+        "name": "Ivan Perišić",
+        "overall": 81,
+        "roles": [
+          "ES",
+          "ED"
+        ]
+      },
+      {
+        "player_id": 181820,
+        "name": "Stevan Jovetić",
+        "overall": 81,
+        "roles": [
+          "ATT",
+          "COC"
+        ]
+      },
+      {
+        "player_id": 193532,
+        "name": "Gary Medel",
+        "overall": 81,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 152999,
+        "name": "Rodrigo Palacio",
+        "overall": 80,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 169051,
+        "name": "Fredy Guarín",
+        "overall": 80,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 135475,
+        "name": "Felipe Melo de Carvalho",
+        "overall": 79,
+        "roles": [
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 190544,
+        "name": "Adem Ljajić",
+        "overall": 79,
+        "roles": [
+          "AS",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 194644,
+        "name": "Martín Montoya Torralbo",
+        "overall": 79,
+        "roles": [
+          "TD"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Lazio",
+    "players_count": 30,
+    "avg_overall": 75.23,
+    "best_11_avg_overall": 80.73,
+    "best_players": [
+      {
+        "player_id": 173221,
+        "name": "Antonio Candreva",
+        "overall": 83,
+        "roles": [
+          "AD"
+        ]
+      },
+      {
+        "player_id": 158963,
+        "name": "Lucas Biglia",
+        "overall": 82,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 198176,
+        "name": "Stefan de Vrij",
+        "overall": 82,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 11141,
+        "name": "Miroslav Klose",
+        "overall": 81,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 183498,
+        "name": "Marco Parolo",
+        "overall": 81,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 51100,
+        "name": "Stefano Mauri",
+        "overall": 80,
+        "roles": [
+          "COC",
+          "AS",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 139668,
+        "name": "Federico Marchetti",
+        "overall": 80,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 167514,
+        "name": "Dušan Basta",
+        "overall": 80,
+        "roles": [
+          "TD",
+          "ED"
+        ]
+      },
+      {
+        "player_id": 186524,
+        "name": "Filip Djordjevic",
+        "overall": 80,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 187324,
+        "name": "Maurício Santos Nascimento",
+        "overall": 80,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 165109,
+        "name": "Stefan Radu",
+        "overall": 79,
+        "roles": [
+          "TS"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Napoli",
+    "players_count": 27,
+    "avg_overall": 76.33,
+    "best_11_avg_overall": 80.64,
+    "best_players": [
+      {
+        "player_id": 167664,
+        "name": "Gonzalo Higuaín",
+        "overall": 84,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 171877,
+        "name": "Marek Hamšik",
+        "overall": 83,
+        "roles": [
+          "COC"
+        ]
+      },
+      {
+        "player_id": 175943,
+        "name": "Dries Mertens",
+        "overall": 82,
+        "roles": [
+          "COC",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 157481,
+        "name": "Raúl Albiol Tortajada",
+        "overall": 81,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 185020,
+        "name": "José María Callejón Bueno",
+        "overall": 81,
+        "roles": [
+          "COC"
+        ]
+      },
+      {
+        "player_id": 198219,
+        "name": "Lorenzo Insigne",
+        "overall": 81,
+        "roles": [
+          "COC",
+          "AT"
+        ]
+      },
+      {
+        "player_id": 199914,
+        "name": "Allan Marques Loureiro",
+        "overall": 81,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 24630,
+        "name": "José Manuel Reina Páez",
+        "overall": 80,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 198683,
+        "name": "Manolo Gabbiadini",
+        "overall": 78,
+        "roles": [
+          "COC",
+          "AT",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 201024,
+        "name": "Kalidou Koulibaly",
+        "overall": 78,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 201454,
+        "name": "Faouzi Ghoulam",
+        "overall": 78,
+        "roles": [
+          "TS"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Milano Rossonera",
+    "players_count": 29,
+    "avg_overall": 75.69,
+    "best_11_avg_overall": 80.09,
+    "best_players": [
+      {
+        "player_id": 146748,
+        "name": "Diego López Rodríguez",
+        "overall": 82,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 207664,
+        "name": "Carlos Bacca",
+        "overall": 82,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 53578,
+        "name": "Nigel de Jong",
+        "overall": 81,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 136130,
+        "name": "Alex Rodrigo Dias da Costa",
+        "overall": 81,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 160766,
+        "name": "Jérémy Ménez",
+        "overall": 81,
+        "roles": [
+          "AT",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 159287,
+        "name": "Riccardo Montolivo",
+        "overall": 80,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 186627,
+        "name": "Mario Balotelli",
+        "overall": 80,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 41635,
+        "name": "Philippe Mexès",
+        "overall": 79,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 180826,
+        "name": "Luiz Adriano Souza da Silva",
+        "overall": 79,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 168312,
+        "name": "Ignazio Abate",
+        "overall": 78,
+        "roles": [
+          "TD"
+        ]
+      },
+      {
+        "player_id": 177983,
+        "name": "Cristian Zapata",
+        "overall": 78,
+        "roles": [
+          "DC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Firenze Viola",
+    "players_count": 27,
+    "avg_overall": 73.67,
+    "best_11_avg_overall": 78.73,
+    "best_players": [
+      {
+        "player_id": 161956,
+        "name": "Borja Valero Iglesias",
+        "overall": 82,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 142780,
+        "name": "Gonzalo Rodríguez",
+        "overall": 80,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 162409,
+        "name": "Giuseppe Rossi",
+        "overall": 80,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 164994,
+        "name": "Jakub Błaszczykowski",
+        "overall": 80,
+        "roles": [
+          "ED"
+        ]
+      },
+      {
+        "player_id": 171018,
+        "name": "Mario Suárez Mata",
+        "overall": 79,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 173198,
+        "name": "Davide Astori",
+        "overall": 79,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 200647,
+        "name": "Josip Iličić",
+        "overall": 78,
+        "roles": [
+          "AT",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 147004,
+        "name": "Joan Verdú Fernández",
+        "overall": 77,
+        "roles": [
+          "COC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 154634,
+        "name": "Manuel Pasqual",
+        "overall": 77,
+        "roles": [
+          "TS",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 174549,
+        "name": "Matías Fernández",
+        "overall": 77,
+        "roles": [
+          "CC",
+          "COC"
+        ]
+      },
+      {
+        "player_id": 201144,
+        "name": "Milan Badelj",
+        "overall": 77,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Torino Granata",
+    "players_count": 29,
+    "avg_overall": 73.38,
+    "best_11_avg_overall": 77.82,
+    "best_players": [
+      {
+        "player_id": 190547,
+        "name": "Kamil Glik",
+        "overall": 82,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 215466,
+        "name": "Nikola Maksimović",
+        "overall": 80,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 159261,
+        "name": "Fabio Quagliarella",
+        "overall": 79,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 210282,
+        "name": "Bruno da Silva Peres",
+        "overall": 79,
+        "roles": [
+          "ADA"
+        ]
+      },
+      {
+        "player_id": 46736,
+        "name": "Emiliano Moretti",
+        "overall": 78,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 205407,
+        "name": "Daniele Baselli",
+        "overall": 78,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 137378,
+        "name": "Alessandro Gazzi",
+        "overall": 77,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 138806,
+        "name": "Maxi López",
+        "overall": 77,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 162297,
+        "name": "Daniele Padelli",
+        "overall": 76,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 105866,
+        "name": "Cesare Bovo",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 149064,
+        "name": "Cristian Molinaro",
+        "overall": 75,
+        "roles": [
+          "ASA",
+          "ES"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Genova Rossoblu",
+    "players_count": 33,
+    "avg_overall": 69.61,
+    "best_11_avg_overall": 77.09,
+    "best_players": [
+      {
+        "player_id": 198009,
+        "name": "Mattia Perin",
+        "overall": 81,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 173306,
+        "name": "Cristian Ansaldi",
+        "overall": 79,
+        "roles": [
+          "TS"
+        ]
+      },
+      {
+        "player_id": 183900,
+        "name": "Diego Perotti",
+        "overall": 79,
+        "roles": [
+          "AS",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 138704,
+        "name": "Issa Cissokho",
+        "overall": 77,
+        "roles": [
+          "TD"
+        ]
+      },
+      {
+        "player_id": 188791,
+        "name": "Alberto Costa",
+        "overall": 77,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 204401,
+        "name": "Diogo José Figueiras",
+        "overall": 77,
+        "roles": [
+          "TD"
+        ]
+      },
+      {
+        "player_id": 139038,
+        "name": "Nicolás Burdisso",
+        "overall": 76,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 171318,
+        "name": "Diego Capel Trinidad",
+        "overall": 76,
+        "roles": [
+          "ES",
+          "ED"
+        ]
+      },
+      {
+        "player_id": 182179,
+        "name": "Sebastian De Maio",
+        "overall": 76,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 137506,
+        "name": "Goran Pandev",
+        "overall": 75,
+        "roles": [
+          "COC",
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 169281,
+        "name": "Serge Gakpé",
+        "overall": 75,
+        "roles": [
+          "ED",
+          "ES",
+          "ATT"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Udine Bianconera",
+    "players_count": 31,
+    "avg_overall": 71.29,
+    "best_11_avg_overall": 76.45,
+    "best_players": [
+      {
+        "player_id": 120274,
+        "name": "Antonio Di Natale",
+        "overall": 79,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 166072,
+        "name": "Danilo Larangeira",
+        "overall": 78,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 183497,
+        "name": "Orestis Karnezis",
+        "overall": 78,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 188654,
+        "name": "Thomas Heurtaux",
+        "overall": 78,
+        "roles": [
+          "DC",
+          "TD"
+        ]
+      },
+      {
+        "player_id": 164985,
+        "name": "Cyril Théréau",
+        "overall": 77,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 215333,
+        "name": "Duván Zapata",
+        "overall": 76,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 51101,
+        "name": "Maurizio Domizzi",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 172882,
+        "name": "Panagiotis Kone",
+        "overall": 75,
+        "roles": [
+          "COC",
+          "AT",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 184704,
+        "name": "Marco Antônio de Mattos Filho",
+        "overall": 75,
+        "roles": [
+          "ED",
+          "CC",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 204032,
+        "name": "Edenílson Andrade dos Santos",
+        "overall": 75,
+        "roles": [
+          "ED",
+          "ES",
+          "TD"
+        ]
+      },
+      {
+        "player_id": 204977,
+        "name": "Iván Piris",
+        "overall": 75,
+        "roles": [
+          "DC",
+          "TS",
+          "TD"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Sampdoria",
+    "players_count": 30,
+    "avg_overall": 70.23,
+    "best_11_avg_overall": 76.36,
+    "best_players": [
+      {
+        "player_id": 7631,
+        "name": "Antonio Cassano",
+        "overall": 81,
+        "roles": [
+          "AT"
+        ]
+      },
+      {
+        "player_id": 178311,
+        "name": "Eder Citadin Martins",
+        "overall": 79,
+        "roles": [
+          "AS",
+          "AT"
+        ]
+      },
+      {
+        "player_id": 168354,
+        "name": "Emiliano Viviano",
+        "overall": 78,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 170320,
+        "name": "Lorenzo De Silvestri",
+        "overall": 77,
+        "roles": [
+          "TD"
+        ]
+      },
+      {
+        "player_id": 152922,
+        "name": "Edgar Barreto",
+        "overall": 76,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 202642,
+        "name": "Fernando Lucas Martins",
+        "overall": 76,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 137380,
+        "name": "Mattia Cassani",
+        "overall": 75,
+        "roles": [
+          "TD",
+          "DC"
+        ]
+      },
+      {
+        "player_id": 172862,
+        "name": "Niklas Moisander",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 178115,
+        "name": "Lazaros Christodoulopoulos",
+        "overall": 75,
+        "roles": [
+          "CC",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 159028,
+        "name": "Matías Silvestre",
+        "overall": 74,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 193361,
+        "name": "Roberto Soriano",
+        "overall": 74,
+        "roles": [
+          "COC",
+          "CC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Bergamo Calcio",
+    "players_count": 28,
+    "avg_overall": 71.36,
+    "best_11_avg_overall": 75.91,
+    "best_players": [
+      {
+        "player_id": 165526,
+        "name": "Gabriel Paletta",
+        "overall": 79,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 142938,
+        "name": "Germán Denis",
+        "overall": 78,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 173146,
+        "name": "Luca Cigarini",
+        "overall": 78,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 202061,
+        "name": "Jasmin Kurtić",
+        "overall": 76,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 113045,
+        "name": "Mauricio Pinilla",
+        "overall": 75,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 143076,
+        "name": "Alejandro Gómez",
+        "overall": 75,
+        "roles": [
+          "ES"
+        ]
+      },
+      {
+        "player_id": 149147,
+        "name": "Guglielmo Stendardo",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 168799,
+        "name": "Boukary Dramé",
+        "overall": 75,
+        "roles": [
+          "TS",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 183895,
+        "name": "Maximiliano Moralez",
+        "overall": 75,
+        "roles": [
+          "AT",
+          "COC",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 216065,
+        "name": "Marco Sportiello",
+        "overall": 75,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 163490,
+        "name": "Michele Canini",
+        "overall": 74,
+        "roles": [
+          "DC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Chievo",
+    "players_count": 30,
+    "avg_overall": 70.97,
+    "best_11_avg_overall": 75.55,
+    "best_players": [
+      {
+        "player_id": 5213,
+        "name": "Alessandro Gamberini",
+        "overall": 77,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 139274,
+        "name": "Boštjan Cesar",
+        "overall": 77,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 186961,
+        "name": "Alberto Paloschi",
+        "overall": 77,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 103936,
+        "name": "Simone Pepe",
+        "overall": 76,
+        "roles": [
+          "ED",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 172233,
+        "name": "Perparim Hetemaj",
+        "overall": 76,
+        "roles": [
+          "ES",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 187858,
+        "name": "Paul-José Mpoku",
+        "overall": 76,
+        "roles": [
+          "ES",
+          "COC"
+        ]
+      },
+      {
+        "player_id": 7647,
+        "name": "Dario Dainelli",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 176104,
+        "name": "Valter Birsa",
+        "overall": 75,
+        "roles": [
+          "ED",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 14907,
+        "name": "Albano Bizzarri",
+        "overall": 74,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 165490,
+        "name": "Mariano Izco",
+        "overall": 74,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 188506,
+        "name": "Riccardo Meggiorini",
+        "overall": 74,
+        "roles": [
+          "ATT"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Bologna",
+    "players_count": 33,
+    "avg_overall": 69.42,
+    "best_11_avg_overall": 75.36,
+    "best_players": [
+      {
+        "player_id": 183870,
+        "name": "Anthony Mounier",
+        "overall": 78,
+        "roles": [
+          "AS",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 193338,
+        "name": "Mattia Destro",
+        "overall": 78,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 140293,
+        "name": "Antonio Mirante",
+        "overall": 77,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 192841,
+        "name": "Emanuele Giaccherini",
+        "overall": 76,
+        "roles": [
+          "ES",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 137199,
+        "name": "Franco Brienza",
+        "overall": 75,
+        "roles": [
+          "COC",
+          "AT"
+        ]
+      },
+      {
+        "player_id": 137410,
+        "name": "Daniele Gastaldello",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 185163,
+        "name": "Luca Rossettini",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 198760,
+        "name": "Saphir Taïder",
+        "overall": 75,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 216523,
+        "name": "Marios Oikonomou",
+        "overall": 74,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 190575,
+        "name": "Franco Zuculini",
+        "overall": 73,
+        "roles": [
+          "CC",
+          "ED"
+        ]
+      },
+      {
+        "player_id": 197926,
+        "name": "Lorenzo Crisetig",
+        "overall": 73,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Verona Gialloblu",
+    "players_count": 26,
+    "avg_overall": 70.96,
+    "best_11_avg_overall": 75.27,
+    "best_players": [
+      {
+        "player_id": 23015,
+        "name": "Luca Toni",
+        "overall": 77,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 133249,
+        "name": "Emil Hallfreðsson",
+        "overall": 77,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 137361,
+        "name": "Giampaolo Pazzini",
+        "overall": 77,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 150035,
+        "name": "Vangelis Moras",
+        "overall": 76,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 193839,
+        "name": "Rômulo Souza Orestes Caldeira",
+        "overall": 76,
+        "roles": [
+          "CC",
+          "TD"
+        ]
+      },
+      {
+        "player_id": 26709,
+        "name": "Rafael Márquez",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 140082,
+        "name": "Rafael Pinheiro Andrade Bittencourt",
+        "overall": 75,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 178604,
+        "name": "Boško Janković",
+        "overall": 75,
+        "roles": [
+          "AS",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 203671,
+        "name": "Juan Ignacio Gomez",
+        "overall": 74,
+        "roles": [
+          "AD",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 144511,
+        "name": "Leandro Greco",
+        "overall": 73,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 188949,
+        "name": "Luca Siligardi",
+        "overall": 73,
+        "roles": [
+          "AD",
+          "AT"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Palermo",
+    "players_count": 29,
+    "avg_overall": 69.07,
+    "best_11_avg_overall": 74.91,
+    "best_players": [
+      {
+        "player_id": 207471,
+        "name": "Franco Vázquez",
+        "overall": 79,
+        "roles": [
+          "AT",
+          "COC"
+        ]
+      },
+      {
+        "player_id": 49031,
+        "name": "Stefano Sorrentino",
+        "overall": 77,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 208379,
+        "name": "Giancarlo González",
+        "overall": 77,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 10863,
+        "name": "Enzo Maresca",
+        "overall": 75,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 138918,
+        "name": "Luca Rigoni",
+        "overall": 75,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 138920,
+        "name": "Roberto Vitiello",
+        "overall": 75,
+        "roles": [
+          "DC",
+          "TD"
+        ]
+      },
+      {
+        "player_id": 202058,
+        "name": "Siniša Anđelković",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 5879,
+        "name": "Alberto Gilardino",
+        "overall": 74,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 188145,
+        "name": "Abdelhamid El Kaoutari",
+        "overall": 73,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 188076,
+        "name": "Francesco Bolzoni",
+        "overall": 72,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 192612,
+        "name": "Mato Jajalo",
+        "overall": 72,
+        "roles": [
+          "CC",
+          "CDC",
+          "COC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Sassuolo",
+    "players_count": 27,
+    "avg_overall": 70.33,
+    "best_11_avg_overall": 74.82,
+    "best_players": [
+      {
+        "player_id": 210935,
+        "name": "Domenico Berardi",
+        "overall": 80,
+        "roles": [
+          "AD",
+          "AT"
+        ]
+      },
+      {
+        "player_id": 163489,
+        "name": "Andrea Consigli",
+        "overall": 79,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 1178,
+        "name": "Paolo Cannavaro",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 199845,
+        "name": "Francesco Acerbi",
+        "overall": 75,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 201858,
+        "name": "Nicola Sansone",
+        "overall": 75,
+        "roles": [
+          "AS",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 202851,
+        "name": "Gregoire Defrel",
+        "overall": 75,
+        "roles": [
+          "AT",
+          "ES",
+          "AD"
+        ]
+      },
+      {
+        "player_id": 203890,
+        "name": "Šime Vrsaljko",
+        "overall": 75,
+        "roles": [
+          "TD",
+          "ED"
+        ]
+      },
+      {
+        "player_id": 169386,
+        "name": "Sergio Floccari",
+        "overall": 73,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 34824,
+        "name": "Antonio Floro Flores",
+        "overall": 72,
+        "roles": [
+          "AS",
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 106795,
+        "name": "Gianluca Pegolo",
+        "overall": 72,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 176553,
+        "name": "Simone Missiroli",
+        "overall": 72,
+        "roles": [
+          "CC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Carpi",
+    "players_count": 30,
+    "avg_overall": 69.37,
+    "best_11_avg_overall": 73.55,
+    "best_players": [
+      {
+        "player_id": 171830,
+        "name": "Nicolás Spolli",
+        "overall": 76,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 195090,
+        "name": "Željko Brkić",
+        "overall": 75,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 49617,
+        "name": "Cristian Zaccardo",
+        "overall": 74,
+        "roles": [
+          "DC",
+          "TD"
+        ]
+      },
+      {
+        "player_id": 123576,
+        "name": "Marco Borriello",
+        "overall": 74,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 201363,
+        "name": "Ryder Matos Santos",
+        "overall": 74,
+        "roles": [
+          "AT",
+          "COC"
+        ]
+      },
+      {
+        "player_id": 198908,
+        "name": "Isaac Cofie",
+        "overall": 73,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 200882,
+        "name": "Jerry Mbakogu",
+        "overall": 73,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 216079,
+        "name": "Antonio Di Gaudio",
+        "overall": 73,
+        "roles": [
+          "ES",
+          "AS"
+        ]
+      },
+      {
+        "player_id": 220052,
+        "name": "Igor Bubnjić",
+        "overall": 73,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 163491,
+        "name": "Andrea Lazzari",
+        "overall": 72,
+        "roles": [
+          "CDC",
+          "CC"
+        ]
+      },
+      {
+        "player_id": 194753,
+        "name": "Luca Marrone",
+        "overall": 72,
+        "roles": [
+          "CC",
+          "CDC",
+          "DC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Empoli",
+    "players_count": 27,
+    "avg_overall": 68.41,
+    "best_11_avg_overall": 73.27,
+    "best_players": [
+      {
+        "player_id": 201049,
+        "name": "Lorenzo Tonelli",
+        "overall": 77,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 204614,
+        "name": "Mário Rui Silva Duarte",
+        "overall": 76,
+        "roles": [
+          "TS"
+        ]
+      },
+      {
+        "player_id": 137406,
+        "name": "Daniele Croce",
+        "overall": 75,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 178042,
+        "name": "Andrea Costa",
+        "overall": 74,
+        "roles": [
+          "DC",
+          "TS"
+        ]
+      },
+      {
+        "player_id": 201046,
+        "name": "Riccardo Saponara",
+        "overall": 74,
+        "roles": [
+          "COC"
+        ]
+      },
+      {
+        "player_id": 51730,
+        "name": "Massimo Maccarone",
+        "overall": 73,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 205735,
+        "name": "Manuel Pucciarelli",
+        "overall": 73,
+        "roles": [
+          "AT",
+          "COC"
+        ]
+      },
+      {
+        "player_id": 189908,
+        "name": "Łukasz Skorupski",
+        "overall": 71,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 207439,
+        "name": "Leandro Paredes",
+        "overall": 71,
+        "roles": [
+          "CC"
+        ]
+      },
+      {
+        "player_id": 210406,
+        "name": "Piotr Zieliński",
+        "overall": 71,
+        "roles": [
+          "COC",
+          "AT"
+        ]
+      },
+      {
+        "player_id": 211557,
+        "name": "Federico Barba",
+        "overall": 71,
+        "roles": [
+          "DC"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "Frosinone",
+    "players_count": 28,
+    "avg_overall": 66.75,
+    "best_11_avg_overall": 70.45,
+    "best_players": [
+      {
+        "player_id": 177643,
+        "name": "Modibo Diakité",
+        "overall": 76,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 173132,
+        "name": "Federico Dionisi",
+        "overall": 72,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 201299,
+        "name": "Nicola Leali",
+        "overall": 72,
+        "roles": [
+          "POR"
+        ]
+      },
+      {
+        "player_id": 208251,
+        "name": "Samuele Longo",
+        "overall": 72,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 212878,
+        "name": "Nicolás Castillo",
+        "overall": 71,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 190076,
+        "name": "Robert Gucher",
+        "overall": 70,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      },
+      {
+        "player_id": 178475,
+        "name": "Daniel Ciofani",
+        "overall": 69,
+        "roles": [
+          "ATT"
+        ]
+      },
+      {
+        "player_id": 203745,
+        "name": "Leonardo Blanchard",
+        "overall": 69,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 101904,
+        "name": "Alessandro Frara",
+        "overall": 68,
+        "roles": [
+          "CC",
+          "CDC",
+          "ES"
+        ]
+      },
+      {
+        "player_id": 137419,
+        "name": "Adriano Russo",
+        "overall": 68,
+        "roles": [
+          "DC"
+        ]
+      },
+      {
+        "player_id": 149572,
+        "name": "Paolo Sammarco",
+        "overall": 68,
+        "roles": [
+          "CC",
+          "CDC"
+        ]
+      }
+    ]
+  }
+]

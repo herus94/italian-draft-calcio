@@ -1,0 +1,6578 @@
+[
+  {
+    "player_id": 1179,
+    "name": "Gianluigi Buffon",
+    "overall": 88,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138956,
+    "name": "Giorgio Chiellini",
+    "overall": 88,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 167664,
+    "name": "Gonzalo Higuaín",
+    "overall": 88,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 162835,
+    "name": "Samir Handanovič",
+    "overall": 87,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 184344,
+    "name": "Leonardo Bonucci",
+    "overall": 87,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 168609,
+    "name": "João Miranda de Souza Filho",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137186,
+    "name": "Andrea Barzagli",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173210,
+    "name": "Claudio Marchisio",
+    "overall": 86,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 146530,
+    "name": "Daniel Alves da Silva",
+    "overall": 85,
+    "roles": [
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 180206,
+    "name": "Miralem Pjanić",
+    "overall": 85,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211110,
+    "name": "Paulo Dybala",
+    "overall": 85,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 171877,
+    "name": "Marek Hamšik",
+    "overall": 85,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178562,
+    "name": "Éver Banega",
+    "overall": 84,
+    "roles": [
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 191043,
+    "name": "Alex Sandro Lobo Silva",
+    "overall": 84,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207664,
+    "name": "Carlos Bacca",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 24630,
+    "name": "José Manuel Reina Páez",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178518,
+    "name": "Radja Nainggolan",
+    "overall": 84,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192774,
+    "name": "Kostas Manolas",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 150724,
+    "name": "Joe Hart",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 181458,
+    "name": "Ivan Perišić",
+    "overall": 83,
+    "roles": [
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193532,
+    "name": "Gary Medel",
+    "overall": 83,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212814,
+    "name": "João Mário Naval Costa Eduardo",
+    "overall": 83,
+    "roles": [
+      "ED",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 108080,
+    "name": "Stephan Lichtsteiner",
+    "overall": 83,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 177509,
+    "name": "Medhi Benatia",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 179846,
+    "name": "Sami Khedira",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 181783,
+    "name": "Mario Mandžukić",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 175943,
+    "name": "Dries Mertens",
+    "overall": 83,
+    "roles": [
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198219,
+    "name": "Lorenzo Insigne",
+    "overall": 83,
+    "roles": [
+      "AS",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 53302,
+    "name": "Daniele De Rossi",
+    "overall": 83,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 142780,
+    "name": "Gonzalo Rodríguez",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 161956,
+    "name": "Borja Valero Iglesias",
+    "overall": 83,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198009,
+    "name": "Mattia Perin",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 163489,
+    "name": "Andrea Consigli",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216065,
+    "name": "Marco Sportiello",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201399,
+    "name": "Mauro Icardi",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 52091,
+    "name": "Patrice Evra",
+    "overall": 82,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Cuadrado",
+    "overall": 82,
+    "roles": [
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 139668,
+    "name": "Federico Marchetti",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 158963,
+    "name": "Lucas Biglia",
+    "overall": 82,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198176,
+    "name": "Stefan de Vrij",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189125,
+    "name": "Giacomo Bonaventura",
+    "overall": 82,
+    "roles": [
+      "ES",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 157481,
+    "name": "Raúl Albiol Tortajada",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201024,
+    "name": "Kalidou Koulibaly",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203551,
+    "name": "Alessandro Florenzi",
+    "overall": 82,
+    "roles": [
+      "TD",
+      "AD",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183497,
+    "name": "Orestis Karnezis",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 168354,
+    "name": "Emiliano Viviano",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210935,
+    "name": "Domenico Berardi",
+    "overall": 82,
+    "roles": [
+      "AD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173221,
+    "name": "Antonio Candreva",
+    "overall": 81,
+    "roles": [
+      "AD",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 181820,
+    "name": "Stevan Jovetić",
+    "overall": 81,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183498,
+    "name": "Marco Parolo",
+    "overall": 81,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186581,
+    "name": "Keisuke Honda",
+    "overall": 81,
+    "roles": [
+      "ED",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 185020,
+    "name": "José María Callejón Bueno",
+    "overall": 81,
+    "roles": [
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198683,
+    "name": "Manolo Gabbiadini",
+    "overall": 81,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199914,
+    "name": "Allan Marques Loureiro",
+    "overall": 81,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205498,
+    "name": "Luiz Frello Filho Jorge",
+    "overall": 81,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215466,
+    "name": "Nikola Maksimović",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 157304,
+    "name": "Thomas Vermaelen",
+    "overall": 81,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189712,
+    "name": "Kevin Strootman",
+    "overall": 81,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190813,
+    "name": "Stephan El Shaarawy",
+    "overall": 81,
+    "roles": [
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 209331,
+    "name": "Mohamed Salah",
+    "overall": 81,
+    "roles": [
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210282,
+    "name": "Bruno da Silva Peres",
+    "overall": 81,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 140293,
+    "name": "Antonio Mirante",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173198,
+    "name": "Davide Astori",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199845,
+    "name": "Francesco Acerbi",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 143076,
+    "name": "Alejandro Gómez",
+    "overall": 80,
+    "roles": [
+      "AS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173306,
+    "name": "Cristian Ansaldi",
+    "overall": 80,
+    "roles": [
+      "TS",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178311,
+    "name": "Eder Citadin Martins",
+    "overall": 80,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201377,
+    "name": "Jeison Murillo",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 180432,
+    "name": "A. Hernanes de Carvalho A. Lima",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186832,
+    "name": "Kwadwo Asamoah",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 194404,
+    "name": "Norberto Murara Neto",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 167514,
+    "name": "Dušan Basta",
+    "overall": 80,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192387,
+    "name": "Ciro Immobile",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 143121,
+    "name": "José Sosa",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 1238,
+    "name": "Francesco Totti",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 180930,
+    "name": "Edin Džeko",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183900,
+    "name": "Diego Perotti",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212831,
+    "name": "Alisson Ramses Becker",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 172610,
+    "name": "Leandro Castán da Silva",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 49031,
+    "name": "Stefano Sorrentino",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201046,
+    "name": "Riccardo Saponara",
+    "overall": 80,
+    "roles": [
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 185431,
+    "name": "Nikola Kalinić",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 200647,
+    "name": "Josip Iličić",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 135475,
+    "name": "Felipe Melo de Carvalho",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 152999,
+    "name": "Rodrigo Palacio",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216352,
+    "name": "Marcelo Brozović",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211320,
+    "name": "Daniele Rugani",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 165109,
+    "name": "Ştefan Radu",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201995,
+    "name": "Felipe Anderson Pereira Gomes",
+    "overall": 79,
+    "roles": [
+      "AS",
+      "AD",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 174549,
+    "name": "Matías Fernández",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 180826,
+    "name": "Luiz Adriano Souza da Silva",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201049,
+    "name": "Lorenzo Tonelli",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201454,
+    "name": "Faouzi Ghoulam",
+    "overall": 79,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205175,
+    "name": "Arkadiusz Milik",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210864,
+    "name": "Elseid Hysaj",
+    "overall": 79,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186153,
+    "name": "Wojciech Szczęsny",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205407,
+    "name": "Daniele Baselli",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 166072,
+    "name": "Danilo Larangeira",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 176009,
+    "name": "Sven Kums",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138110,
+    "name": "Bruno Eduardo Regufe Alves",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201144,
+    "name": "Milan Badelj",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178007,
+    "name": "Miguel Luís Pinto Veloso",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186961,
+    "name": "Alberto Paloschi",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 172835,
+    "name": "Marco Andreolli",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212823,
+    "name": "Gabriel Barbosa Almeida",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188427,
+    "name": "Senad Lulić",
+    "overall": 78,
+    "roles": [
+      "TS",
+      "CC",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215785,
+    "name": "Keita Baldé Diao",
+    "overall": 78,
+    "roles": [
+      "AS",
+      "AD",
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159287,
+    "name": "Riccardo Montolivo",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 165526,
+    "name": "Gabriel Paletta",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 168312,
+    "name": "Ignazio Abate",
+    "overall": 78,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173204,
+    "name": "Luca Antonelli",
+    "overall": 78,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 177983,
+    "name": "Cristian Zapata",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190875,
+    "name": "Juraj Kucka",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204077,
+    "name": "M'Baye Niang",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210413,
+    "name": "Alessio Romagnoli",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 187702,
+    "name": "Omar El Kaddouri",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192841,
+    "name": "Emanuele Giaccherini",
+    "overall": 78,
+    "roles": [
+      "AS",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204614,
+    "name": "Mário Rui Silva Duarte",
+    "overall": 78,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138806,
+    "name": "Maxi López",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190264,
+    "name": "Iago Falqué Silva",
+    "overall": 78,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190544,
+    "name": "Adem Ljajić",
+    "overall": 78,
+    "roles": [
+      "AS",
+      "COC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 164985,
+    "name": "Cyril Théréau",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188654,
+    "name": "Thomas Heurtaux",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215333,
+    "name": "Duván Zapata",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193338,
+    "name": "Mattia Destro",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 5213,
+    "name": "Alessandro Gamberini",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 139274,
+    "name": "Boštjan Cesar",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 176104,
+    "name": "Valter Birsa",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "ED",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 103935,
+    "name": "Alberto Aquilani",
+    "overall": 78,
+    "roles": [
+      "CC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 7631,
+    "name": "Antonio Cassano",
+    "overall": 78,
+    "roles": [
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159261,
+    "name": "Fabio Quagliarella",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199652,
+    "name": "Dennis Praet",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "COC",
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 200315,
+    "name": "Cristian Tello Herrera",
+    "overall": 78,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212404,
+    "name": "Federico Bernardeschi",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219712,
+    "name": "Sebastián Cristóforo",
+    "overall": 78,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205408,
+    "name": "Santiago Gentiletti",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 177528,
+    "name": "Alessandro Matri",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202135,
+    "name": "Stefano Sturaro",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212811,
+    "name": "Mario Lemina",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186524,
+    "name": "Filip Đorđević",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198706,
+    "name": "Luis Alberto Romero Alconchel",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "ATT",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201155,
+    "name": "Ravel Morrison",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192073,
+    "name": "Andrea Bertolacci",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202651,
+    "name": "Jesús Joaquín Fernández Sáez",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212541,
+    "name": "Leonel Vangioni",
+    "overall": 77,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205943,
+    "name": "Vlad Chiricheş",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 179847,
+    "name": "Federico Fazio",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199151,
+    "name": "Juan Manuel Iturbe",
+    "overall": 77,
+    "roles": [
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205452,
+    "name": "Antonio Rüdiger",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 46736,
+    "name": "Emiliano Moretti",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188876,
+    "name": "Mirko Valdifiori",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 208596,
+    "name": "Andrea Belotti",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211354,
+    "name": "Marco Benassi",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216150,
+    "name": "Davide Zappacosta",
+    "overall": 77,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137410,
+    "name": "Daniele Gastaldello",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 181459,
+    "name": "Vassilis Torosidis",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201215,
+    "name": "Ladislav Krejčí",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 177569,
+    "name": "Jonathan De Guzmán",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205633,
+    "name": "Lucas Castro",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 103936,
+    "name": "Simone Pepe",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173146,
+    "name": "Luca Cigarini",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204555,
+    "name": "Ricardo Álvarez",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 208379,
+    "name": "Giancarlo González",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 153177,
+    "name": "Mauro Zárate",
+    "overall": 77,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 182179,
+    "name": "Sebastian De Maio",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201325,
+    "name": "Ciprian Tătăruşanu",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219985,
+    "name": "Matias Vecino",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 139038,
+    "name": "Nicolás Burdisso",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205850,
+    "name": "Leonardo Pavoletti",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 149185,
+    "name": "Francesco Magnanelli",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 113045,
+    "name": "Mauricio Pinilla",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 161999,
+    "name": "Abdoulay Konko",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 182168,
+    "name": "Andrea Ranocchia",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 184312,
+    "name": "Jonathan Biabiany",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "AS",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189484,
+    "name": "Davide Santon",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201455,
+    "name": "Geoffrey Kondogbia",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229593,
+    "name": "Marko Pjaca",
+    "overall": 76,
+    "roles": [
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216655,
+    "name": "Bartolomeu Quissanga",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216774,
+    "name": "Wesley Hoedt",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223848,
+    "name": "Sergej Milinković-Savić",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 185174,
+    "name": "Andrea Poli",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 206058,
+    "name": "Mattia De Sciglio",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 218191,
+    "name": "Gustavo Gómez",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230621,
+    "name": "Gianluigi Donnarumma",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210406,
+    "name": "Piotr Zieliński",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207439,
+    "name": "Leandro Paredes",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 105866,
+    "name": "Cesare Bovo",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202672,
+    "name": "Danilo Fernando Avelar",
+    "overall": 76,
+    "roles": [
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 133249,
+    "name": "Emil Hallfreðsson",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 172882,
+    "name": "Panagiotis Kone",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216158,
+    "name": "Silvan Widmer",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231638,
+    "name": "Adalberto Peñaranda",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183870,
+    "name": "Anthony Mounier",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216523,
+    "name": "Marios Oikonomou",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 165490,
+    "name": "Mariano Izco",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 172233,
+    "name": "Perparim Hetemaj",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188506,
+    "name": "Riccardo Meggiorini",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 14907,
+    "name": "Albano Bizzarri",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 51730,
+    "name": "Massimo Maccarone",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178042,
+    "name": "Andrea Costa",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189908,
+    "name": "Łukasz Skorupski",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193881,
+    "name": "Filip Đuričić",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199110,
+    "name": "Luis Muriel",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212198,
+    "name": "Bruno Miguel Borges Fernandes",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "COC",
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137854,
+    "name": "Marco Storari",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 187800,
+    "name": "Mauricio Isla",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "TD",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 182882,
+    "name": "Carlos Sánchez",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 194203,
+    "name": "Nenad Tomović",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 197231,
+    "name": "Khouma Babacar",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 191053,
+    "name": "Tomás Rincón",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 1178,
+    "name": "Paolo Cannavaro",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 176553,
+    "name": "Simone Missiroli",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 208535,
+    "name": "Alfred Duncan",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 209839,
+    "name": "Timo Letschert",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 149147,
+    "name": "Guglielmo Stendardo",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 168799,
+    "name": "Boukary Dramé",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 187598,
+    "name": "Rafael Tolói",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188413,
+    "name": "Carlos Carmona",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189296,
+    "name": "Etrit Berisha",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190931,
+    "name": "Ervin Zukanović",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202061,
+    "name": "Jasmin Kurtić",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 167666,
+    "name": "Juan Pablo Carrizo",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 194359,
+    "name": "Yuto Nagatomo",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198946,
+    "name": "Danilo D'Ambrosio",
+    "overall": 75,
+    "roles": [
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211176,
+    "name": "Ricardo Kishna",
+    "overall": 75,
+    "roles": [
+      "AS",
+      "AD",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211361,
+    "name": "Danilo Cataldi",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216437,
+    "name": "Wallace Fortuna Santos",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 149184,
+    "name": "Christian Maggio",
+    "overall": 75,
+    "roles": [
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 236311,
+    "name": "Marko Rog",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 200752,
+    "name": "Juan Guilherme Nunes Jesus",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 149064,
+    "name": "Cristian Molinaro",
+    "overall": 75,
+    "roles": [
+      "ASA",
+      "ES"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178425,
+    "name": "Giuseppe Vives",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 185163,
+    "name": "Luca Rossettini",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 768,
+    "name": "Felipe Dal Bello",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 120238,
+    "name": "Francesco Lodi",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 176605,
+    "name": "Pablo Armero",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192575,
+    "name": "Emmanuel Badu",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201363,
+    "name": "Ryder Matos Santos",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212616,
+    "name": "Rodrigo De Paul",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 196889,
+    "name": "Simone Verdi",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198760,
+    "name": "Saphir Taïder",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202828,
+    "name": "Federico Viviani",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 221695,
+    "name": "Godfred Donsah",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 225410,
+    "name": "Adam Masina",
+    "overall": 75,
+    "roles": [
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 7647,
+    "name": "Dario Dainelli",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 171830,
+    "name": "Nicolás Spolli",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186589,
+    "name": "Ivan Radovanovic",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 5879,
+    "name": "Alberto Gilardino",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137406,
+    "name": "Daniele Croce",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205735,
+    "name": "Manuel Pucciarelli",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215056,
+    "name": "Carlos Carbonero",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 123576,
+    "name": "Marco Borriello",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 140082,
+    "name": "Rafael Pinheiro Andrade Bittencourt",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190084,
+    "name": "Panagiotis Tachtsidis",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192587,
+    "name": "Artur Ioniţă",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137378,
+    "name": "Alessandro Gazzi",
+    "overall": 75,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 163925,
+    "name": "Alessandro Diamanti",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "AD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183606,
+    "name": "Slobodan Rajković",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202058,
+    "name": "Siniša Anđelković",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216813,
+    "name": "Bruno Henrique Corsini",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204032,
+    "name": "Edenílson Andrade dos Santos",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205632,
+    "name": "Lucas Ocampos",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "ES",
+      "AD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216145,
+    "name": "Armando Izzo",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 169115,
+    "name": "Andrea Masiello",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 182860,
+    "name": "Álvaro González",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 200857,
+    "name": "Moritz Leitner",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201931,
+    "name": "Gabriel Vasconcellos F.",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211302,
+    "name": "Gianluca Lapadula",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 191011,
+    "name": "Luigi Sepe",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192397,
+    "name": "Rafael Cabral Barbosa",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201139,
+    "name": "Ivan Strinić",
+    "overall": 74,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230613,
+    "name": "Amadou Diawara",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201223,
+    "name": "Afriyie Acquah",
+    "overall": 74,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189288,
+    "name": "Gabriele Angella",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205243,
+    "name": "Molla Wagué",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220048,
+    "name": "Simone Scuffet",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137774,
+    "name": "Domenico Maietta",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138699,
+    "name": "Blerim Džemaili",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 169386,
+    "name": "Sergio Floccari",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207555,
+    "name": "Filip Helander",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137373,
+    "name": "Massimo Gobbi",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 149571,
+    "name": "Sergio Pellissier",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188334,
+    "name": "Fabrizio Cacciatore",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 152922,
+    "name": "Edgar Barreto",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159028,
+    "name": "Matías Silvestre",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193571,
+    "name": "José Rodolfo Pires Ribeiro",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211408,
+    "name": "Karol Linetty",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188616,
+    "name": "Marco Sau",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189485,
+    "name": "Diego Farías da Silva",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ATT",
+      "AD",
+      "AS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 208451,
+    "name": "Robin Quaison",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137506,
+    "name": "Goran Pandev",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138918,
+    "name": "Luca Rigoni",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 169281,
+    "name": "Serge Gakpé",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 191488,
+    "name": "Lucas Orbán",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212127,
+    "name": "Darko Lazović",
+    "overall": 74,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 213400,
+    "name": "Diego Laxalt",
+    "overall": 74,
+    "roles": [
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178418,
+    "name": "Federico Peluso",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202851,
+    "name": "Gregoire Defrel",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "ES",
+      "AT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216409,
+    "name": "Matteo Politano",
+    "overall": 74,
+    "roles": [
+      "AD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207537,
+    "name": "Jordan Lukaku",
+    "overall": 73,
+    "roles": [
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223273,
+    "name": "Mario Pašalić",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193337,
+    "name": "Joel Obi",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215651,
+    "name": "Samir Caetano de Souza Santos",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223198,
+    "name": "Ali Adnan",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219758,
+    "name": "Luca Rizzo",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "AD",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 34824,
+    "name": "Antonio Floro Flores",
+    "overall": 73,
+    "roles": [
+      "AS",
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178430,
+    "name": "Nicolas Frey",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190330,
+    "name": "Nicola Rigoni",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201389,
+    "name": "Cristiano Biraghi",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202848,
+    "name": "Gianluca Caprari",
+    "overall": 73,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 154634,
+    "name": "Manuel Pasqual",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198079,
+    "name": "Marcel Büchel",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210859,
+    "name": "Vincent Laurini",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219998,
+    "name": "José Mauri",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 197777,
+    "name": "Jacopo Sala",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "TD",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 102056,
+    "name": "Simone Padoin",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ED",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183414,
+    "name": "Davide Di Gennaro",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199254,
+    "name": "João Pedro G. Santos Galvão",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220671,
+    "name": "Federico Melchiorri",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138920,
+    "name": "Roberto Vitiello",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192612,
+    "name": "Mato Jajalo",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202944,
+    "name": "Oscar Hiljemark",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212888,
+    "name": "Carlos Salcedo",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231128,
+    "name": "Hernán Toledo",
+    "overall": 73,
+    "roles": [
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 106874,
+    "name": "Davide Brivio",
+    "overall": 73,
+    "roles": [
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 138704,
+    "name": "Issa Cissokho",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186695,
+    "name": "Ezequiel Muñoz",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159284,
+    "name": "Raffaele Palladino",
+    "overall": 73,
+    "roles": [
+      "AS",
+      "AD",
+      "ATT"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 197926,
+    "name": "Lorenzo Crisetig",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199517,
+    "name": "Claiton Machado dos Santos",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137440,
+    "name": "Giulio Migliaccio",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173212,
+    "name": "Paolo De Ceglie",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220466,
+    "name": "Federico Mattiello",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207877,
+    "name": "Josef Alexander Martínez",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215559,
+    "name": "Lucas E. Santana de Oliveira",
+    "overall": 72,
+    "roles": [
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219469,
+    "name": "Stipe Perica",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189707,
+    "name": "Angelo Esmael da Costa Júnior",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201976,
+    "name": "Alfred Gomis",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 213629,
+    "name": "Erick Pulgar",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230936,
+    "name": "Ádám Nagy",
+    "overall": 72,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199559,
+    "name": "Roberto Inglese",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 123603,
+    "name": "Hugo Campagnaro",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201220,
+    "name": "Ledian Memushaj",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202547,
+    "name": "Jean-Christophe Bahebeck",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AS",
+      "ES"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203782,
+    "name": "Ahmad Benali",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 208268,
+    "name": "Bryan Cristante",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220061,
+    "name": "Norbert Gyömbér",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 186272,
+    "name": "Levan Mchedlidze",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189728,
+    "name": "Guido Marilungo",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198900,
+    "name": "Uroš Ćosić",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 211557,
+    "name": "Federico Barba",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 52829,
+    "name": "Angelo Palombo",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193686,
+    "name": "Vasco Regini",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 234236,
+    "name": "Patrik Schick",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201529,
+    "name": "Marco Capuano",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205553,
+    "name": "Luca Ceppitelli",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203399,
+    "name": "Ouasim Bouy",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210695,
+    "name": "Haitam Aleesami",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223524,
+    "name": "Edoardo Goldaniga",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 190769,
+    "name": "Eugenio Lamanna",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198908,
+    "name": "Isaac Cofie",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 157581,
+    "name": "Djamel Mesbah",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207553,
+    "name": "Marcus Rohdén",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 106795,
+    "name": "Gianluca Pegolo",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198136,
+    "name": "Antonino Ragusa",
+    "overall": 72,
+    "roles": [
+      "AS",
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205529,
+    "name": "Luca Antei",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178312,
+    "name": "Davide Bassi",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216789,
+    "name": "Emanuele Suagher",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220475,
+    "name": "Alberto Grassi",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223329,
+    "name": "Andrea Conti",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223489,
+    "name": "Aleksandar Pešić",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202445,
+    "name": "Rodrigo Ely",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 195272,
+    "name": "Marco Davide Faraoni",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192823,
+    "name": "Archimede Morleo",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159265,
+    "name": "Christian Puggioni",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188335,
+    "name": "Ante Budimir",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223959,
+    "name": "Lucas Torreira",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 173147,
+    "name": "Daniele Dessena",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189558,
+    "name": "Bartosz Salamon",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205934,
+    "name": "Nicola Murru",
+    "overall": 71,
+    "roles": [
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189118,
+    "name": "Thiago Rangel Cionek",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224202,
+    "name": "Ivaylo Chochev",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 191990,
+    "name": "Hrvoje Milić",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215502,
+    "name": "Bartłomiej Drągowski",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224841,
+    "name": "Kevin Diks",
+    "overall": 71,
+    "roles": [
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178117,
+    "name": "Aleandro Rosi",
+    "overall": 71,
+    "roles": [
+      "TD"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201530,
+    "name": "Bruno Martella",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 201841,
+    "name": "Noë Dussenne",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224808,
+    "name": "Gian Marco Ferrari",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 162174,
+    "name": "Davide Biondini",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183671,
+    "name": "Emanuele Terranova",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 228251,
+    "name": "Lorenzo Pellegrini",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229857,
+    "name": "Stefano Sensi",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192071,
+    "name": "Marco D'Alessandro",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202884,
+    "name": "Leonardo Spinazzola",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230938,
+    "name": "Franck Yannick Kessié",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235873,
+    "name": "Bryan Cabezas",
+    "overall": 70,
+    "roles": [
+      "AS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 225970,
+    "name": "Assane Gnoukouri",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 228881,
+    "name": "Davide Calabria",
+    "overall": 70,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 136875,
+    "name": "Bogdan Lobonţ",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235874,
+    "name": "Andrija Balic",
+    "overall": 70,
+    "roles": [
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178490,
+    "name": "Robert Acquafresca",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210320,
+    "name": "Ibrahima Mbaye",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137204,
+    "name": "Walter Bressan",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 197689,
+    "name": "Andrea Seculin",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 163402,
+    "name": "Andrea Coda",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 185172,
+    "name": "Vincenzo Fiorillo",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205531,
+    "name": "Valerio Verre",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215823,
+    "name": "Dario Župarić",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159499,
+    "name": "Marco Zambelli",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 184338,
+    "name": "Giuseppe Bellusci",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229337,
+    "name": "Matheus Pereira da Silva",
+    "overall": 70,
+    "roles": [
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205556,
+    "name": "Luka Krajnc",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 194783,
+    "name": "Niccolò Giannetti",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216139,
+    "name": "Luca Bittante",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189557,
+    "name": "Andrea Rispoli",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 225440,
+    "name": "Carlos Embalo",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 236382,
+    "name": "Maximiliano Olivera",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212126,
+    "name": "Nikola Ninković",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "AS",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 192072,
+    "name": "Adrian Stoian",
+    "overall": 70,
+    "roles": [
+      "AS",
+      "ATT",
+      "AD"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193077,
+    "name": "Diego Falcinelli",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 206601,
+    "name": "Mario Sampirisi",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210548,
+    "name": "Leonardo Capezzi",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210964,
+    "name": "Federico Ceccherini",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 183188,
+    "name": "Marcello Gazzola",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220477,
+    "name": "Mattia Caldara",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 227832,
+    "name": "Eloge Koffi Yao Guy",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 225439,
+    "name": "Rolando Mandragora",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 206098,
+    "name": "Patricio Gabarrón Gil",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220709,
+    "name": "Ivan Vargić",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212381,
+    "name": "Roberto Insigne",
+    "overall": 69,
+    "roles": [
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210736,
+    "name": "Emerson Palmieri dos Santos",
+    "overall": 69,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 221702,
+    "name": "Ewandro Felipe de Lima Costa",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "ES",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 207650,
+    "name": "Emil Krafth",
+    "overall": 69,
+    "roles": [
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 213814,
+    "name": "Federico Di Francesco",
+    "overall": 69,
+    "roles": [
+      "AS",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219852,
+    "name": "Alex Ferrari",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219655,
+    "name": "Francesco Zampano",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 158887,
+    "name": "Daniel Pavlovic",
+    "overall": 69,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204350,
+    "name": "Aleksandar Trajkovski",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216816,
+    "name": "Giovanni Simeone",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204250,
+    "name": "Marcello Trotta",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219496,
+    "name": "Simeon Tochukwu Nwankwo",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 137151,
+    "name": "Cristian Raimondi",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 202024,
+    "name": "Remo Freuler",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 222391,
+    "name": "Joseph Minala",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203458,
+    "name": "Arlind Ajeti",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 213614,
+    "name": "Samuel Gustafson",
+    "overall": 68,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 222041,
+    "name": "Lucas Boyé",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216320,
+    "name": "Seko Fofana",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 226592,
+    "name": "Jakub Jankto",
+    "overall": 68,
+    "roles": [
+      "ES",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219995,
+    "name": "Vittorio Parigini",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "AD",
+      "ED",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205726,
+    "name": "Gaston Brugman",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 178452,
+    "name": "Alberto Pelagotti",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 222573,
+    "name": "Andres Tello",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "TD"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229758,
+    "name": "Rade Krunic",
+    "overall": 68,
+    "roles": [
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 189751,
+    "name": "Mirko Eramo",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 232363,
+    "name": "Milan Škriniar",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 159040,
+    "name": "Gianni Munari",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 179973,
+    "name": "Michel Morganella",
+    "overall": 68,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 213938,
+    "name": "Davide Biraschi",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 149258,
+    "name": "Alex Cordaz",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204166,
+    "name": "Aleksandar Tonev",
+    "overall": 68,
+    "roles": [
+      "ED"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220513,
+    "name": "Federico Ricci",
+    "overall": 68,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 228413,
+    "name": "Emil Audero",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 216410,
+    "name": "Vinícius Freitas Ribeiro",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "ES",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 222077,
+    "name": "Manuel Locatelli",
+    "overall": 67,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229927,
+    "name": "Gerson Santos da Silva",
+    "overall": 67,
+    "roles": [
+      "ED",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219984,
+    "name": "Mattia Aramu",
+    "overall": 67,
+    "roles": [
+      "AD",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220493,
+    "name": "Antonio Barreca",
+    "overall": 67,
+    "roles": [
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223926,
+    "name": "Samuel Bastien",
+    "overall": 67,
+    "roles": [
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 200810,
+    "name": "Alessandro Crescenzi",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 206074,
+    "name": "Michele Fornasier",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224148,
+    "name": "Robert Murić",
+    "overall": 67,
+    "roles": [
+      "AD"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229804,
+    "name": "Alexandru Ionuţ Mitriţă",
+    "overall": 67,
+    "roles": [
+      "AT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230800,
+    "name": "Rey Manaj",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198223,
+    "name": "Raffaele Maiello",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230144,
+    "name": "Assane Dioussé",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230824,
+    "name": "Pedro Miguel Pereira",
+    "overall": 67,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 199274,
+    "name": "Ilja Nestorovski",
+    "overall": 67,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203393,
+    "name": "Eddy Gnahoré",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 209613,
+    "name": "Pietro Iemmello",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 221331,
+    "name": "Luca Mazzitelli",
+    "overall": 67,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215689,
+    "name": "Andrea Petagna",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 156986,
+    "name": "Gennaro Sardo",
+    "overall": 66,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203649,
+    "name": "Alessandro Bruno",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205530,
+    "name": "Mirko Pigliacelli",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219584,
+    "name": "Luca Lezzerini",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 210880,
+    "name": "Riccardo Fiamozzi",
+    "overall": 66,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219594,
+    "name": "Andrea Barberis",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224805,
+    "name": "Aniello Salzano",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 188017,
+    "name": "Alberto Pomini",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215777,
+    "name": "Mamadou Tounkara",
+    "overall": 65,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 158718,
+    "name": "Roberto Colombo",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 193267,
+    "name": "Fabio Pisacane",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224232,
+    "name": "Nicolò Barella",
+    "overall": 65,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 218745,
+    "name": "Olivier Ntcham",
+    "overall": 65,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 54037,
+    "name": "Tommaso Berni",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212151,
+    "name": "Thomas Strakosha",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231627,
+    "name": "Sadiq Umar",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 227617,
+    "name": "Lamin Jallow",
+    "overall": 64,
+    "roles": [
+      "ED"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 234171,
+    "name": "Roland Sallai",
+    "overall": 64,
+    "roles": [
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 205554,
+    "name": "Lukas Zima",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235875,
+    "name": "Pol Mikel Lirola Kosok",
+    "overall": 64,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235839,
+    "name": "Loris Zonta",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231916,
+    "name": "Franjo Prce",
+    "overall": 63,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 223638,
+    "name": "Deian Boldor",
+    "overall": 63,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 139691,
+    "name": "Maurizio Pugliesi",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 226268,
+    "name": "Federico Dimarco",
+    "overall": 63,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 232068,
+    "name": "Norbert Balogh",
+    "overall": 63,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 226568,
+    "name": "Ianis Hagi",
+    "overall": 63,
+    "roles": [
+      "AD",
+      "COC",
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 197784,
+    "name": "Pietro De Giorgio",
+    "overall": 63,
+    "roles": [
+      "AS"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 213328,
+    "name": "Senna Miangue",
+    "overall": 62,
+    "roles": [
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235842,
+    "name": "Andrea Pinamonti",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231919,
+    "name": "Alessandro Murgia",
+    "overall": 62,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 232340,
+    "name": "Abdullahi Nura",
+    "overall": 62,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 227966,
+    "name": "Mouhamadou Sarr",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 168393,
+    "name": "Gabriele Aldegani",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 236394,
+    "name": "Stanely Amuzie",
+    "overall": 62,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224789,
+    "name": "Giuseppe Marco Zampano",
+    "overall": 62,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230631,
+    "name": "Marco Festa",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 212153,
+    "name": "Roberto Gagliardini",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235840,
+    "name": "Michele Di Gregorio",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215810,
+    "name": "Cristiano Lombardi",
+    "overall": 61,
+    "roles": [
+      "AT",
+      "AD",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231917,
+    "name": "Moustapha Seck",
+    "overall": 61,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235833,
+    "name": "Filippo Damian",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 198701,
+    "name": "Stefano Pettinari",
+    "overall": 61,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 203780,
+    "name": "Frédéric Veseli",
+    "overall": 61,
+    "roles": [
+      "TD",
+      "DC",
+      "TS"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 204437,
+    "name": "Andrea Tozzo",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230681,
+    "name": "Giuseppe Pezzella",
+    "overall": 61,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 232350,
+    "name": "Josip Posavec",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 231022,
+    "name": "Cristian Dell'Orco",
+    "overall": 61,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 233411,
+    "name": "Claud Adjapong",
+    "overall": 61,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230858,
+    "name": "Samuele Perisan",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 218888,
+    "name": "Yusupha Bobb",
+    "overall": 60,
+    "roles": [
+      "ED"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235834,
+    "name": "Fabio De Paoli",
+    "overall": 60,
+    "roles": [
+      "ED"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235835,
+    "name": "Alessandro Confente",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 222488,
+    "name": "Nicolò Fazzi",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "CDC",
+      "AD"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 229460,
+    "name": "Andrea Nalini",
+    "overall": 60,
+    "roles": [
+      "AD"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 236330,
+    "name": "Valentin Cojocaru",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 234102,
+    "name": "Ionuţ Andrei Radu",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 234140,
+    "name": "Aaron Mattia Tabacchi",
+    "overall": 59,
+    "roles": [
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220488,
+    "name": "Filippo Costa",
+    "overall": 59,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220465,
+    "name": "Edoardo Ceria",
+    "overall": 58,
+    "roles": [
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235841,
+    "name": "Axel Mohamed Bakayoko",
+    "overall": 58,
+    "roles": [
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220795,
+    "name": "Davide Vitturini",
+    "overall": 58,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 221670,
+    "name": "Hrvoje Miličević",
+    "overall": 58,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235810,
+    "name": "Marco Acatullo",
+    "overall": 58,
+    "roles": [
+      "AD",
+      "ATT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220720,
+    "name": "Andrea Fulignati",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 228609,
+    "name": "Accursio Bentivegna",
+    "overall": 58,
+    "roles": [
+      "ED",
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235805,
+    "name": "Federico Chiesa",
+    "overall": 58,
+    "roles": [
+      "AD",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 236292,
+    "name": "Giuseppe Cuomo",
+    "overall": 58,
+    "roles": [
+      "DC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230941,
+    "name": "Axel Müller",
+    "overall": 57,
+    "roles": [
+      "AT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235935,
+    "name": "Luca Zanimacchia",
+    "overall": 57,
+    "roles": [
+      "AD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 228374,
+    "name": "Manuel Nicoletti",
+    "overall": 57,
+    "roles": [
+      "TS"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 220531,
+    "name": "Igor Lasicki",
+    "overall": 56,
+    "roles": [
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 215210,
+    "name": "Andrea Mancini",
+    "overall": 56,
+    "roles": [
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 226098,
+    "name": "Ferdinando Del Sole",
+    "overall": 56,
+    "roles": [
+      "CC",
+      "COC",
+      "AD"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230667,
+    "name": "Abdou Diakhate",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 230913,
+    "name": "Mario Ierardi",
+    "overall": 56,
+    "roles": [
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 227704,
+    "name": "Tsouka Dozi",
+    "overall": 56,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 228219,
+    "name": "Silvio Anočič",
+    "overall": 55,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 219899,
+    "name": "Simone Monni",
+    "overall": 55,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Pescara",
+    "mapped_team": "Pescara",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235195,
+    "name": "Titas Krapikas",
+    "overall": 54,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 225984,
+    "name": "Luca Bruno",
+    "overall": 54,
+    "roles": [
+      "TS"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235880,
+    "name": "Leonardo Marson",
+    "overall": 53,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235936,
+    "name": "Diego Faccioli",
+    "overall": 52,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 224804,
+    "name": "Cristian Barillari",
+    "overall": 52,
+    "roles": [
+      "CC"
+    ],
+    "team": "Crotone",
+    "mapped_team": "Crotone",
+    "sofifa_year": "2017"
+  },
+  {
+    "player_id": 235806,
+    "name": "Giacomo Satalino",
+    "overall": 50,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2017"
+  }
+]

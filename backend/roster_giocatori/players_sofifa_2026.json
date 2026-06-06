@@ -1,0 +1,6208 @@
+[
+  {
+    "player_id": 224232,
+    "name": "Nicolò Barella",
+    "overall": 88,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 231478,
+    "name": "Lautaro Martínez",
+    "overall": 88,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 237383,
+    "name": "Alessandro Bastoni",
+    "overall": 87,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 215698,
+    "name": "Mike Maignan",
+    "overall": 87,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 192985,
+    "name": "Kevin De Bruyne",
+    "overall": 87,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 177683,
+    "name": "Yann Sommer",
+    "overall": 86,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 208128,
+    "name": "Hakan Çalhanoğlu",
+    "overall": 86,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 226268,
+    "name": "Federico Dimarco",
+    "overall": 86,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 239580,
+    "name": "Gleison Bremer Silva Nascimento",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 237238,
+    "name": "Scott McTominay",
+    "overall": 86,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 252154,
+    "name": "Marco Carnesecchi",
+    "overall": 85,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 228093,
+    "name": "Marcus Thuram",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 177003,
+    "name": "Luka Modrić",
+    "overall": 85,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 210008,
+    "name": "Adrien Rabiot",
+    "overall": 85,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 227796,
+    "name": "Christian Pulisic",
+    "overall": 85,
+    "roles": [
+      "AD",
+      "ED",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 211110,
+    "name": "Paulo Dybala",
+    "overall": 85,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 233096,
+    "name": "Denzel Dumfries",
+    "overall": 84,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 222077,
+    "name": "Manuel Locatelli",
+    "overall": 84,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 241721,
+    "name": "Rafael da Conceição Leão",
+    "overall": 84,
+    "roles": [
+      "AS",
+      "ES",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 229582,
+    "name": "Gianluca Mancini",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 230872,
+    "name": "Mile Svilar",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 193080,
+    "name": "David De Gea Quintana",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 192883,
+    "name": "Henrikh Mkhitaryan",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 198176,
+    "name": "Stefan de Vrij",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 199845,
+    "name": "Francesco Acerbi",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 229237,
+    "name": "Manuel Akanji",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 220502,
+    "name": "Mattia Zaccagni",
+    "overall": 83,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 224987,
+    "name": "Ivan Provedel",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 192505,
+    "name": "Romelu Lukaku",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 216435,
+    "name": "Stanislav Lobotka",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 217870,
+    "name": "Giovanni Di Lorenzo",
+    "overall": 83,
+    "roles": [
+      "TD",
+      "DC",
+      "ED",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 227236,
+    "name": "André-Franck Zambo Anguissa",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 244263,
+    "name": "Amir Rrahmani",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 233556,
+    "name": "Riccardo Orsolini",
+    "overall": 83,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 236610,
+    "name": "Moise Kean",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 251470,
+    "name": "Charles De Ketelaere",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "ATT",
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 266866,
+    "name": "Éderson José dos Santos",
+    "overall": 82,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 243580,
+    "name": "Loïs Openda",
+    "overall": 82,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 277954,
+    "name": "Kenan Yıldız",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "ES",
+      "AS",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 210413,
+    "name": "Alessio Romagnoli",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 225116,
+    "name": "Alex Meret",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 243241,
+    "name": "Alessandro Buongiorno",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 202024,
+    "name": "Remo Freuler",
+    "overall": 82,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 210676,
+    "name": "Wladimiro Falcone",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 277846,
+    "name": "Nicolás Paz Martínez",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "ED",
+      "ATT",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 210935,
+    "name": "Domenico Berardi",
+    "overall": 82,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 208461,
+    "name": "Marten de Roon",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 210406,
+    "name": "Piotr Zieliński",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 239807,
+    "name": "Davide Frattesi",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 258648,
+    "name": "Carlos Augusto Zopolato Neves",
+    "overall": 81,
+    "roles": [
+      "TS",
+      "DC",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 235840,
+    "name": "Michele Di Gregorio",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 243630,
+    "name": "Jonathan David",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 246430,
+    "name": "Dušan Vlahović",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 247246,
+    "name": "Khéphren Thuram",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 268804,
+    "name": "Mario Gila Fuentes",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 232411,
+    "name": "Christopher Nkunku",
+    "overall": 81,
+    "roles": [
+      "COC",
+      "ES",
+      "ATT",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 232756,
+    "name": "Fikayo Tomori",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 245630,
+    "name": "Youssouf Fofana",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 216409,
+    "name": "Matteo Politano",
+    "overall": 81,
+    "roles": [
+      "AD",
+      "ED",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 236632,
+    "name": "David Neres Campos",
+    "overall": 81,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 261865,
+    "name": "Miguel Gutiérrez Ortega",
+    "overall": 81,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 208268,
+    "name": "Bryan Cristante",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 236403,
+    "name": "Evan Ndicka",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 242458,
+    "name": "Artem Dovbyk",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 215333,
+    "name": "Duván Zapata",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 246875,
+    "name": "Odilon Kossounou",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 208574,
+    "name": "Filip Kostić",
+    "overall": 80,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 240679,
+    "name": "Teun Koopmeiners",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "CC",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 255654,
+    "name": "Pierre Kalulu",
+    "overall": 80,
+    "roles": [
+      "DC",
+      "TD",
+      "ED",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 258966,
+    "name": "Andrea Cambiaso",
+    "overall": 80,
+    "roles": [
+      "TS",
+      "TD",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 266872,
+    "name": "Federico Gatti",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 213666,
+    "name": "Ruben Loftus-Cheek",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 240277,
+    "name": "Matteo Gabbia",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 242664,
+    "name": "Alexis Saelemaekers",
+    "overall": 80,
+    "roles": [
+      "ED",
+      "ES",
+      "TD",
+      "AD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 202884,
+    "name": "Leonardo Spinazzola",
+    "overall": 80,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 228251,
+    "name": "Lorenzo Pellegrini",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 231447,
+    "name": "Donyell Malen",
+    "overall": 80,
+    "roles": [
+      "ATT",
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 250723,
+    "name": "Kouadio Manu Koné",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 241095,
+    "name": "Nikola Vlašić",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "CC",
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 243593,
+    "name": "Armand Laurienté",
+    "overall": 80,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 208165,
+    "name": "Berat Djimsiti",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 216150,
+    "name": "Davide Zappacosta",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "ED",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 223273,
+    "name": "Mario Pašalić",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 238744,
+    "name": "Weston McKennie",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 239763,
+    "name": "Edon Zhegrova",
+    "overall": 79,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 261050,
+    "name": "Francisco F. da Conceição",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "ED",
+      "AD",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 255001,
+    "name": "Nicolò Rovella",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 237942,
+    "name": "Pervis Estupiñán",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 245152,
+    "name": "Santiago Giménez",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 253473,
+    "name": "Samuele Ricci",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 224836,
+    "name": "Vanja Milinković-Savić",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 80170,
+    "name": "Wesley Vinícius França Lima",
+    "overall": 79,
+    "roles": [
+      "ED",
+      "ES",
+      "TD",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 220651,
+    "name": "José Ángel Esmoris Tasende",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 229668,
+    "name": "Mario Hermoso Canseco",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 265695,
+    "name": "Matías Soulé",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 201153,
+    "name": "Álvaro Borja Morata Martín",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "COC",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 219693,
+    "name": "Diego Carlos Santos Silva",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 262842,
+    "name": "Martin Baturina",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "ES",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 223697,
+    "name": "Robin Gosens",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "ES",
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 228413,
+    "name": "Emil Audero",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 207993,
+    "name": "Sead Kolašinac",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 226710,
+    "name": "Gianluca Scamacca",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 253002,
+    "name": "Giacomo Raspadori",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "COC",
+      "AS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 260697,
+    "name": "Isak Hien",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 265188,
+    "name": "Giorgio Scalvini",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 184392,
+    "name": "Matteo Darmian",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "DC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 256632,
+    "name": "Luis Henrique Tomaz de Lima",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "ES",
+      "TD",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 259565,
+    "name": "Yoan Bonny",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 198009,
+    "name": "Mattia Perin",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 205175,
+    "name": "Arkadiusz Milik",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 231512,
+    "name": "Lloyd Kelly",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 211361,
+    "name": "Danilo Cataldi",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 246242,
+    "name": "Boulaye Dia",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 255009,
+    "name": "Kenneth Taylor",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 205431,
+    "name": "Niclas Füllkrug",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 205812,
+    "name": "Pietro Terracciano",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 259399,
+    "name": "Rasmus Højlund",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 262394,
+    "name": "Sam Beukema",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 190813,
+    "name": "Stephan El Shaarawy",
+    "overall": 78,
+    "roles": [
+      "ES",
+      "AS",
+      "COC",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 224490,
+    "name": "Zeki Çelik",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "ED",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 226093,
+    "name": "Ché Adams",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 242238,
+    "name": "Oumar Solet",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 189908,
+    "name": "Łukasz Skorupski",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 242280,
+    "name": "Lewis Ferguson",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 225149,
+    "name": "Jean Butez",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 246646,
+    "name": "Maxence Caqueret",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 255303,
+    "name": "Elia Caprile",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 234112,
+    "name": "Domilson Cordeiro dos Santos",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 238004,
+    "name": "Albert Guðmundsson",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "COC",
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 247229,
+    "name": "Raoul Bellanova",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "TD",
+      "AD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 256115,
+    "name": "Lazar Samardžić",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 262113,
+    "name": "Nicola Zalewski",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "COC",
+      "ED",
+      "AS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 276278,
+    "name": "Petar Sučić",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 224031,
+    "name": "Adam Marušić",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 254840,
+    "name": "Strahinja Pavlović",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 257186,
+    "name": "Ardon Jashari",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 240716,
+    "name": "Mathías Olivera",
+    "overall": 77,
+    "roles": [
+      "TS",
+      "DC",
+      "ES",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 241390,
+    "name": "Eljif Elmas",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 232223,
+    "name": "Kostas Tsimikas",
+    "overall": 77,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 271916,
+    "name": "Bryan Zaragoza Martínez",
+    "overall": 77,
+    "roles": [
+      "AS",
+      "ES",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 201389,
+    "name": "Cristiano Biraghi",
+    "overall": 77,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 234671,
+    "name": "Jens Odgaard",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 257290,
+    "name": "João Mário Neto Lopes",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 267861,
+    "name": "Santiago Castro",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 75055,
+    "name": "Jesús Rodríguez Caraballo",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "ED",
+      "AS"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 239977,
+    "name": "Nicolas Kühn",
+    "overall": 77,
+    "roles": [
+      "AD",
+      "ED",
+      "ES"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 246791,
+    "name": "Manor Solomon",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 191202,
+    "name": "Nemanja Matić",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 216065,
+    "name": "Marco Sportiello",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 277839,
+    "name": "Nikola Krstović",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 241736,
+    "name": "Yann Aurel Bisseck",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 277327,
+    "name": "Francesco Pio Esposito",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 224422,
+    "name": "Jérémie Boga",
+    "overall": 76,
+    "roles": [
+      "AS",
+      "ATT",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 189505,
+    "name": "Pedro Rodríguez Ledesma",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "AD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 219581,
+    "name": "Samuel Gigot",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 235374,
+    "name": "Manuel Lazzari",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 248729,
+    "name": "Gustav Isaksen",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 251530,
+    "name": "Nuno Albertino Varela Tavares",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 235949,
+    "name": "Gabriel Tadeu Strefezza Rebelato",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "ATT",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 252794,
+    "name": "Adrián Bernabé García",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 262745,
+    "name": "Neil El Aynaoui",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 211147,
+    "name": "Valentino Lazaro",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "TS",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 216816,
+    "name": "Giovanni Simeone",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 219145,
+    "name": "Guillermo Maripán",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 265650,
+    "name": "Saúl Basilio Coco Bassey Oubiña",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 231207,
+    "name": "Jhon Lucumí",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 240915,
+    "name": "Juan Miranda González",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 268703,
+    "name": "Nicolò Cambiaghi",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 215363,
+    "name": "Lorenzo Montipò",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 230065,
+    "name": "Suat Serdar",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 252308,
+    "name": "Ali Al Musrati",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 199564,
+    "name": "Sergio Roberto Carnicer",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC",
+      "TD"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 228349,
+    "name": "Mërgim Vojvoda",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 254579,
+    "name": "Lucas Da Cunha",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 261478,
+    "name": "Tasos Douvikas",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 267991,
+    "name": "Máximo Perrone",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 275324,
+    "name": "Assane Diao",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "AS",
+      "AD"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 220523,
+    "name": "Yerry Mina",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 225439,
+    "name": "Rolando Mandragora",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 260823,
+    "name": "Nicolò Fagioli",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 242633,
+    "name": "Morten Frendrup",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 236593,
+    "name": "Calvin Stengs",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 242725,
+    "name": "Kristian Thorstvedt",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 239368,
+    "name": "Mitchel Bakker",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 243311,
+    "name": "Josep Martínez Riera",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 268534,
+    "name": "Andy Diouf",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 246656,
+    "name": "Emil Holm",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 268802,
+    "name": "Fabio Miretti",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 206098,
+    "name": "Patricio Gabarrón Gil",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 245275,
+    "name": "Toma Bašić",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 265774,
+    "name": "Koni De Winter",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 200752,
+    "name": "Juan Guilherme Nunes Jesus",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 245992,
+    "name": "Billy Gilmour",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 252442,
+    "name": "Enrico Delprato",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 253162,
+    "name": "Hans Nicolussi Caviglia",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 258714,
+    "name": "Emanuele Valeri",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 258683,
+    "name": "Ivan Ilić",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 270141,
+    "name": "Franco Israel",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 273883,
+    "name": "Cesare Casadei",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 214658,
+    "name": "Jesper Karlström",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 238067,
+    "name": "Nicolò Zaniolo",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AD",
+      "ED",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 212404,
+    "name": "Federico Bernardeschi",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "ATT",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 244270,
+    "name": "Nikola Moro",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 252021,
+    "name": "Thijs Dallinga",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 266500,
+    "name": "Jonathan Rowe",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "ED",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 244717,
+    "name": "Antonino Gallo",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 77163,
+    "name": "Ivan Smolčić",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "DC",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 205566,
+    "name": "Alberto Moreno Pérez",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 210719,
+    "name": "Marc-Oliver Kempf",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 247888,
+    "name": "Sebastiano Esposito",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 278339,
+    "name": "Marco Palestra",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 211320,
+    "name": "Daniele Rugani",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 240777,
+    "name": "Luca Ranieri",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 248385,
+    "name": "Roberto Piccoli",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 258976,
+    "name": "Fabiano Parisi",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "TD",
+      "ED",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 278340,
+    "name": "Pietro Comuzzo",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 231969,
+    "name": "Ruslan Malinovskyi",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 232229,
+    "name": "Justin Bijlow",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 238516,
+    "name": "Leo Østigård",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 244349,
+    "name": "Johan Vásquez",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 263829,
+    "name": "Vítor Manuel Carvalho Oliveira",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 157481,
+    "name": "Raúl Albiol Tortajada",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Cuadrado",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "TD",
+      "AD"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 273128,
+    "name": "Rafiu Durosinmi",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 208830,
+    "name": "Jamie Vardy",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 219932,
+    "name": "Antonio Sanabria",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 220534,
+    "name": "Sebastiano Luperto",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 268573,
+    "name": "Federico Baschirotto",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 235842,
+    "name": "Andrea Pinamonti",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 264207,
+    "name": "Ismaël Koné",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 251870,
+    "name": "Juan David Cabal",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 243237,
+    "name": "Luca Pellegrini",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 255611,
+    "name": "Daniel Maldini",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ATT",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 263929,
+    "name": "Matteo Cancellieri",
+    "overall": 74,
+    "roles": [
+      "AD",
+      "AS",
+      "ES",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 264257,
+    "name": "Tijjani Noslin",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "ED",
+      "ES",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 255981,
+    "name": "Zion Suzuki",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 259150,
+    "name": "Abdoulaye Ndiaye",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 211515,
+    "name": "Pierluigi Gollini",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 258826,
+    "name": "Devyne Rensch",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "DC",
+      "ED",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 259608,
+    "name": "Evan Ferguson",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 213242,
+    "name": "Adrien Tameze",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 248564,
+    "name": "Zakaria Aboukhlal",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ED",
+      "ES",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 258782,
+    "name": "Ardian Ismajli",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 231743,
+    "name": "Keinan Davis",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 243249,
+    "name": "Jurgen Ekkelenkamp",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "ES",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 257288,
+    "name": "Maduka Okoye",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 272783,
+    "name": "Arthur Atta",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 239770,
+    "name": "Nicolò Casale",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 244634,
+    "name": "Simon Sohm",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 248342,
+    "name": "Torbjørn Heggem",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 252060,
+    "name": "Tommaso Pobega",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 259748,
+    "name": "Martin Vitík",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 235658,
+    "name": "Victor Nelsson",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 273564,
+    "name": "Gift Orban",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 230107,
+    "name": "Lassana Coulibaly",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 246431,
+    "name": "Riccardo Sottil",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 70966,
+    "name": "Jacobo Ramón Naveros",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 273875,
+    "name": "Álex Valle Gómez",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 208596,
+    "name": "Andrea Belotti",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 268683,
+    "name": "Michael Folorunsho",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "COC",
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 274616,
+    "name": "Semih Kılıçsoy",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AS",
+      "ES",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 236295,
+    "name": "Aarón Martín Caricol",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 260653,
+    "name": "Brooke Norton-Cuffy",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 269312,
+    "name": "Tommaso Baldanzi",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 236898,
+    "name": "Michel Aebischer",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 240797,
+    "name": "Mattéo Tramoni",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ATT",
+      "CC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 223143,
+    "name": "Ulisses Garcia",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "DC",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 233164,
+    "name": "Arijanet Murić",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 262027,
+    "name": "Tarik Muharemović",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 253177,
+    "name": "Yunus Musah",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 256035,
+    "name": "Kamaldeen Sulemana",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "ES",
+      "ATT",
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 258890,
+    "name": "Fisayo Dele-Bashiru",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 255460,
+    "name": "Jacob Ondrejka",
+    "overall": 73,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 261539,
+    "name": "Mandela Keita",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 269276,
+    "name": "Gaetano Oristanio",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "ATT",
+      "AD",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 275401,
+    "name": "Matija Frigan",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 243481,
+    "name": "Marcus Pedersen",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 255150,
+    "name": "Niels Nkounkou",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 278013,
+    "name": "Saba Sazonov",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 190324,
+    "name": "Christian Kabasele",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 261573,
+    "name": "Thomas Kristensen",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 268656,
+    "name": "Alessandro Zanoli",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 210381,
+    "name": "Charalampos Lykogiannis",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 252440,
+    "name": "Nadir Zortea",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 269558,
+    "name": "Benjamín Domínguez",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 223866,
+    "name": "Sandi Lovrič",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 235875,
+    "name": "Pol Mikel Lirola Kosok",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "DC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 267681,
+    "name": "Nicolás Valentini",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 255900,
+    "name": "Noel Törnqvist",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 221331,
+    "name": "Luca Mazzitelli",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 237586,
+    "name": "Alberto Dossena",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 246877,
+    "name": "Gianluca Gaetano",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 252964,
+    "name": "Gabriele Zappa",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "DC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 254982,
+    "name": "Michel Ndary Adopo",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 266636,
+    "name": "Adam Obert",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "DC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 271577,
+    "name": "Ibrahim Sulemana",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 278668,
+    "name": "José Pedro da Silva Figueiredo",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 232080,
+    "name": "Jack Harrison",
+    "overall": 73,
+    "roles": [
+      "AD",
+      "AS",
+      "ES",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 235866,
+    "name": "Christian Kouamé",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "ES",
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 238370,
+    "name": "Marin Pongračić",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 242418,
+    "name": "Tariq Lamptey",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 271019,
+    "name": "Giovanni Fabbian",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 201299,
+    "name": "Nicola Leali",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 215798,
+    "name": "Maxwel Cornet",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "ATT",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 71230,
+    "name": "Felipe Loyola",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "TD",
+      "COC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 237669,
+    "name": "Alessio Zerbin",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "ES",
+      "TS",
+      "TD"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 240970,
+    "name": "Martín Payero",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 240452,
+    "name": "M'Bala Nzola",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 255561,
+    "name": "Josh Doig",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 262396,
+    "name": "Jay Idzes",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 74483,
+    "name": "Honest Ahanor",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 210864,
+    "name": "Elseid Hysaj",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "TD",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 257972,
+    "name": "Oliver Sørensen",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 268913,
+    "name": "Alessandro Circati",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 275291,
+    "name": "Niccolò Pisilli",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 277695,
+    "name": "Daniele Ghilardi",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 272725,
+    "name": "Matteo Prati",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 220421,
+    "name": "Hassane Kamara",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 224438,
+    "name": "Adam Buksa",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 229973,
+    "name": "Jakub Piotrowski",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 271475,
+    "name": "Nicolò Bertola",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 240657,
+    "name": "Federico Ravaglia",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 205343,
+    "name": "Jean-Daniel Akpa Akpro",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 212153,
+    "name": "Roberto Gagliardini",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 234795,
+    "name": "Antoine Bernede",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 238009,
+    "name": "Martin Frese",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "DC",
+      "ES"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 247497,
+    "name": "Armel Bella-Kotchap",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 252000,
+    "name": "Domagoj Bradarić",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 255233,
+    "name": "Tomáš Suslov",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 265732,
+    "name": "Àlex Sala Herrero",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 268511,
+    "name": "Walid Cheddira",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 275783,
+    "name": "Kialonda Gaspar",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 277840,
+    "name": "Omri Gandelman",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 223524,
+    "name": "Edoardo Goldaniga",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 251464,
+    "name": "Ignace Van der Brempt",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 248857,
+    "name": "Mattia Felici",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 237499,
+    "name": "Abdelhamid Sabiri",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC",
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 257785,
+    "name": "Marco Brescianini",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 266596,
+    "name": "Jacopo Fazzini",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 276682,
+    "name": "Cher Ndour",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 240938,
+    "name": "Junior Messias",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 256899,
+    "name": "Lorenzo Colombo",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 222959,
+    "name": "Stefano Moreo",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "COC",
+      "CC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 264480,
+    "name": "Simone Canestrelli",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 272379,
+    "name": "Samuel Iling-Junior",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "TS",
+      "ED"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 190745,
+    "name": "Marco Silvestri",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 217338,
+    "name": "Jari Vandeputte",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "ES",
+      "COC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 222475,
+    "name": "Morten Thorsby",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 223137,
+    "name": "Federico Bonazzoli",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 233732,
+    "name": "David Okereke",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "ES",
+      "AS"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 256669,
+    "name": "Faris Pemi Moumbagna",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 268576,
+    "name": "Michele Collocolo",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 243497,
+    "name": "Sebastian Walukiewicz",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 251335,
+    "name": "Woyo Coulibaly",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 252027,
+    "name": "Aster Vranckx",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 254502,
+    "name": "Stefano Turati",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 268462,
+    "name": "Daniel Boloca",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 278237,
+    "name": "Davide Bartesaghi",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 239679,
+    "name": "Pasquale Mazzocchi",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 236706,
+    "name": "Pontus Almqvist",
+    "overall": 71,
+    "roles": [
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 240992,
+    "name": "Nahuel Estévez",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 273884,
+    "name": "Christian Ordoñez",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 225669,
+    "name": "Kingsley Ehizibue",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 258615,
+    "name": "Oier Zarraga Egaña",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 259634,
+    "name": "Jordan Zemura",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 266803,
+    "name": "Răzvan Sava",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 241937,
+    "name": "Abdou Harroui",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 248661,
+    "name": "Cheikh Niasse",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 256453,
+    "name": "Amin Sarr",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 266585,
+    "name": "Daniel Mosquera",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 78037,
+    "name": "Juan Rodríguez",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 236758,
+    "name": "Oliver Christensen",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 206159,
+    "name": "Stefano Sabelli",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 255934,
+    "name": "Jean Onana",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 264436,
+    "name": "Mikael Egill Ellertsson",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "ED",
+      "ES",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 199174,
+    "name": "Antonio Caracciolo",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 220048,
+    "name": "Simone Scuffet",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 233396,
+    "name": "Idrissa Touré",
+    "overall": 71,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 244274,
+    "name": "Adrian Šemper",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 270658,
+    "name": "Samuele Angori",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 205363,
+    "name": "Matteo Bianchetti",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 210964,
+    "name": "Federico Ceccherini",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 230681,
+    "name": "Giuseppe Pezzella",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 236838,
+    "name": "Youssef Maleh",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 257353,
+    "name": "Warren Bondo",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 271579,
+    "name": "Filippo Terracciano",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 275162,
+    "name": "Tommaso Barbieri",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 256856,
+    "name": "Fali Candé",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 263882,
+    "name": "Alieu Fadera",
+    "overall": 71,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 74574,
+    "name": "Lorenzo Bernasconi",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 79270,
+    "name": "Alisson de Almeida Santos",
+    "overall": 70,
+    "roles": [
+      "AS",
+      "AD",
+      "COC",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 76410,
+    "name": "Robinio Vaz",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 235740,
+    "name": "Alberto Paleari",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 236413,
+    "name": "Sandro Kulenović",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 241007,
+    "name": "Enzo Ebosse",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 273932,
+    "name": "Gvidas Gineitis",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 275522,
+    "name": "Lennon Miller",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 276314,
+    "name": "Rafik Belghali",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 235266,
+    "name": "Christian Früchtl",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 243787,
+    "name": "Ylber Ramadani",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 253139,
+    "name": "Santiago Pierotti",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "AD",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 259299,
+    "name": "Jamil Siebert",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 271197,
+    "name": "Lameck Banda",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "ED",
+      "AD",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 273915,
+    "name": "Nikola Štulić",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 279239,
+    "name": "Jayden Addai",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 229743,
+    "name": "Alessandro Deiola",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 202886,
+    "name": "Benjamin Siegrist",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 239795,
+    "name": "Caleb Ekuban",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 276477,
+    "name": "Alessandro Marcandalli",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 240660,
+    "name": "Mehdi Léris",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "ES",
+      "TS",
+      "AD"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 192840,
+    "name": "Milan Đurić",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 220475,
+    "name": "Alberto Grassi",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 226108,
+    "name": "Filippo Romagna",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 265761,
+    "name": "Cristian Volpato",
+    "overall": 70,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 75085,
+    "name": "Vasilije Adžić",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 189342,
+    "name": "Carlo Pinsoglio",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 266123,
+    "name": "Oliver Provstgaard",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 80283,
+    "name": "Giovane Santana",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AD",
+      "ED",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 246164,
+    "name": "Lautaro Valenti",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 263229,
+    "name": "Mateo Pellegrino",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 276680,
+    "name": "Jan Ziółkowski",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 258507,
+    "name": "Rafael Obrador Burguera",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 76411,
+    "name": "Idrissa Gueye",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 246832,
+    "name": "Vakoun Issouf Bayo",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 273628,
+    "name": "Tobias Slotsager",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 70555,
+    "name": "Tiago Gabriel Coelho Oliveira",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 270888,
+    "name": "Gaby Jean",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 271198,
+    "name": "Medon Berisha",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 271539,
+    "name": "Danilo Filipe Melo Veiga",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 71730,
+    "name": "Agustín Albarracín",
+    "overall": 69,
+    "roles": [
+      "AS",
+      "AD",
+      "COC",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 73095,
+    "name": "Riyad Idrissi",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 252942,
+    "name": "Gennaro Borrelli",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 219584,
+    "name": "Luca Lezzerini",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 277309,
+    "name": "Henrik Meister",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 74071,
+    "name": "Romano Floriani Mussolini",
+    "overall": 69,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 81732,
+    "name": "Pedro Felipe de Jesus Gomes",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 274702,
+    "name": "Luca Lipani",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 219715,
+    "name": "Raffaele Di Gennaro",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 275978,
+    "name": "Petar Ratkov",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 271385,
+    "name": "Edoardo Corvi",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 272687,
+    "name": "Benjamin Cremaschi",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 248474,
+    "name": "Tino Anjorin",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 278319,
+    "name": "Luca Marianucci",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 247668,
+    "name": "Konan N'Dri",
+    "overall": 68,
+    "roles": [
+      "ED",
+      "AD",
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 263657,
+    "name": "Þórir Jóhann Helgason",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 276485,
+    "name": "Patrizio Masini",
+    "overall": 68,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 229574,
+    "name": "Arturo Calabresi",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "TD",
+      "ED"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 252313,
+    "name": "Marius Marin",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 255562,
+    "name": "Filip Stojilković",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 268790,
+    "name": "Gabriele Piccinini",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 277118,
+    "name": "Mikayil Faye",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 248787,
+    "name": "Luca Moro",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 77615,
+    "name": "Matteo Cocchi",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 71000,
+    "name": "Leonardo Cerri",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 275163,
+    "name": "Reda Belahyane",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 277802,
+    "name": "Edoardo Motta",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 220532,
+    "name": "Nikita Contini",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 276706,
+    "name": "Antonio Vergara",
+    "overall": 67,
+    "roles": [
+      "AD",
+      "ED",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 266257,
+    "name": "Emirhan İlkhan",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 278724,
+    "name": "Eivind Helland",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 74092,
+    "name": "Isaac Aguiar Tomich",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 79069,
+    "name": "Andrias Edmundsson",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 210940,
+    "name": "Simone Perilli",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 257104,
+    "name": "Kieron Bowie",
+    "overall": 67,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 246649,
+    "name": "Filip Marchwiński",
+    "overall": 67,
+    "roles": [
+      "COC",
+      "ATT",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 270463,
+    "name": "Nikola Čavlina",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 205850,
+    "name": "Leonardo Pavoletti",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 72180,
+    "name": "Niccolò Fortini",
+    "overall": 67,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 74485,
+    "name": "Jeff Ekhator",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 79913,
+    "name": "Alexsandro Amorim",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 271882,
+    "name": "Sebastian Otoa",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 70471,
+    "name": "Ebenezer Akinsanmiro",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 205496,
+    "name": "David Nicolás Andrade",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 270657,
+    "name": "Edoardo Iannoni",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 276705,
+    "name": "Edoardo Pieragnolo",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 82087,
+    "name": "Matteo Lavelli",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 274444,
+    "name": "Adrian Przyborek",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "ED",
+      "AD",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 278436,
+    "name": "Mariano Troilo",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 80861,
+    "name": "Fallou Cham",
+    "overall": 66,
+    "roles": [
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 80006,
+    "name": "Matías Pérez",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 247528,
+    "name": "Corrie Ndaba",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "DC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 73838,
+    "name": "Alen Sherri",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 80407,
+    "name": "Joseph Liteta",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 253464,
+    "name": "Malthe Højholt",
+    "overall": 66,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 72098,
+    "name": "Darryl Bakola",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 235806,
+    "name": "Giacomo Satalino",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 76955,
+    "name": "Relja Obrić",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 76429,
+    "name": "Luka Topalovič",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 77523,
+    "name": "Alain Taho",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 73162,
+    "name": "Cristobal Muñoz López",
+    "overall": 65,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 73286,
+    "name": "David Odogu",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 279782,
+    "name": "Zachary Athekame",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 75647,
+    "name": "Sascha Britschgi",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 70480,
+    "name": "Alieu Njie",
+    "overall": 65,
+    "roles": [
+      "ATT",
+      "AS",
+      "ES"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 80380,
+    "name": "Branimir Mlačić",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 263949,
+    "name": "Sadik Fofana",
+    "overall": 65,
+    "roles": [
+      "CDC",
+      "DC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 279202,
+    "name": "Francesco Camarda",
+    "overall": 65,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 81307,
+    "name": "Lorran Lucas Pereira de Sousa",
+    "overall": 65,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 74448,
+    "name": "Francesco Folino",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 275130,
+    "name": "Nesta Elphege",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 80045,
+    "name": "Radosław Żelezny",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 262930,
+    "name": "Daniel Oyegoke",
+    "overall": 64,
+    "roles": [
+      "DC",
+      "TD",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 266848,
+    "name": "Oumar Ngom",
+    "overall": 64,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 186611,
+    "name": "Mauro Vigorito",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 71553,
+    "name": "Nils Zätterström",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 71001,
+    "name": "Simone Scaglia",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera"
+  },
+  {
+    "player_id": 270485,
+    "name": "Franco Carboni",
+    "overall": 63,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 278280,
+    "name": "Filippo Rinaldi",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 275647,
+    "name": "Juan David Arizala",
+    "overall": 63,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 71296,
+    "name": "İsak Vural",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 72912,
+    "name": "Rosen Bozhinov",
+    "overall": 63,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 74573,
+    "name": "Dominic Vavassori",
+    "overall": 62,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 194894,
+    "name": "Francesco Rossi",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio"
+  },
+  {
+    "player_id": 278338,
+    "name": "Saná Fernandes",
+    "overall": 62,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 72179,
+    "name": "Lorenzo Torriani",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 81252,
+    "name": "Cheveyo Balentien",
+    "overall": 62,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 74453,
+    "name": "Daniel Mikołajewski",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 76172,
+    "name": "Lorenzo Venturino",
+    "overall": 62,
+    "roles": [
+      "ED",
+      "ES",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 80604,
+    "name": "Niko Kovač",
+    "overall": 62,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 80606,
+    "name": "Olaf Gorter",
+    "overall": 62,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 74768,
+    "name": "Othniël Raterink",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 82808,
+    "name": "Yael Trepy",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 83827,
+    "name": "Paul Mendy",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 74926,
+    "name": "Eddy Kouadio",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 74484,
+    "name": "Gaël Lafont",
+    "overall": 62,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 225432,
+    "name": "Daniele Sommariva",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 74876,
+    "name": "Daniel Denoon",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 80811,
+    "name": "Gioele Zacchi",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 77325,
+    "name": "Leon Jakirović",
+    "overall": 61,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 82088,
+    "name": "Mattia Mosconi",
+    "overall": 61,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra"
+  },
+  {
+    "player_id": 270217,
+    "name": "Alessio Furlanetto",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 81972,
+    "name": "Alessandro Cardinali",
+    "overall": 61,
+    "roles": [
+      "ES",
+      "ED",
+      "ATT",
+      "AS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 278623,
+    "name": "Jasper Samooja",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce"
+  },
+  {
+    "player_id": 80505,
+    "name": "Eman Košpo",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 77832,
+    "name": "Filippo Carbone",
+    "overall": 61,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 84080,
+    "name": "Mamedi Doucouré",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 278294,
+    "name": "Francesco Coppola",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 82435,
+    "name": "Tommaso Macchioni",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 79095,
+    "name": "Antonio Arena",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina"
+  },
+  {
+    "player_id": 75126,
+    "name": "Adrian Lahdo",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 83223,
+    "name": "Luís Balbo",
+    "overall": 60,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 278331,
+    "name": "Lapo Nava",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 82434,
+    "name": "Christian Frangella",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo"
+  },
+  {
+    "player_id": 81592,
+    "name": "Valerio Farcomeni",
+    "overall": 59,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio"
+  },
+  {
+    "player_id": 74010,
+    "name": "Jacopo Sardo",
+    "overall": 59,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 76027,
+    "name": "Sergiu Perciun",
+    "overall": 59,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 81251,
+    "name": "Ioan Vermeșan",
+    "overall": 59,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 271199,
+    "name": "Giuseppe Ciocci",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  },
+  {
+    "player_id": 85105,
+    "name": "Latif Ouedraogo",
+    "overall": 59,
+    "roles": [
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 80504,
+    "name": "Henrique Menke Lopes",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como"
+  },
+  {
+    "player_id": 77830,
+    "name": "Joi Nuredini",
+    "overall": 58,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 85106,
+    "name": "Jacopo Grossi",
+    "overall": 58,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 85232,
+    "name": "Simone Lottici Tessadri",
+    "overall": 58,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cremonese",
+    "mapped_team": "Cremonese"
+  },
+  {
+    "player_id": 81468,
+    "name": "Gianluca Astaldi",
+    "overall": 56,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 75443,
+    "name": "Tommaso Gabellini",
+    "overall": 56,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 81974,
+    "name": "Lapo Siviero",
+    "overall": 56,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata"
+  },
+  {
+    "player_id": 80203,
+    "name": "Alessandro Nunziante",
+    "overall": 56,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 72322,
+    "name": "Junior Ajayi",
+    "overall": 56,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 72397,
+    "name": "Giacomo Toniolo",
+    "overall": 56,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu"
+  },
+  {
+    "player_id": 80508,
+    "name": "Riccardo Braschi",
+    "overall": 56,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola"
+  },
+  {
+    "player_id": 81467,
+    "name": "Ernestas Lysionok",
+    "overall": 56,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu"
+  },
+  {
+    "player_id": 81646,
+    "name": "Brando Bettazzi",
+    "overall": 56,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Pisa",
+    "mapped_team": "Pisa"
+  },
+  {
+    "player_id": 81526,
+    "name": "Mathias Ferrante",
+    "overall": 54,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli"
+  },
+  {
+    "player_id": 77558,
+    "name": "Abdoulaye Camara",
+    "overall": 54,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera"
+  },
+  {
+    "player_id": 75741,
+    "name": "Massimo Pessina",
+    "overall": 54,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna"
+  },
+  {
+    "player_id": 76121,
+    "name": "Elia Plicco",
+    "overall": 53,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma"
+  },
+  {
+    "player_id": 80809,
+    "name": "Matteo Pittarella",
+    "overall": 52,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera"
+  },
+  {
+    "player_id": 81328,
+    "name": "Vincenzo Sarno",
+    "overall": 52,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari"
+  }
+]

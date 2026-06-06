@@ -1,0 +1,7504 @@
+[
+  {
+    "player_id": 9676,
+    "name": "Samuel Eto'o",
+    "overall": 86,
+    "roles": [
+      "ATT",
+      "ATD",
+      "ATS",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 48717,
+    "name": "Júlio César Soares Espíndola",
+    "overall": 86,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 139869,
+    "name": "Wesley Sneijder",
+    "overall": 86,
+    "roles": [
+      "COC",
+      "CC",
+      "ES",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 41236,
+    "name": "Zlatan Ibrahimović",
+    "overall": 86,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 107715,
+    "name": "Lucimar da Silva Ferreira",
+    "overall": 85,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 135455,
+    "name": "Maicon Douglas Sisenando",
+    "overall": 85,
+    "roles": [
+      "ADA",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1179,
+    "name": "Gianluigi Buffon",
+    "overall": 85,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138956,
+    "name": "Giorgio Chiellini",
+    "overall": 85,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 23461,
+    "name": "Walter Samuel",
+    "overall": 84,
+    "roles": [
+      "DC",
+      "LIB",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138123,
+    "name": "Esteban Cambiasso",
+    "overall": 84,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES",
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 142708,
+    "name": "Diego Milito",
+    "overall": 84,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163297,
+    "name": "Miloš Krasić",
+    "overall": 84,
+    "roles": [
+      "ED",
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164240,
+    "name": "Thiago Emiliano da Silva",
+    "overall": 84,
+    "roles": [
+      "DC",
+      "CDC",
+      "LIB"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 179813,
+    "name": "Edinson Cavani",
+    "overall": 84,
+    "roles": [
+      "ATT",
+      "ATD",
+      "AT",
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 120274,
+    "name": "Antonio Di Natale",
+    "overall": 84,
+    "roles": [
+      "ATS",
+      "ATD",
+      "ATT",
+      "AS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 53302,
+    "name": "Daniele De Rossi",
+    "overall": 83,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1088,
+    "name": "Alessandro Nesta",
+    "overall": 83,
+    "roles": [
+      "DC",
+      "LIB",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7631,
+    "name": "Antonio Cassano",
+    "overall": 83,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 53116,
+    "name": "Fabrizio Miccoli",
+    "overall": 83,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1041,
+    "name": "Javier Zanetti",
+    "overall": 82,
+    "roles": [
+      "ADA",
+      "ASA",
+      "CDC",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137361,
+    "name": "Giampaolo Pazzini",
+    "overall": 82,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 46042,
+    "name": "Juan Silveira dos Santos",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123576,
+    "name": "Marco Borriello",
+    "overall": 82,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 180432,
+    "name": "Anderson Hernanes de Carvalho Viana Lima",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 136144,
+    "name": "Robson De Souza",
+    "overall": 82,
+    "roles": [
+      "AT",
+      "AS",
+      "AD",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 180175,
+    "name": "Alexandre Rodrigues da Silva",
+    "overall": 82,
+    "roles": [
+      "ATD",
+      "ATS",
+      "ATT",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159065,
+    "name": "Ezequiel Lavezzi",
+    "overall": 82,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 171877,
+    "name": "Marek Hamšik",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "CC",
+      "ATD",
+      "ATS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184941,
+    "name": "Alexis Sánchez",
+    "overall": 82,
+    "roles": [
+      "AD",
+      "ATD",
+      "AT",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 191180,
+    "name": "Javier Pastore",
+    "overall": 82,
+    "roles": [
+      "COC",
+      "AT",
+      "CC",
+      "ATD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 6908,
+    "name": "Dejan Stanković",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "COC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159261,
+    "name": "Fabio Quagliarella",
+    "overall": 81,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD",
+      "ATS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1219,
+    "name": "Christian Abbiati",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7763,
+    "name": "Andrea Pirlo",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 19765,
+    "name": "Mark van Bommel",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1238,
+    "name": "Francesco Totti",
+    "overall": 81,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 106850,
+    "name": "Mirko Vučinić",
+    "overall": 81,
+    "roles": [
+      "ATS",
+      "ATT",
+      "ATD",
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1289,
+    "name": "Sebastien Frey",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 16619,
+    "name": "Iván Córdoba",
+    "overall": 80,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49370,
+    "name": "Thiago Motta",
+    "overall": 80,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137506,
+    "name": "Goran Pandev",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1075,
+    "name": "Alessandro Del Piero",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "ATS",
+      "COC",
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 103935,
+    "name": "Alberto Aquilani",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173210,
+    "name": "Claudio Marchisio",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "ES",
+      "ED",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 41635,
+    "name": "Philippe Mexès",
+    "overall": 80,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 153177,
+    "name": "Mauro Zárate",
+    "overall": 80,
+    "roles": [
+      "ATD",
+      "ATS",
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 53055,
+    "name": "Massimo Ambrosini",
+    "overall": 80,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173909,
+    "name": "Kevin-Prince Boateng",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4667,
+    "name": "Morgan De Sanctis",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 24248,
+    "name": "David Pizarro",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 160766,
+    "name": "Jérémy Ménez",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "AD",
+      "AS",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 6747,
+    "name": "Cristian Chivu",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 182168,
+    "name": "Andrea Ranocchia",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 156722,
+    "name": "Mathieu Flamini",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 135475,
+    "name": "Felipe Melo de Carvalho",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137854,
+    "name": "Marco Storari",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177528,
+    "name": "Alessandro Matri",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184344,
+    "name": "Leonardo Bonucci",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "LIB",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51100,
+    "name": "Stefano Mauri",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "ES",
+      "CC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 139038,
+    "name": "Nicolás Burdisso",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164300,
+    "name": "André Gonçalves Dias",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 169386,
+    "name": "Sergio Floccari",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1256,
+    "name": "Clarence Seedorf",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "ES",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149184,
+    "name": "Christian Maggio",
+    "overall": 79,
+    "roles": [
+      "ED",
+      "ADA",
+      "AD",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 182859,
+    "name": "Walter Gargano",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168435,
+    "name": "Salvatore Sirigu",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 136126,
+    "name": "Júlio Sérgio Bertagnoli",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184410,
+    "name": "Andrei Murgu",
+    "overall": 79,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1099,
+    "name": "Marco Di Vaio",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 52829,
+    "name": "Angelo Palombo",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 139668,
+    "name": "Federico Marchetti",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200647,
+    "name": "Josip Iličić",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "CC",
+      "ATS",
+      "ATD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 5879,
+    "name": "Alberto Gilardino",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159287,
+    "name": "Riccardo Montolivo",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 167305,
+    "name": "Juan Manuel Vargas",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "ASA",
+      "TS",
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 181820,
+    "name": "Stevan Jovetić",
+    "overall": 79,
+    "roles": [
+      "AT",
+      "ATT",
+      "ATS",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45595,
+    "name": "Daniele Bonera",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD",
+      "LIB"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 24332,
+    "name": "Vincenzo Iaquinta",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD",
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 103936,
+    "name": "Simone Pepe",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137186,
+    "name": "Andrea Barzagli",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4731,
+    "name": "Simone Perrotta",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 52797,
+    "name": "Cristian Daniel Ledesma",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123603,
+    "name": "Hugo Campagnaro",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD",
+      "TS",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137410,
+    "name": "Daniele Gastaldello",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 12445,
+    "name": "John Arne Riise",
+    "overall": 78,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 136185,
+    "name": "Fábio Henrique Simplício",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "AT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138806,
+    "name": "Maxi López",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149231,
+    "name": "Rodrigo Ferrante Taddei",
+    "overall": 78,
+    "roles": [
+      "AD",
+      "ED",
+      "COC",
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158810,
+    "name": "Gökhan Inler",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 187800,
+    "name": "Mauricio Isla",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "CC",
+      "CDC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168354,
+    "name": "Emiliano Viviano",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149571,
+    "name": "Sergio Pellissier",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137380,
+    "name": "Mattia Cassani",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173208,
+    "name": "Domenico Criscito",
+    "overall": 78,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES",
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178007,
+    "name": "Miguel Luís Pinto Veloso",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7584,
+    "name": "Luca Castellazzi",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137160,
+    "name": "Marco Amelia",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 23015,
+    "name": "Luca Toni",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 142627,
+    "name": "Jorge Andrés Martínez",
+    "overall": 77,
+    "roles": [
+      "ATD",
+      "ED",
+      "ES",
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 157393,
+    "name": "Mohamed Sissoko",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45462,
+    "name": "Marco Cassetti",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 52810,
+    "name": "Giuseppe Sculli",
+    "overall": 77,
+    "roles": [
+      "ATD",
+      "ATS",
+      "AD",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 108080,
+    "name": "Stephan Lichtsteiner",
+    "overall": 77,
+    "roles": [
+      "ADA",
+      "TD",
+      "DC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149242,
+    "name": "Francelino da Silva",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4202,
+    "name": "Gennaro Gattuso",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 5099,
+    "name": "Gianluca Zambrotta",
+    "overall": 77,
+    "roles": [
+      "ADA",
+      "ASA",
+      "TD",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 24438,
+    "name": "Mario Yepes",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137427,
+    "name": "Luca Antonini",
+    "overall": 77,
+    "roles": [
+      "ASA",
+      "ADA",
+      "TS",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49031,
+    "name": "Stefano Sorrentino",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1178,
+    "name": "Paolo Cannavaro",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168297,
+    "name": "Gianluca Curci",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193469,
+    "name": "Víctor Ruíz Torre",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 106019,
+    "name": "Adriano Leite Ribeiro",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 108061,
+    "name": "Reto Ziegler",
+    "overall": 77,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177957,
+    "name": "Stefano Guberti",
+    "overall": 77,
+    "roles": [
+      "AS",
+      "AD",
+      "ES",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 103496,
+    "name": "Andrea Cossu",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "AT",
+      "AD",
+      "AS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173198,
+    "name": "Davide Astori",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 105866,
+    "name": "Cesare Bovo",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113045,
+    "name": "Mauricio Pinilla",
+    "overall": 77,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113176,
+    "name": "Federico Balzaretti",
+    "overall": 77,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 5213,
+    "name": "Alessandro Gamberini",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 105330,
+    "name": "Gaetano D'Agostino",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 152999,
+    "name": "Rodrigo Palacio",
+    "overall": 77,
+    "roles": [
+      "AT",
+      "AD",
+      "ATD",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163873,
+    "name": "Eduardo dos Reis Carvalho",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168607,
+    "name": "Márcio Rafael Ferreira de Souza",
+    "overall": 77,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137241,
+    "name": "Houssine Kharja",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177844,
+    "name": "Marco Materazzi",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189242,
+    "name": "Philippe Coutinho Correia",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "ED",
+      "CC",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 140293,
+    "name": "Antonio Mirante",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173212,
+    "name": "Paolo De Ceglie",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51113,
+    "name": "Tommaso Rocchi",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATS",
+      "ATD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137214,
+    "name": "Pasquale Foggia",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 165109,
+    "name": "Stefan Radu",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 182494,
+    "name": "Fernando Muslera",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1198,
+    "name": "Filippo Inzaghi",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168312,
+    "name": "Ignazio Abate",
+    "overall": 76,
+    "roles": [
+      "ADA",
+      "TD",
+      "AD",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 169808,
+    "name": "Urby Emanuelson",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "AS",
+      "ASA",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49633,
+    "name": "Andrea Dossena",
+    "overall": 76,
+    "roles": [
+      "ASA",
+      "ES",
+      "TS",
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123623,
+    "name": "Franco Semioli",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "AS",
+      "ED",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149217,
+    "name": "Giuseppe Mascara",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "AT",
+      "ATS",
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49617,
+    "name": "Cristian Zaccardo",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149568,
+    "name": "Amauri Carvalho De Oliveira",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184431,
+    "name": "Sebastian Giovinco",
+    "overall": 76,
+    "roles": [
+      "ATS",
+      "AS",
+      "AD",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45605,
+    "name": "Matteo Brighi",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177509,
+    "name": "Mehdi Benatia",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177983,
+    "name": "Cristián Zapata",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123597,
+    "name": "Stefano Lucchini",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158128,
+    "name": "Daniele Mannini",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188484,
+    "name": "Abel Hernández",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194108,
+    "name": "Armin Bačinovič",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172280,
+    "name": "Erik Huseklepp",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "COC",
+      "ATT",
+      "ED"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 105846,
+    "name": "Artur Boruc",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178393,
+    "name": "Alessio Cerci",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "AS",
+      "ED",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194404,
+    "name": "Norberto Murara Neto",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7647,
+    "name": "Dario Dainelli",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 34824,
+    "name": "Antonio Floro Flores",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123610,
+    "name": "Giandomenico Mesto",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "TD",
+      "AD",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137242,
+    "name": "Luis Antonio Jiménez",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 6895,
+    "name": "Alexander Manninger",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 105477,
+    "name": "David Suazo",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "ATD",
+      "ATS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51813,
+    "name": "Mark Bresciano",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194359,
+    "name": "Yuto Nagatomo",
+    "overall": 75,
+    "roles": [
+      "ADA",
+      "ASA",
+      "TD",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 40988,
+    "name": "Zdeněk Grygera",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "DC",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137133,
+    "name": "Giuseppe Biava",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4724,
+    "name": "Nicola Legrottaglie",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137519,
+    "name": "Michele Pazienza",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138673,
+    "name": "Hassan Yebda",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177981,
+    "name": "Fernando Tissone",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 185174,
+    "name": "Andrea Poli",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 176546,
+    "name": "Juan Camilo Zúñiga",
+    "overall": 75,
+    "roles": [
+      "ADA",
+      "TD",
+      "AD",
+      "ASA"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 182177,
+    "name": "Fabiano Santacroce",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 146435,
+    "name": "José Fernando Marqués Martín",
+    "overall": 75,
+    "roles": [
+      "AD",
+      "AS",
+      "ED",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149306,
+    "name": "Valeri Bojinov",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "ATD",
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159284,
+    "name": "Raffaele Palladino",
+    "overall": 75,
+    "roles": [
+      "ATS",
+      "ATD",
+      "AS",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163461,
+    "name": "Daniele Galloppa",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 134982,
+    "name": "Donieber Alexander Marangão",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 136875,
+    "name": "Bogdan Lobonţ",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164,
+    "name": "Giampiero Pinzi",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51101,
+    "name": "Maurizio Domizzi",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 167423,
+    "name": "Cristian Llama",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 142938,
+    "name": "Germán Denis",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 162835,
+    "name": "Samir Handanovič",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186832,
+    "name": "Kwadwo Asamoah",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159518,
+    "name": "Diego Pérez",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "ED",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163925,
+    "name": "Alessandro Diamanti",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "COC",
+      "ATS",
+      "ATD"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51730,
+    "name": "Massimo Maccarone",
+    "overall": 75,
+    "roles": [
+      "ATS",
+      "ATT",
+      "AT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184312,
+    "name": "Jonathan Biabiany",
+    "overall": 75,
+    "roles": [
+      "AD",
+      "ATD",
+      "AS",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 185120,
+    "name": "Massimo Volta",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 185173,
+    "name": "Vladimir Koman",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "ED",
+      "COC",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137440,
+    "name": "Giulio Migliaccio",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 156988,
+    "name": "Antonio Nocerino",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163979,
+    "name": "Paulo Vitor Barreto de Souza",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD",
+      "ATS"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 143076,
+    "name": "Alejandro Gómez",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AD",
+      "AS",
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173857,
+    "name": "Mariano Andújar",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4832,
+    "name": "Marco Marchionni",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123629,
+    "name": "Mario Santana",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AD",
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 161805,
+    "name": "Valon Behrami",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "ADA",
+      "AD",
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 161999,
+    "name": "Abdoulay Konko",
+    "overall": 75,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177937,
+    "name": "José Manuel Flores Moreno",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178604,
+    "name": "Boško Janković",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AS",
+      "ES",
+      "ATS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137460,
+    "name": "Alessandro Rosina",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "ATD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189484,
+    "name": "Davide Santon",
+    "overall": 75,
+    "roles": [
+      "ADA",
+      "ASA",
+      "TD",
+      "TS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192841,
+    "name": "Emanuele Giaccherini",
+    "overall": 75,
+    "roles": [
+      "AS",
+      "ATS",
+      "AD",
+      "ES"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45733,
+    "name": "Fabio Grosso",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 169464,
+    "name": "Armand Traoré",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 171097,
+    "name": "Marco Motta",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4514,
+    "name": "Christian Brocchi",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 14907,
+    "name": "Albano Bizzarri",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 111023,
+    "name": "Javier Garrido Behobide",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163402,
+    "name": "Andrea Coda",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172879,
+    "name": "Sokratis Papastathopoulos",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7656,
+    "name": "Manuele Blasi",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 143121,
+    "name": "José Ernesto Sosa",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186140,
+    "name": "Federico Macheda",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7512,
+    "name": "Hernán Crespo",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138699,
+    "name": "Blerim Džemaili",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 165526,
+    "name": "Gabriel Paletta",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173221,
+    "name": "Antonio Candreva",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ED",
+      "ES",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 176605,
+    "name": "Pablo Estifer Armero",
+    "overall": 74,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178311,
+    "name": "Eder Citadin Martins",
+    "overall": 74,
+    "roles": [
+      "AT",
+      "ATD",
+      "ATS",
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184976,
+    "name": "Davide Lanzafame",
+    "overall": 74,
+    "roles": [
+      "ATD",
+      "ATS",
+      "ED",
+      "ES"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113219,
+    "name": "Michele Marcolini",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123611,
+    "name": "Andrea Mantovani",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 139274,
+    "name": "Boštjan Cesar",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS",
+      "LIB"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177935,
+    "name": "Kévin Constant",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "AT",
+      "CC",
+      "AS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 10584,
+    "name": "Luciano Zauri",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "TS",
+      "DC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 161969,
+    "name": "Nicola Pozzi",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 105474,
+    "name": "Daniele Conti",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178264,
+    "name": "Anderson Miguel da Silva",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 165180,
+    "name": "Dorin Goian",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 105308,
+    "name": "Jean Francois Gillet",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 161941,
+    "name": "Edgar Álvarez",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "AD",
+      "ATD",
+      "ADA"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 41378,
+    "name": "Per Krøldrup",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 122361,
+    "name": "Marco Donadel",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7142,
+    "name": "Kakhaber Kaladze",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 46736,
+    "name": "Emiliano Moretti",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "DC",
+      "ASA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51760,
+    "name": "Omar Milanetto",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149218,
+    "name": "Marco Rossi",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "ED",
+      "ES",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190875,
+    "name": "Juraj Kucka",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137129,
+    "name": "Francesco Antonioli",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 176846,
+    "name": "McDonald Mariga",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 102088,
+    "name": "Stefano Morrone",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168353,
+    "name": "Leandro Rinaudo",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149147,
+    "name": "Guglielmo Stendardo",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177643,
+    "name": "Mobido Diakité",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4556,
+    "name": "Cristiano Lucarelli",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137185,
+    "name": "Salvatore Aronica",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137228,
+    "name": "Gianluca Grava",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173147,
+    "name": "Daniele Dessena",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137373,
+    "name": "Massimo Gobbi",
+    "overall": 73,
+    "roles": [
+      "ASA",
+      "ES",
+      "TS",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 142359,
+    "name": "Alessandro Lucarelli",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS",
+      "LIB"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 169388,
+    "name": "Francesco Valiani",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "ED",
+      "AD",
+      "AS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 144511,
+    "name": "Leandro Greco",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 2,
+    "name": "Giovanni Pasquale",
+    "overall": 73,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 169383,
+    "name": "Adrian Ricchiuti",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC",
+      "ATS",
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138698,
+    "name": "Almen Abdi",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149073,
+    "name": "Gianluca Comotto",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ADA"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 154634,
+    "name": "Manuel Pasqual",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201914,
+    "name": "Michele Camporese",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 173204,
+    "name": "Luca Antonelli",
+    "overall": 73,
+    "roles": [
+      "ASA",
+      "ES",
+      "TS",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45618,
+    "name": "Gaby Mudingayi",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137179,
+    "name": "Daniele Portanova",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189067,
+    "name": "Miguel Angel Britos",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 13077,
+    "name": "Cristiano Zanetti",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49026,
+    "name": "Andrea Caracciolo",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 50579,
+    "name": "Matteo Sereni",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138885,
+    "name": "Pietro Accardi",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138871,
+    "name": "Davide Moscardelli",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138918,
+    "name": "Luca Rigoni",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149263,
+    "name": "Luciano Siqueira de Oliveira",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "AD",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158217,
+    "name": "Mariano Bogliacino",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC",
+      "ES",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158438,
+    "name": "Gelson Fernandes",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 123586,
+    "name": "Michael Agazzi",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 162174,
+    "name": "Davide Biondini",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163491,
+    "name": "Andrea Lazzari",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178490,
+    "name": "Robert Acquafresca",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178518,
+    "name": "Radja Nainggolan",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186695,
+    "name": "Ezequiel Muñoz",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 104047,
+    "name": "Sergio Bernardo Almirón",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 171975,
+    "name": "Gonzalo Bergessio",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 52935,
+    "name": "Cesare Natali",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 73,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190544,
+    "name": "Adem Ljajić",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186961,
+    "name": "Alberto Paloschi",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201342,
+    "name": "Frederik Sørensen",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 3041,
+    "name": "Hasan Salihamidzic",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "ADA",
+      "ASA",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 165440,
+    "name": "Angelo Mariano de Almeida",
+    "overall": 72,
+    "roles": [
+      "ADA",
+      "ED",
+      "TD",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 182860,
+    "name": "Álvaro Rafael González",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED",
+      "ADA"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188871,
+    "name": "Libor Kozák",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 5203,
+    "name": "Massimo Oddo",
+    "overall": 72,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED",
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 6083,
+    "name": "Marek Jankulovski",
+    "overall": 72,
+    "roles": [
+      "ASA",
+      "ES",
+      "TS",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 191055,
+    "name": "Dídac Vila Roselló",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ASA",
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202460,
+    "name": "Fernando Uribe",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113278,
+    "name": "Francesco Modesto",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "ASA",
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202058,
+    "name": "Sinisa Andelković",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "CDC",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149165,
+    "name": "Marco Biagianti",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES",
+      "COC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158088,
+    "name": "Pablo Álvarez",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "TS",
+      "ADA",
+      "ASA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159028,
+    "name": "Matías Silvestre",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 171830,
+    "name": "Nicolás Spolli",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 140488,
+    "name": "Damiano Ferronetti",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188506,
+    "name": "Riccardo Meggiorini",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45754,
+    "name": "Roberto Guana",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113184,
+    "name": "Davide Mandelli",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 170964,
+    "name": "Pablo Granoche",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172835,
+    "name": "Marco Andreolli",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158994,
+    "name": "Marco Padalino",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163490,
+    "name": "Michele Canini",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 169115,
+    "name": "Andrea Masiello",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "LIB",
+      "DC",
+      "TS"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178063,
+    "name": "Abdel Kader Ghezzal",
+    "overall": 72,
+    "roles": [
+      "AT",
+      "ATS",
+      "ES",
+      "AS"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 120238,
+    "name": "Francesco Lodi",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "AD",
+      "CC",
+      "ED"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158089,
+    "name": "Pablo Ledesma",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192838,
+    "name": "Ezequiel Schelotto",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "AD",
+      "ADA",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199205,
+    "name": "Raphael Martinho Alves de Lima",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "AS",
+      "COC",
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 156196,
+    "name": "Gennaro Iezzo",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178470,
+    "name": "Luigi Vitale",
+    "overall": 71,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202070,
+    "name": "Antonio Calvo Arandes",
+    "overall": 71,
+    "roles": [
+      "AD",
+      "ATD",
+      "ED",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 46807,
+    "name": "Paolo Castellini",
+    "overall": 71,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 106762,
+    "name": "Mourad Meghni",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "CC",
+      "ED",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 150035,
+    "name": "Vangelis Moras",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 603,
+    "name": "Flavio Roma",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201508,
+    "name": "Gastón Ramirez",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "AS",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190604,
+    "name": "Rodney Strasser",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200700,
+    "name": "Alexander Merkel",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "ES",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51733,
+    "name": "Emilson Sánchez Cribari",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 107494,
+    "name": "Andrea Campagnolo",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138911,
+    "name": "Christian Terlizzi",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 143183,
+    "name": "Ezequiel Carboni",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 154563,
+    "name": "Ciro Capuano",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 560,
+    "name": "Bernardo Corradi",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 156986,
+    "name": "Gennaro Sardo",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177149,
+    "name": "Bojan Jokič",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 48826,
+    "name": "Rubén Olivera",
+    "overall": 71,
+    "roles": [
+      "ATD",
+      "ATS",
+      "AD",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49613,
+    "name": "Guillermo Giacomazzi",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 176376,
+    "name": "Ignacio Piatti",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "AD",
+      "AS",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194203,
+    "name": "Nenad Tomovic",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 27971,
+    "name": "Alessandro Agostini",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 1210,
+    "name": "Massimo Donati",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138903,
+    "name": "Salvatore Masiello",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "TS",
+      "ASA",
+      "ED"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 143168,
+    "name": "Emanuel Rivas",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "ED",
+      "AS",
+      "AD"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172055,
+    "name": "Gergely Rudolf",
+    "overall": 71,
+    "roles": [
+      "AT",
+      "ATD",
+      "ATT",
+      "AS"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178091,
+    "name": "Stefano Okaka Chuka",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "ATD"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 165490,
+    "name": "Mariano Izco",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192253,
+    "name": "Fabio Sciacca",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197231,
+    "name": "Khouma Babacar",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 161938,
+    "name": "Mauro Boselli",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "ATD",
+      "ATS",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193338,
+    "name": "Mattia Destro",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 8830,
+    "name": "Giuseppe Colucci",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 8842,
+    "name": "Lionel Scaloni",
+    "overall": 70,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193337,
+    "name": "Joel Chukwuma Obi",
+    "overall": 70,
+    "roles": [
+      "AD",
+      "ED",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137483,
+    "name": "Simone Loria",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178117,
+    "name": "Aleandro Rosi",
+    "overall": 70,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 2181,
+    "name": "Emanuele Belardi",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 167514,
+    "name": "Dušan Basta",
+    "overall": 70,
+    "roles": [
+      "ADA",
+      "ED",
+      "TD",
+      "AD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189669,
+    "name": "Santiago Morero",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 176553,
+    "name": "Simone Missiroli",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137232,
+    "name": "Massimo Paci",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "LIB",
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202061,
+    "name": "Jasmin Kurtić",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137378,
+    "name": "Alessandro Gazzi",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149269,
+    "name": "Alessandro Potenza",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177960,
+    "name": "Simone Pesce",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "ED",
+      "CC",
+      "TS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178315,
+    "name": "Takayuki Morimoto",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183228,
+    "name": "Błażej Augustyn",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 6,
+    "name": "Alessio Scarpi",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138129,
+    "name": "György Garics",
+    "overall": 70,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189736,
+    "name": "Federico Casarini",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "CC",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194988,
+    "name": "Henry Damián Gimenez",
+    "overall": 70,
+    "roles": [
+      "ATS",
+      "ATD",
+      "ES",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149129,
+    "name": "Nicolás Córdova",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "ES"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172233,
+    "name": "Perparim Hetemaj",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC",
+      "AT",
+      "CDC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 157801,
+    "name": "Nico Pulzetti",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178430,
+    "name": "Nicholas Frey",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149086,
+    "name": "Jedaias Capucho Neves",
+    "overall": 70,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "AD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149309,
+    "name": "Antonio Rosati",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159040,
+    "name": "Gianni Munari",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164103,
+    "name": "Gustavo Franchin Schiavolin",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184833,
+    "name": "Carlos Grossmüller",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 50247,
+    "name": "Gilberto Martínez",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189707,
+    "name": "Angelo Esmael da Costa Júnior",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164370,
+    "name": "Francesco Pisano",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "TS",
+      "ADA",
+      "ASA"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197900,
+    "name": "Pajtim Kasami",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 101978,
+    "name": "Vitaliy Kutuzov",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD",
+      "AT"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 157741,
+    "name": "Simone Bentivoglio",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177805,
+    "name": "Marco Rossi",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 768,
+    "name": "Felipe Dias da Silva Dalbelo",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 140906,
+    "name": "Erjon Bogdani",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183498,
+    "name": "Marco Parolo",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 11061,
+    "name": "Paolo Orlandoni",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4626,
+    "name": "Simone Del Nero",
+    "overall": 69,
+    "roles": [
+      "ATS",
+      "AS",
+      "ES",
+      "ASA"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200653,
+    "name": "Guillermo Burdisso",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192575,
+    "name": "Emmanuel Agyemang-Badu",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Guillermo Cuadrado",
+    "overall": 69,
+    "roles": [
+      "ADA",
+      "ED",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149598,
+    "name": "Simone Dallamano",
+    "overall": 69,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 157581,
+    "name": "Djamel Mesbah",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "ASA",
+      "TS",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113181,
+    "name": "Matteo Gianello",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200981,
+    "name": "Nicolao Dumitru",
+    "overall": 69,
+    "roles": [
+      "AT",
+      "ATS",
+      "ATD",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192329,
+    "name": "Obiorah Nwankwo",
+    "overall": 69,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178066,
+    "name": "Gianvito Plasmati",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184338,
+    "name": "Giuseppe Bellusci",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137403,
+    "name": "Andrea Pisanu",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "AS",
+      "ED",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178043,
+    "name": "Francesco Della Rocca",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "COC",
+      "ED",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 181318,
+    "name": "Albin Ekdal",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183437,
+    "name": "Matteo Rubin",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "ASA",
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 492,
+    "name": "Jonathan Zebina",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 101153,
+    "name": "Davide Possanzini",
+    "overall": 69,
+    "roles": [
+      "AT",
+      "ATT",
+      "ATD",
+      "ATS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172882,
+    "name": "Panagiotis Kone",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC",
+      "AT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164985,
+    "name": "Cyril Théréau",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 7687,
+    "name": "David Di Michele",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "ATS",
+      "AS",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 49614,
+    "name": "Ernesto Chevantón",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 185179,
+    "name": "Fabiano Medina Da Silva",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184328,
+    "name": "Gabriele Perico",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188617,
+    "name": "Simon Laner",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189436,
+    "name": "Lorenzo Ariaudo",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194228,
+    "name": "Giacomo Brichetto",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163407,
+    "name": "Andrea Raggi",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190547,
+    "name": "Kamil Glik",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 113188,
+    "name": "Vlada Avramov",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45083,
+    "name": "Steve von Bergen",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149572,
+    "name": "Paolo Sammarco",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163927,
+    "name": "Fabio Caserta",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "ED"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 102081,
+    "name": "Marco Pisano",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 12011,
+    "name": "Cristiano Lupatelli",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192205,
+    "name": "Rene Krhin",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159499,
+    "name": "Marco Zambelli",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 170046,
+    "name": "Ádám Vass",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149449,
+    "name": "Daniele Corvia",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "ATD",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178425,
+    "name": "Giuseppe Vives",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137734,
+    "name": "Francesco Benussi",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177958,
+    "name": "Michele Paolucci",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "ATS",
+      "ATD",
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 170516,
+    "name": "Nicola Belmonte",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188625,
+    "name": "Joel Ekstrand",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 104059,
+    "name": "Massimo Mutarelli",
+    "overall": 68,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184519,
+    "name": "Michele Arcari",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189169,
+    "name": "Jonathas Cristian de Jesus Maurício",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164680,
+    "name": "Zsolt Laczkó",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "ES",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200054,
+    "name": "Pedro Mba Obiang Avomo",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45702,
+    "name": "Ivan Pelizzoli",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184510,
+    "name": "Daniele Magliocchetti",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "TS",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186607,
+    "name": "Daniele Ragatzu",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184392,
+    "name": "Matteo Darmian",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200278,
+    "name": "Santiago García",
+    "overall": 68,
+    "roles": [
+      "TS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137873,
+    "name": "Alessandro Parisi",
+    "overall": 68,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178523,
+    "name": "José Ignacio Castillo",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 139669,
+    "name": "Giovanni Marchese",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 18591,
+    "name": "Igor Budan",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 29337,
+    "name": "Stephen Appiah",
+    "overall": 68,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 153184,
+    "name": "Maximiliano Pellegrino",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172494,
+    "name": "Luca Ceccarelli",
+    "overall": 68,
+    "roles": [
+      "ADA",
+      "ED",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197971,
+    "name": "Denis Alibec",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201387,
+    "name": "Felice Natalino",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192601,
+    "name": "Vincenzo Camilleri",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 54037,
+    "name": "Tommaso Berni",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149298,
+    "name": "Christian Manfredini",
+    "overall": 67,
+    "roles": [
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158730,
+    "name": "Alberto Quadri",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 138971,
+    "name": "Nicola Pavarini",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189438,
+    "name": "Simone Esposito",
+    "overall": 67,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198068,
+    "name": "Manuel Giandonato",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4498,
+    "name": "Antonio Filippini",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "TS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 53783,
+    "name": "Víctor Hugo Mareco",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159039,
+    "name": "Davide Zoboli",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200702,
+    "name": "Nnamdi Oduamadi",
+    "overall": 67,
+    "roles": [
+      "ATD",
+      "ATS",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159274,
+    "name": "Manuel Coppola",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED",
+      "ES"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188001,
+    "name": "José Eduardo de Araújo",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "DC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 185149,
+    "name": "Jan Koprivec",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194020,
+    "name": "Judilson Mamadu Tuncara Gomes",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149247,
+    "name": "Antonio Buscè",
+    "overall": 67,
+    "roles": [
+      "ED",
+      "ADA",
+      "AD",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164375,
+    "name": "Andrea Esposito",
+    "overall": 67,
+    "roles": [
+      "TD",
+      "DC",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183660,
+    "name": "Dominique Sosso Malonga",
+    "overall": 67,
+    "roles": [
+      "ATT",
+      "ATD",
+      "ATS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188949,
+    "name": "Luca Siligardi",
+    "overall": 67,
+    "roles": [
+      "AD",
+      "AS",
+      "ED",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 51779,
+    "name": "Francesco Bega",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189557,
+    "name": "Andrea Rispoli",
+    "overall": 67,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED",
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 171721,
+    "name": "Romano Perticone",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 137484,
+    "name": "Antonio Langella",
+    "overall": 67,
+    "roles": [
+      "ES",
+      "AS",
+      "ED",
+      "AD"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 149153,
+    "name": "Paul Codrea",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 171098,
+    "name": "Michele Rinaldi",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 170307,
+    "name": "Hernán Dellafiore",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183288,
+    "name": "Yohan Benalouane",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194783,
+    "name": "Niccolò Giannetti",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 140394,
+    "name": "Riccardo Bonetto",
+    "overall": 66,
+    "roles": [
+      "ASA",
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189288,
+    "name": "Gabriele Angella",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183365,
+    "name": "Nicolò Cherubin",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186589,
+    "name": "Ivan Radovanovic",
+    "overall": 66,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 158455,
+    "name": "Lorenzo Squizzi",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178492,
+    "name": "Alberto Giuliatto",
+    "overall": 66,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184761,
+    "name": "Stefano Ferrario",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202558,
+    "name": "Pablo Ceppellini",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202084,
+    "name": "Enej Jelenič",
+    "overall": 66,
+    "roles": [
+      "AD",
+      "ATD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 52951,
+    "name": "Alex Calderoni",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 177803,
+    "name": "Daniele Paponi",
+    "overall": 66,
+    "roles": [
+      "AS",
+      "AT",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201357,
+    "name": "Bruno Montelongo",
+    "overall": 66,
+    "roles": [
+      "ADA",
+      "ED",
+      "AD",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 45121,
+    "name": "Davide Baiocco",
+    "overall": 66,
+    "roles": [
+      "CDC",
+      "ED",
+      "CC",
+      "ADA"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186950,
+    "name": "Fabio Daprelà",
+    "overall": 66,
+    "roles": [
+      "TS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 106874,
+    "name": "Davide Brivio",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 176791,
+    "name": "Edward Ofere",
+    "overall": 66,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189459,
+    "name": "Jaime Romero Gómez",
+    "overall": 66,
+    "roles": [
+      "AS",
+      "ES",
+      "COC",
+      "AD"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 186753,
+    "name": "Nikola Gulan",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188485,
+    "name": "Diego Polenta",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 163972,
+    "name": "Maurizio Lauro",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198953,
+    "name": "Simone Benedetti",
+    "overall": 65,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 184331,
+    "name": "Michelangelo Albertazzi",
+    "overall": 65,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199825,
+    "name": "Filippo Boniperti",
+    "overall": 65,
+    "roles": [
+      "AT",
+      "ATD",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200384,
+    "name": "Vittorio Ferrero",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 182178,
+    "name": "Gaetano Berardi",
+    "overall": 65,
+    "roles": [
+      "DC",
+      "ASA",
+      "ADA",
+      "TS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192073,
+    "name": "Andrea Bertolacci",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189501,
+    "name": "Luca Di Laura",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 53573,
+    "name": "Filipe Vilaça Oliveira",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193511,
+    "name": "Marco Ruzittu",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201897,
+    "name": "Daniel Jara Martínez",
+    "overall": 65,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172702,
+    "name": "Filippo Savi",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198701,
+    "name": "Stefano Pettinari",
+    "overall": 65,
+    "roles": [
+      "AD",
+      "ATD",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197690,
+    "name": "Federico Carraro",
+    "overall": 65,
+    "roles": [
+      "COC",
+      "AT",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201939,
+    "name": "Cristiano Piccini",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190332,
+    "name": "Nicolás Gorobsov",
+    "overall": 65,
+    "roles": [
+      "ES",
+      "AS",
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198236,
+    "name": "Filippo Spitoni",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188016,
+    "name": "Massimiliano Benassi",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 159276,
+    "name": "Gianluca Galasso",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "TS",
+      "ADA",
+      "ASA"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 172705,
+    "name": "Gabriele Paonessa",
+    "overall": 65,
+    "roles": [
+      "COC",
+      "ATS",
+      "AS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 189034,
+    "name": "Ivan Fatic",
+    "overall": 65,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200918,
+    "name": "Christoph Knasmüllner",
+    "overall": 64,
+    "roles": [
+      "COC",
+      "AT",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201386,
+    "name": "Simone D'Agnello",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198079,
+    "name": "Marcel Büchel",
+    "overall": 64,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199839,
+    "name": "Marco Costantino",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200701,
+    "name": "Giacomo Beretta",
+    "overall": 64,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 183819,
+    "name": "Rolf Feltscher",
+    "overall": 64,
+    "roles": [
+      "TD",
+      "DC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197786,
+    "name": "Giulio Donati",
+    "overall": 64,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198223,
+    "name": "Raffaele Maiello",
+    "overall": 64,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199837,
+    "name": "Bruno Martignoni",
+    "overall": 64,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 195147,
+    "name": "Kamil Kopúnek",
+    "overall": 64,
+    "roles": [
+      "CDC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188285,
+    "name": "Tomas Kosicky",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197689,
+    "name": "Andrea Seculin",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198726,
+    "name": "Richmond Boakye",
+    "overall": 64,
+    "roles": [
+      "ATS",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201883,
+    "name": "Alejandro Rodríguez",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 4515,
+    "name": "Luigi Piangerelli",
+    "overall": 64,
+    "roles": [
+      "CDC",
+      "DC",
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201389,
+    "name": "Cristiano Biraghi",
+    "overall": 63,
+    "roles": [
+      "ASA",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202445,
+    "name": "Rodrigo Ely",
+    "overall": 63,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192823,
+    "name": "Archimede Morleo",
+    "overall": 63,
+    "roles": [
+      "ASA",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 164962,
+    "name": "Miloš Dimitrijević",
+    "overall": 63,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202513,
+    "name": "Giuseppe Prestia",
+    "overall": 63,
+    "roles": [
+      "DC",
+      "LIB"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201224,
+    "name": "Alex Daniel Pena",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193408,
+    "name": "Haris Seferovic",
+    "overall": 63,
+    "roles": [
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197089,
+    "name": "Daniel Kofi Agyei",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201363,
+    "name": "Ryder Matos Santos",
+    "overall": 63,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198331,
+    "name": "Matěj Vydra",
+    "overall": 63,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198009,
+    "name": "Mattia Perin",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201222,
+    "name": "Simone Sini",
+    "overall": 63,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 185060,
+    "name": "Nicola Strambelli",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "ED",
+      "ES"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199050,
+    "name": "Vinicius Fedrigo Dall'agnol",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193705,
+    "name": "Manuel Gavilán Morales",
+    "overall": 62,
+    "roles": [
+      "ATT",
+      "AT",
+      "ATD",
+      "ATS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200763,
+    "name": "Frank Kamalu",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 178536,
+    "name": "Davide Petrachi",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 192334,
+    "name": "Ignazio Carta",
+    "overall": 62,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193506,
+    "name": "Mattia Gallon",
+    "overall": 62,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198587,
+    "name": "Davide Bertoncini",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190498,
+    "name": "Luca Moscatiello",
+    "overall": 62,
+    "roles": [
+      "CC",
+      "COC",
+      "AT",
+      "ADA"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 188693,
+    "name": "Emmanuel Ledesma",
+    "overall": 62,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 197926,
+    "name": "Lorenzo Crisetig",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199824,
+    "name": "Raffaele Alcibiade",
+    "overall": 61,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201044,
+    "name": "Steve Leo Beleck",
+    "overall": 61,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190501,
+    "name": "Nenad Krstičić",
+    "overall": 61,
+    "roles": [
+      "COC",
+      "CC",
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202685,
+    "name": "Simone Zaza",
+    "overall": 61,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198618,
+    "name": "Paolo Dametto",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202415,
+    "name": "Andrea Doninelli",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 199294,
+    "name": "David Meza Colli",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201391,
+    "name": "Andrea Romanò",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200629,
+    "name": "Antonio Santurro",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201221,
+    "name": "Gonzalo Barreto",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 140473,
+    "name": "Davide Caremi",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202514,
+    "name": "Francesco Ardizzone",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202135,
+    "name": "Stefano Sturaro",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 200365,
+    "name": "Kristijan Miljevic",
+    "overall": 60,
+    "roles": [
+      "ES",
+      "CC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201361,
+    "name": "Marcos Vinicius Santos Miranda",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202027,
+    "name": "Giacomo Venturi",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190745,
+    "name": "Marco Silvestri",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202037,
+    "name": "Umberto Nappello",
+    "overall": 59,
+    "roles": [
+      "ATD",
+      "AT",
+      "ATS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202578,
+    "name": "Marco Cuomo",
+    "overall": 59,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 196382,
+    "name": "Federico Rodriguez",
+    "overall": 59,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201223,
+    "name": "Afriyie Acquah",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 190198,
+    "name": "Mauro Boerchio",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 193781,
+    "name": "Stefano Russo",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 198550,
+    "name": "Lorenzo Galassi",
+    "overall": 58,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201380,
+    "name": "Gadji Celi Carmel Junior Tallo",
+    "overall": 58,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202320,
+    "name": "Fabio Lamorte",
+    "overall": 58,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201219,
+    "name": "Daniele Giorico",
+    "overall": 58,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202490,
+    "name": "Antonio Grosso",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202603,
+    "name": "Alessandro De Vitis",
+    "overall": 57,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202444,
+    "name": "Simone Calvano",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201916,
+    "name": "Francesco Grandolfo",
+    "overall": 56,
+    "roles": [
+      "ATT"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201299,
+    "name": "Nicola Leali",
+    "overall": 55,
+    "roles": [
+      "POR"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201957,
+    "name": "Luigi Monopoli",
+    "overall": 55,
+    "roles": [
+      "DC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194040,
+    "name": "Filippo Lombardi",
+    "overall": 54,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201530,
+    "name": "Bruno Martella",
+    "overall": 54,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 202758,
+    "name": "Dario Maltese",
+    "overall": 54,
+    "roles": [
+      "CC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 194187,
+    "name": "Michele Contini",
+    "overall": 53,
+    "roles": [
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 201915,
+    "name": "Antonio Cilfone",
+    "overall": 53,
+    "roles": [
+      "CC"
+    ],
+    "team": "SSC Bari",
+    "mapped_team": "Bari",
+    "sofifa_year": "2011"
+  },
+  {
+    "player_id": 168361,
+    "name": "Aldo Junior Simoncini",
+    "overall": 52,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2011"
+  }
+]

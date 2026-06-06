@@ -1,0 +1,5414 @@
+[
+  {
+    "player_id": 1179,
+    "name": "Gianluigi Buffon",
+    "overall": 91,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1088,
+    "name": "Alessandro Nesta",
+    "overall": 91,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138449,
+    "name": " Kaká",
+    "overall": 90,
+    "roles": [
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177844,
+    "name": "Marco Materazzi",
+    "overall": 88,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5984,
+    "name": "David Trezeguet",
+    "overall": 88,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7763,
+    "name": "Andrea Pirlo",
+    "overall": 88,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1238,
+    "name": "Francesco Totti",
+    "overall": 88,
+    "roles": [
+      "AT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5589,
+    "name": " Figo",
+    "overall": 87,
+    "roles": [
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 41236,
+    "name": "Zlatan Ibrahimovic",
+    "overall": 87,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1075,
+    "name": "Alessandro Del Piero",
+    "overall": 87,
+    "roles": [
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1041,
+    "name": "Javier Zanetti",
+    "overall": 86,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45461,
+    "name": "Mauro Camoranesi",
+    "overall": 86,
+    "roles": [
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7142,
+    "name": "Kakhaber Kaladze",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4738,
+    "name": "Alvaro Recoba",
+    "overall": 86,
+    "roles": [
+      "AT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1419,
+    "name": "Patrick Vieira",
+    "overall": 85,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7512,
+    "name": "Hernán Jorge Crespo",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 23461,
+    "name": "Walter Adrián Samuel",
+    "overall": 85,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6235,
+    "name": "Pavel Nedved",
+    "overall": 85,
+    "roles": [
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5879,
+    "name": "Alberto Gilardino",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4556,
+    "name": "Cristiano Lucarelli",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3934,
+    "name": "Julio Ricardo Cruz",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 10962,
+    "name": "Santiago Hernán Solari",
+    "overall": 84,
+    "roles": [
+      "AS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138123,
+    "name": "Esteban Cambiasso",
+    "overall": 84,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3712,
+    "name": " Dida",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 37576,
+    "name": " Ronaldo",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 41635,
+    "name": "Philippe Mexès",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5244,
+    "name": "Eugenio Corini",
+    "overall": 84,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184410,
+    "name": "Andrei Murgu",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1099,
+    "name": "Marco Di Vaio",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 20212,
+    "name": " Maniche",
+    "overall": 83,
+    "roles": [
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105477,
+    "name": "David Suazo",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4098,
+    "name": " Tiago",
+    "overall": 83,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113113,
+    "name": " Jorge Andrade",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51113,
+    "name": "Tommaso Rocchi",
+    "overall": 83,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5003,
+    "name": " Cafu",
+    "overall": 83,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45595,
+    "name": "Daniele Bonera",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 180175,
+    "name": " Alexandre Pato",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4731,
+    "name": "Simone Perrotta",
+    "overall": 83,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 46042,
+    "name": " Juan",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7631,
+    "name": "Antonio Cassano",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137186,
+    "name": "Andrea Barzagli",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137160,
+    "name": "Marco Amelia",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6747,
+    "name": "Cristian Chivu",
+    "overall": 82,
+    "roles": [
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 16619,
+    "name": "Iván Córdoba",
+    "overall": 82,
+    "roles": [
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3041,
+    "name": "Hasan Salihamidzic",
+    "overall": 82,
+    "roles": [
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 24332,
+    "name": "Vincenzo Iaquinta",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1109,
+    "name": "Paolo Maldini",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1198,
+    "name": "Filippo Inzaghi",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4202,
+    "name": "Gennaro Gattuso",
+    "overall": 82,
+    "roles": [
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1186,
+    "name": " Couto",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1551,
+    "name": "Ludovic Giuly",
+    "overall": 82,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 53302,
+    "name": "Daniele De Rossi",
+    "overall": 82,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 106850,
+    "name": "Mirko Vucinic",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7687,
+    "name": "David Di Michele",
+    "overall": 82,
+    "roles": [
+      "AT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 27578,
+    "name": "Simone Barone",
+    "overall": 82,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 120274,
+    "name": "Antonio Di Natale",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1289,
+    "name": "Sebastien Frey",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 44902,
+    "name": "Tomas Ujfalusi",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45124,
+    "name": "Fabio Liverani",
+    "overall": 82,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4459,
+    "name": "Francesco Toldo",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6908,
+    "name": "Dejan Stankovic",
+    "overall": 81,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 40988,
+    "name": "Zdenek Grygera",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4767,
+    "name": " Emerson",
+    "overall": 81,
+    "roles": [
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5203,
+    "name": "Massimo Oddo",
+    "overall": 81,
+    "roles": [
+      "ADA"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 22114,
+    "name": " Serginho",
+    "overall": 81,
+    "roles": [
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159065,
+    "name": "Ezequiel Lavezzi",
+    "overall": 81,
+    "roles": [
+      "AT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 939,
+    "name": "Domenico Morfeo",
+    "overall": 81,
+    "roles": [
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1235,
+    "name": " Mancini",
+    "overall": 81,
+    "roles": [
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 24248,
+    "name": "David Pizarro",
+    "overall": 81,
+    "roles": [
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1173,
+    "name": "Nicola Amoruso",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1275,
+    "name": "Francesco Cozza",
+    "overall": 81,
+    "roles": [
+      "COC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3026,
+    "name": "Ighli Vannucchi",
+    "overall": 81,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 49617,
+    "name": "Cristian Zaccardo",
+    "overall": 81,
+    "roles": [
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105427,
+    "name": "Alessandro Grandoni",
+    "overall": 81,
+    "roles": [
+      "TS"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 20169,
+    "name": " Costinha",
+    "overall": 80,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 53405,
+    "name": " Maxwell",
+    "overall": 80,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138468,
+    "name": "David Rozehnal",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1256,
+    "name": "Clarence Seedorf",
+    "overall": 80,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6083,
+    "name": "Marek Jankulovski",
+    "overall": 80,
+    "roles": [
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137159,
+    "name": "Alessandro Budel",
+    "overall": 80,
+    "roles": [
+      "ES"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7766,
+    "name": "Emiliano Bonazzoli",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1124,
+    "name": "Tomas Locatelli",
+    "overall": 80,
+    "roles": [
+      "ES"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149568,
+    "name": " Amauri",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 41378,
+    "name": "Per Krøldrup",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105289,
+    "name": "Gaetano De Rosa",
+    "overall": 80,
+    "roles": [
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137484,
+    "name": "Antonio Langella",
+    "overall": 79,
+    "roles": [
+      "ATS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 48717,
+    "name": " Júlio César",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137242,
+    "name": "Luis Antonio Jimenez",
+    "overall": 79,
+    "roles": [
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 161805,
+    "name": "Valon Behrami",
+    "overall": 79,
+    "roles": [
+      "AD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 53055,
+    "name": "Massimo Ambrosini",
+    "overall": 79,
+    "roles": [
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 135423,
+    "name": " Cicinho",
+    "overall": 79,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1323,
+    "name": "Aimo Diana",
+    "overall": 79,
+    "roles": [
+      "ED"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137460,
+    "name": "Alessandro Rosina",
+    "overall": 79,
+    "roles": [
+      "COC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123581,
+    "name": "Christian Obodo",
+    "overall": 79,
+    "roles": [
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159261,
+    "name": "Fabio Quagliarella",
+    "overall": 79,
+    "roles": [
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4609,
+    "name": "Vincenzo Montella",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1249,
+    "name": "Enrico Chiesa",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51813,
+    "name": "Mark Bresciano",
+    "overall": 79,
+    "roles": [
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 53116,
+    "name": "Fabrizio Miccoli",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51720,
+    "name": "Francesco Tavano",
+    "overall": 79,
+    "roles": [
+      "AT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 139663,
+    "name": "David Balleri",
+    "overall": 79,
+    "roles": [
+      "LIB"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123629,
+    "name": "Mario Alberto Santana",
+    "overall": 79,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 136834,
+    "name": "Martin Jørgensen",
+    "overall": 79,
+    "roles": [
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149218,
+    "name": "Marco Rossi",
+    "overall": 79,
+    "roles": [
+      "AD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 135455,
+    "name": " Maicon",
+    "overall": 78,
+    "roles": [
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4832,
+    "name": "Marco Marchionni",
+    "overall": 78,
+    "roles": [
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 157393,
+    "name": "Mohamed Sissoko",
+    "overall": 78,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 52941,
+    "name": "Rolando Bianchi",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7656,
+    "name": "Manuele Blasi",
+    "overall": 78,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 560,
+    "name": "Bernardo Corradi",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 18591,
+    "name": "Igor Budan",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 965,
+    "name": "Nicola Ventola",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45122,
+    "name": "Marco Di Loreto",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 50579,
+    "name": "Matteo Sereni",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149611,
+    "name": "Sasa Bjelanovic",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 175683,
+    "name": "Aleksandar Lukovic",
+    "overall": 78,
+    "roles": [
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138928,
+    "name": "Ayodele Stephen Makinwa",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138930,
+    "name": "Felice Piccolo",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 953,
+    "name": "Luigi Sala",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 104043,
+    "name": " Alberto",
+    "overall": 78,
+    "roles": [
+      "ED"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 136185,
+    "name": "Fábio Simplício",
+    "overall": 78,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4504,
+    "name": "Emanuele Filippini",
+    "overall": 78,
+    "roles": [
+      "ED"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4600,
+    "name": "Fabio Galante",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5494,
+    "name": "José Luis Vidigal",
+    "overall": 78,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105297,
+    "name": "Gionatha Spinesi",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159028,
+    "name": "Matias Agustin Silvestre",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7754,
+    "name": "Diego De Ascentis",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 153184,
+    "name": "Maximiliano Pellegrino",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149147,
+    "name": "Guglielmo Stendardo",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 10584,
+    "name": "Luciano Zauri",
+    "overall": 77,
+    "roles": [
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51100,
+    "name": "Stefano Mauri",
+    "overall": 77,
+    "roles": [
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51733,
+    "name": "Sanchez Emilson Cribari",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137506,
+    "name": "Goran Pandev",
+    "overall": 77,
+    "roles": [
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177643,
+    "name": "Modibo Diakitè",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4514,
+    "name": "Christian Brocchi",
+    "overall": 77,
+    "roles": [
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 120269,
+    "name": "Francesco Montervino",
+    "overall": 77,
+    "roles": [
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3563,
+    "name": "Damiano Zenoni",
+    "overall": 77,
+    "roles": [
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1111,
+    "name": "Christian Panucci",
+    "overall": 77,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137486,
+    "name": "Mauro Esposito",
+    "overall": 77,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7604,
+    "name": "Roberto Stellone",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 13084,
+    "name": "Ivan Franceschini",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113220,
+    "name": "Paolo Zanetti",
+    "overall": 77,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 164,
+    "name": "Giampiero Pinzi",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 768,
+    "name": " Felipe",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163402,
+    "name": "Andrea Coda",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 168320,
+    "name": "Gyan Asamoah",
+    "overall": 77,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137199,
+    "name": "Franco Brienza",
+    "overall": 77,
+    "roles": [
+      "ED"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 152922,
+    "name": "Edgar Barreto",
+    "overall": 77,
+    "roles": [
+      "ED"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137133,
+    "name": "Giuseppe Biava",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184411,
+    "name": "Giuseppe Tedaldo",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 156983,
+    "name": "Rahman Rezaei",
+    "overall": 77,
+    "roles": [
+      "TD"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 161941,
+    "name": "Edgar Álvarez",
+    "overall": 77,
+    "roles": [
+      "AD"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138911,
+    "name": "Christian Terlizzi",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7647,
+    "name": "Dario Dainelli",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137361,
+    "name": "Giampaolo Pazzini",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 2622,
+    "name": "Cristiano Doni",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 13077,
+    "name": "Cristiano Zanetti",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 729,
+    "name": "Igli Tare",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 106762,
+    "name": "Mourad Meghni",
+    "overall": 76,
+    "roles": [
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1178,
+    "name": "Paolo Cannavaro",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 46847,
+    "name": "Marcelo Zalayeta",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137188,
+    "name": "Mirko Savini",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7514,
+    "name": "Max Tonetto",
+    "overall": 76,
+    "roles": [
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45462,
+    "name": "Marco Cassetti",
+    "overall": 76,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 103935,
+    "name": "Alberto Aquilani",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 134982,
+    "name": " Doni",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 124149,
+    "name": "Nikola Lazetic",
+    "overall": 76,
+    "roles": [
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105330,
+    "name": "Geatano D'Agostino",
+    "overall": 76,
+    "roles": [
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4489,
+    "name": "Daniele Adani",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 158052,
+    "name": "Nicola Ascoli",
+    "overall": 76,
+    "roles": [
+      "TS"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 52829,
+    "name": "Angelo Palombo",
+    "overall": 76,
+    "roles": [
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51730,
+    "name": "Massimo Maccarone",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 2,
+    "name": "Giovanni Pasquale",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 942,
+    "name": "Christian Vieri",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123623,
+    "name": "Franco Semioli",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 154634,
+    "name": "Manuel Pasqual",
+    "overall": 76,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 161687,
+    "name": "Luciano Gabriel Figueroa",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105338,
+    "name": "Moris Carrozzieri",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4724,
+    "name": "Nicola Legrottaglie",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7591,
+    "name": "Alessandro Birindelli",
+    "overall": 75,
+    "roles": [
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138956,
+    "name": "Giorgio Chiellini",
+    "overall": 75,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159284,
+    "name": "Raffaele Palladino",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4495,
+    "name": "Roberto Baronio",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 52797,
+    "name": "Cristian Daniel Ledesma",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45605,
+    "name": "Matteo Brighi",
+    "overall": 75,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149231,
+    "name": "Rodrigo Taddei",
+    "overall": 75,
+    "roles": [
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 168297,
+    "name": "Gianluca Curci",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178424,
+    "name": " Antunes",
+    "overall": 75,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 102081,
+    "name": "Marco Pisano",
+    "overall": 75,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123610,
+    "name": "Giandomenico Mesto",
+    "overall": 75,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 2198,
+    "name": "Vittorio Tosto",
+    "overall": 75,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 32205,
+    "name": "Luca Saudati",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4505,
+    "name": "Sergio Volpi",
+    "overall": 75,
+    "roles": [
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149189,
+    "name": "Christian Riganò",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 2431,
+    "name": "Alberto Fontana",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178604,
+    "name": "Bosko Jankovic",
+    "overall": 75,
+    "roles": [
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4759,
+    "name": "Simone Pavan",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 46821,
+    "name": " Tristán",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1016,
+    "name": "Andrea Sottil",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6,
+    "name": "Alessio Scarpi",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 142359,
+    "name": "Alessandro Lucarelli",
+    "overall": 75,
+    "roles": [
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51114,
+    "name": "Manuel Belleri",
+    "overall": 74,
+    "roles": [
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 614,
+    "name": "Ousmane Dabo",
+    "overall": 74,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1085,
+    "name": "Giuseppe Favalli",
+    "overall": 74,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149224,
+    "name": "Emanuele Calaió",
+    "overall": 74,
+    "roles": [
+      "AT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5255,
+    "name": "Salvatore Lanna",
+    "overall": 74,
+    "roles": [
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 23814,
+    "name": "Vince Grella",
+    "overall": 74,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 52935,
+    "name": "Cesare Natali",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 34824,
+    "name": "Antonio Floro Flores",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137438,
+    "name": "Maurizio Lanzaro",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51732,
+    "name": "Francesco Pratali",
+    "overall": 74,
+    "roles": [
+      "LIB"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 161969,
+    "name": "Nicola Pozzi",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 140293,
+    "name": "Antonio Mirante",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149136,
+    "name": "Gennaro Delvecchio",
+    "overall": 74,
+    "roles": [
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177907,
+    "name": "Salvatore Foti",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 164370,
+    "name": "Francesco Pisano",
+    "overall": 74,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 179813,
+    "name": "Edison Cavani",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1299,
+    "name": "Giuliano Giannichedda",
+    "overall": 74,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 14907,
+    "name": "Albano Benjamín Bizzarri",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159287,
+    "name": "Riccardo Montolivo",
+    "overall": 74,
+    "roles": [
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7728,
+    "name": "Simone Inzaghi",
+    "overall": 73,
+    "roles": [
+      "AT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 492,
+    "name": "Jonathan Zebina",
+    "overall": 73,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 103783,
+    "name": "Sebastiano Siviglia",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149085,
+    "name": "Fabio Firmani",
+    "overall": 73,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149298,
+    "name": "Christian Manfredini",
+    "overall": 73,
+    "roles": [
+      "AD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 153296,
+    "name": "Yoann Gourcuff",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138902,
+    "name": "Andrea Gasbarroni",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1539,
+    "name": "Matteo Ferrari",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4739,
+    "name": "Antonio Chimenti",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 103936,
+    "name": "Simone Pepe",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149272,
+    "name": "Viktor Boudianski",
+    "overall": 73,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163405,
+    "name": "Davide Moro",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 108061,
+    "name": "Reto Ziegler",
+    "overall": 73,
+    "roles": [
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1290,
+    "name": "Valerio Bertotto",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6895,
+    "name": "Alexander Manninger",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137179,
+    "name": "Daniele Portanova",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45754,
+    "name": "Roberto Guana",
+    "overall": 73,
+    "roles": [
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1482,
+    "name": "Vikash Dhorasoo",
+    "overall": 73,
+    "roles": [
+      "COC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4498,
+    "name": "Antonio Filippini",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3216,
+    "name": "Lorenzo Stovini",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 8830,
+    "name": "Giuseppe Colucci",
+    "overall": 73,
+    "roles": [
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 106710,
+    "name": "Giacomo Tedesco",
+    "overall": 73,
+    "roles": [
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 5213,
+    "name": "Alessandro Gamberini",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 122361,
+    "name": "Marco Donadel",
+    "overall": 73,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137397,
+    "name": "Papa Waigo Ndiaye",
+    "overall": 73,
+    "roles": [
+      "ATS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 156477,
+    "name": "Anthony Vanden Borre",
+    "overall": 73,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 158737,
+    "name": "Zlatan Muslimovic",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163653,
+    "name": "Adriano Pinto Ferreira",
+    "overall": 72,
+    "roles": [
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1777,
+    "name": "Olivier Dacourt",
+    "overall": 72,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 139038,
+    "name": "Nicolás Andrés Burdisso",
+    "overall": 72,
+    "roles": [
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183786,
+    "name": "Jess Vanstrattan",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 35813,
+    "name": "Samuele Dalla Bona",
+    "overall": 72,
+    "roles": [
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51101,
+    "name": "Maurizio Domizzi",
+    "overall": 72,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1265,
+    "name": "Giulio Falcone",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 12514,
+    "name": "Luca Bucci",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149073,
+    "name": "Gianluca Comotto",
+    "overall": 72,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 175778,
+    "name": "Jose Montiel",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 49613,
+    "name": "Guillermo Giacomazzi",
+    "overall": 72,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1257,
+    "name": "Claudio Bellucci",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 1277,
+    "name": "Daniele Franceschini",
+    "overall": 72,
+    "roles": [
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7558,
+    "name": "Cristian Zenoni",
+    "overall": 72,
+    "roles": [
+      "AD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137483,
+    "name": "Simone Loria",
+    "overall": 72,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137373,
+    "name": "Massimo Gobbi",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149269,
+    "name": "Alessandro Potenza",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 52810,
+    "name": "Giuseppe Sculli",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137429,
+    "name": "Matteo Paro",
+    "overall": 72,
+    "roles": [
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 169386,
+    "name": "Sergio Floccari",
+    "overall": 71,
+    "roles": [
+      "AT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 156988,
+    "name": "Antonio Nocerino",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45618,
+    "name": "Gaby Mudingayi",
+    "overall": 71,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 46807,
+    "name": "Paolo Castellini",
+    "overall": 71,
+    "roles": [
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 155920,
+    "name": "Ferdinand Coly",
+    "overall": 71,
+    "roles": [
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 162835,
+    "name": "Samir Handanovic",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 170743,
+    "name": "Igor Djuric",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173228,
+    "name": "Guilherme Siqueira",
+    "overall": 71,
+    "roles": [
+      "AS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163902,
+    "name": "Joelson Josè Inacio",
+    "overall": 71,
+    "roles": [
+      "AT"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 155202,
+    "name": "Daniele Balli",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7584,
+    "name": "Luca Castellazzi",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149184,
+    "name": "Christian Maggio",
+    "overall": 71,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 135893,
+    "name": "Lukáš Jarolím",
+    "overall": 71,
+    "roles": [
+      "COC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137490,
+    "name": "Cristian Bucchi",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 107579,
+    "name": "Federico Agliardi",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113176,
+    "name": "Federico Balzaretti",
+    "overall": 71,
+    "roles": [
+      "TS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149217,
+    "name": "Giuseppe Mascara",
+    "overall": 71,
+    "roles": [
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 167423,
+    "name": "Cristian Llama Ezequiel",
+    "overall": 71,
+    "roles": [
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113188,
+    "name": "Vlada Avramov",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 49693,
+    "name": "Julio Cesar Leon",
+    "overall": 71,
+    "roles": [
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51760,
+    "name": "Omar Milanetto",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123576,
+    "name": "Marco Borriello",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 135073,
+    "name": " Rubinho",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 11808,
+    "name": "Gianpaolo Bellini",
+    "overall": 70,
+    "roles": [
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4626,
+    "name": "Simone Del Nero",
+    "overall": 70,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159027,
+    "name": "Ivan Artipoli",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51883,
+    "name": "Zeljko Kalac",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 104048,
+    "name": "Roberto Carlos Sosa",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 156196,
+    "name": "Gennaro Iezzo",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 170307,
+    "name": "Paolo Herman Dellafiore",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 140488,
+    "name": "Damiano Ferronetti",
+    "overall": 70,
+    "roles": [
+      "TS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183365,
+    "name": "Nicolò Cherubin",
+    "overall": 70,
+    "roles": [
+      "LIB"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138976,
+    "name": "Richard Vanigli",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149247,
+    "name": "Antonio Buscè",
+    "overall": 70,
+    "roles": [
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123597,
+    "name": "Stefano Lucchini",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 164379,
+    "name": "Gennaro Esposito",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105474,
+    "name": "Daniele Conti",
+    "overall": 70,
+    "roles": [
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 140060,
+    "name": "Joe Bizera",
+    "overall": 70,
+    "roles": [
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 162174,
+    "name": "Davide Biondini",
+    "overall": 70,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173305,
+    "name": "Cristiano Del Grosso",
+    "overall": 70,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 8319,
+    "name": "Gianluca Falsini",
+    "overall": 70,
+    "roles": [
+      "TS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45121,
+    "name": "Davide Baiocco",
+    "overall": 70,
+    "roles": [
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 142627,
+    "name": "Jorge Martínez",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 157843,
+    "name": "Mark Edusei",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 24768,
+    "name": " Fabiano",
+    "overall": 70,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105866,
+    "name": "Cesare Bovo",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 143029,
+    "name": "José Leonardo Talamonti",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 179708,
+    "name": "Nelson Rivas",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183788,
+    "name": "Cristiano Novembre",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 8763,
+    "name": "Dario Simic",
+    "overall": 69,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 102088,
+    "name": "Stefano Morrone",
+    "overall": 69,
+    "roles": [
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137403,
+    "name": "Andrea Pisanu",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173210,
+    "name": "Claudio Marchisio",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 164380,
+    "name": "Mirko Pieri",
+    "overall": 69,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7517,
+    "name": "Simone Vergassola",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 12863,
+    "name": "Mario Frick",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149153,
+    "name": "Paul Costantin Codrea",
+    "overall": 69,
+    "roles": [
+      "COC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137214,
+    "name": "Pasquale Foggia",
+    "overall": 69,
+    "roles": [
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137854,
+    "name": "Marco Storari",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7767,
+    "name": "Fausto Rossini",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 182859,
+    "name": "Walter Gargano",
+    "overall": 68,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 136126,
+    "name": " Júlio Sérgio",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 171097,
+    "name": "Marco Motta",
+    "overall": 68,
+    "roles": [
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 133249,
+    "name": "Emil Hallfreðsson",
+    "overall": 68,
+    "roles": [
+      "ES"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138977,
+    "name": "Luca Vigiani",
+    "overall": 68,
+    "roles": [
+      "ES"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163407,
+    "name": "Andrea Raggi",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149572,
+    "name": "Paolo Sammarco",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 6139,
+    "name": "Dimitrios Eleftheropoulos",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137206,
+    "name": "Paolo Bianco",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137440,
+    "name": "Giulio Migliaccio",
+    "overall": 68,
+    "roles": [
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 135351,
+    "name": " Danilo",
+    "overall": 68,
+    "roles": [
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177981,
+    "name": "Fernando Damian Tissone",
+    "overall": 67,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 182626,
+    "name": " Pelé",
+    "overall": 67,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 2181,
+    "name": "Emanuele Belardi",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 67,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138129,
+    "name": "György Garics",
+    "overall": 67,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 158217,
+    "name": " Bogliacino",
+    "overall": 67,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177450,
+    "name": "Tomas Zapotocny",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137185,
+    "name": "Salvatore Aronica",
+    "overall": 67,
+    "roles": [
+      "TS"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 176553,
+    "name": "Simone Missiroli",
+    "overall": 67,
+    "roles": [
+      "COC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149285,
+    "name": "Ricardo Matías Verón",
+    "overall": 67,
+    "roles": [
+      "ED"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 105469,
+    "name": "Diego Luis López",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149086,
+    "name": "Jedaias Capucho Jeda",
+    "overall": 67,
+    "roles": [
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 120339,
+    "name": "Martin Bergvold",
+    "overall": 67,
+    "roles": [
+      "ES"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137481,
+    "name": "Rocco Sabato",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178315,
+    "name": "Takayuki Morimoto",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 168650,
+    "name": "Zdravko Kuzmanovic",
+    "overall": 67,
+    "roles": [
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 142714,
+    "name": "Lucas Roberto Rimoldi",
+    "overall": 67,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 169115,
+    "name": "Andrea Masiello",
+    "overall": 67,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113212,
+    "name": "Claudio Rivalta",
+    "overall": 66,
+    "roles": [
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 170565,
+    "name": "Mario Defendi",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 104059,
+    "name": "Massimo Mutarelli",
+    "overall": 66,
+    "roles": [
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 182494,
+    "name": "Fernando Muslera",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 51112,
+    "name": "Andrea Cupi",
+    "overall": 66,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137519,
+    "name": "Michele Pazienza",
+    "overall": 66,
+    "roles": [
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173147,
+    "name": "Daniele Dessena",
+    "overall": 66,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 103940,
+    "name": "Carlo Zotti",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 155989,
+    "name": "Tomas Sivok",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113278,
+    "name": "Francesco Modesto",
+    "overall": 66,
+    "roles": [
+      "ASA"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173832,
+    "name": "Carlos Adrián Valdéz",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138885,
+    "name": "Pietro Accardi",
+    "overall": 66,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138874,
+    "name": "Andrea Parola",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163490,
+    "name": "Michele Canini",
+    "overall": 66,
+    "roles": [
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177528,
+    "name": "Alessandro Matri",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149599,
+    "name": "Alfonso De Lucia",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 12011,
+    "name": "Cristiano Lupatelli",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173208,
+    "name": "Domenico Criscito",
+    "overall": 66,
+    "roles": [
+      "LIB"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 4703,
+    "name": "Marco Ballotta",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 42101,
+    "name": "Ruben Maldonado",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137770,
+    "name": "Marco Capparella",
+    "overall": 65,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137232,
+    "name": "Massimo Paci",
+    "overall": 65,
+    "roles": [
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 171874,
+    "name": "Masashi Oguro",
+    "overall": 65,
+    "roles": [
+      "ATS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 139066,
+    "name": " Miguel Garcia",
+    "overall": 65,
+    "roles": [
+      "TD"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 154545,
+    "name": "Francesco Marianini",
+    "overall": 65,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 162004,
+    "name": " Caetano",
+    "overall": 65,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 27971,
+    "name": "Alessandro Agostini",
+    "overall": 65,
+    "roles": [
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 169393,
+    "name": " Digao",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137228,
+    "name": "Gianluca Grava",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 158128,
+    "name": "Daniele Mannini",
+    "overall": 64,
+    "roles": [
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 182177,
+    "name": "Fabiano Santacroce",
+    "overall": 64,
+    "roles": [
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 168312,
+    "name": "Ignazio Abate",
+    "overall": 64,
+    "roles": [
+      "ED"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 179698,
+    "name": "Leandro Grimi",
+    "overall": 64,
+    "roles": [
+      "TD"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 45689,
+    "name": "Rijat Shala",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 140906,
+    "name": "Erjon Bogdani",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149237,
+    "name": "Massimo Loviso",
+    "overall": 64,
+    "roles": [
+      "ED"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177492,
+    "name": "Dario Knezevic",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 11061,
+    "name": "Paolo Orlandoni",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137479,
+    "name": "Erminio Rullo",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183437,
+    "name": "Matteo Rubin",
+    "overall": 63,
+    "roles": [
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 169387,
+    "name": "Emmanuel Cascione",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163461,
+    "name": "Daniele Galloppa",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 3325,
+    "name": "Cristian Silvestri",
+    "overall": 63,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 159274,
+    "name": "Manuel Coppola",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 171877,
+    "name": "Marek Hamsyk",
+    "overall": 62,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138971,
+    "name": "Nicola Pavarini",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173146,
+    "name": "Luca Cigarini",
+    "overall": 62,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 172835,
+    "name": "Marco Andreolli",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183258,
+    "name": "Pablo Alvarez",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 158739,
+    "name": "Rey Volpato",
+    "overall": 62,
+    "roles": [
+      "AT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178312,
+    "name": "Davide Bassi",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 167305,
+    "name": "Juan Manuel Vargas",
+    "overall": 62,
+    "roles": [
+      "ASA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 7674,
+    "name": "Ferdinando Coppola",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 107494,
+    "name": "Andrea Campagnolo",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183404,
+    "name": "Mike Tullberg",
+    "overall": 61,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173212,
+    "name": "Paolo De Ceglie",
+    "overall": 61,
+    "roles": [
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138901,
+    "name": "Michele Ferri",
+    "overall": 61,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 164374,
+    "name": " Babù",
+    "overall": 61,
+    "roles": [
+      "COC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 165435,
+    "name": "Matthias Lepiller",
+    "overall": 61,
+    "roles": [
+      "ATD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 162145,
+    "name": "Tiberio Guarente",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 49633,
+    "name": "Andrea Dossena",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123603,
+    "name": "Hugo Armando Campagnaro",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149137,
+    "name": "Michele Fini",
+    "overall": 60,
+    "roles": [
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137380,
+    "name": "Mattia Cassani",
+    "overall": 60,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163927,
+    "name": "Fabio Caserta",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149174,
+    "name": "Daniele De Vezze",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149064,
+    "name": "Cristian Molinaro",
+    "overall": 59,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178576,
+    "name": "Orlando Urbano",
+    "overall": 59,
+    "roles": [
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137220,
+    "name": "Francesco Parravicini",
+    "overall": 59,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123617,
+    "name": "Alberto Maria Fontana",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173221,
+    "name": "Antonio Candreva",
+    "overall": 59,
+    "roles": [
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173162,
+    "name": "Fabio Ceravolo",
+    "overall": 59,
+    "roles": [
+      "AT"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163948,
+    "name": "Davide Marchini",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 172786,
+    "name": "Marco Mancosu",
+    "overall": 59,
+    "roles": [
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 138892,
+    "name": "Matteo Contini",
+    "overall": 58,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 176846,
+    "name": "Mariga McDonald",
+    "overall": 58,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 185051,
+    "name": "Radek Petr",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177529,
+    "name": "Ahmed Apimah Barusso",
+    "overall": 58,
+    "roles": [
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177983,
+    "name": " Zapata",
+    "overall": 58,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137410,
+    "name": "Daniele Gastaldello",
+    "overall": 58,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 185033,
+    "name": "Wanderson Scardovelli",
+    "overall": 58,
+    "roles": [
+      "DC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 185149,
+    "name": "Jan Koprivec",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178535,
+    "name": "Pablo Daniel Osvaldo",
+    "overall": 58,
+    "roles": [
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 181175,
+    "name": "Ondřej Mazuch",
+    "overall": 58,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183503,
+    "name": "Jan Hable",
+    "overall": 58,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 113181,
+    "name": "Matteo Gianello",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 179648,
+    "name": "Nenad Novakovic",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137427,
+    "name": "Luca Antonini",
+    "overall": 57,
+    "roles": [
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178310,
+    "name": "Simone Iacoponi",
+    "overall": 57,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 170752,
+    "name": "Ikechukwu Kalu",
+    "overall": 57,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 179751,
+    "name": "Joaquin Larrivey",
+    "overall": 57,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184316,
+    "name": "Paolo Carbonaro",
+    "overall": 57,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 123587,
+    "name": "Gleison Pinto Santos",
+    "overall": 57,
+    "roles": [
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184408,
+    "name": "Alessio Tombesi",
+    "overall": 56,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177982,
+    "name": " Vargas",
+    "overall": 56,
+    "roles": [
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184431,
+    "name": "Sebastian Giovinco",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 168353,
+    "name": "Leandro Rinaudo",
+    "overall": 56,
+    "roles": [
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 157801,
+    "name": "Nico Pulzetti",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184406,
+    "name": "Leandro Martinez",
+    "overall": 55,
+    "roles": [
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 156142,
+    "name": "Roman Eremenko",
+    "overall": 55,
+    "roles": [
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 102056,
+    "name": "Simone Padoin",
+    "overall": 54,
+    "roles": [
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178477,
+    "name": "Luca Tognozzi",
+    "overall": 54,
+    "roles": [
+      "CC"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177904,
+    "name": "Alessandro Bastrini",
+    "overall": 54,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 185120,
+    "name": "Massimo Volta",
+    "overall": 54,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178628,
+    "name": "Fernando Martin Forestieri",
+    "overall": 54,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184510,
+    "name": "Daniele Magliocchetti",
+    "overall": 54,
+    "roles": [
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184315,
+    "name": "Francesco Mirko Velardi",
+    "overall": 54,
+    "roles": [
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149183,
+    "name": "Andrea Ivan",
+    "overall": 53,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177915,
+    "name": "Daniele Capelli",
+    "overall": 53,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 54037,
+    "name": "Tommaso Berni",
+    "overall": 53,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184407,
+    "name": "Federico Moretti",
+    "overall": 53,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183856,
+    "name": "Davide Bottone",
+    "overall": 53,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 185050,
+    "name": "Mirko Guadalupi",
+    "overall": 53,
+    "roles": [
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 163925,
+    "name": "Alessandro Diamanti",
+    "overall": 53,
+    "roles": [
+      "ED"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173378,
+    "name": "George Forsyth",
+    "overall": 52,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 179933,
+    "name": "Tiziano Bruzzone",
+    "overall": 52,
+    "roles": [
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 175897,
+    "name": "Samir Ujkani",
+    "overall": 52,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 184314,
+    "name": "Alberto Cossentino",
+    "overall": 52,
+    "roles": [
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 137775,
+    "name": "Francesco Millesi",
+    "overall": 52,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149165,
+    "name": "Marco Biagianti",
+    "overall": 52,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173271,
+    "name": "Massimiliano Tagliani",
+    "overall": 52,
+    "roles": [
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149077,
+    "name": "Ferreira Reginaldo",
+    "overall": 51,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 154563,
+    "name": "Ciro Capuano",
+    "overall": 51,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 173107,
+    "name": "Alessandro Stefanini",
+    "overall": 51,
+    "roles": [
+      "AT"
+    ],
+    "team": "Livorno",
+    "mapped_team": "Livorno",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 156986,
+    "name": "Gennaro Sardo",
+    "overall": 51,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 161999,
+    "name": "Abdoulay Konko",
+    "overall": 51,
+    "roles": [
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 177805,
+    "name": "Marco Rossi",
+    "overall": 50,
+    "roles": [
+      "ADA"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 158996,
+    "name": "Ciro Polito",
+    "overall": 49,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 181734,
+    "name": " Carlos Rincon",
+    "overall": 48,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 149157,
+    "name": "Vincenzo Marruocco",
+    "overall": 48,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 178490,
+    "name": "Robert Acquafresca",
+    "overall": 48,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 165490,
+    "name": "Mariano Julio Izco",
+    "overall": 48,
+    "roles": [
+      "ED"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 170557,
+    "name": "Leonardo Pettinari",
+    "overall": 47,
+    "roles": [
+      "AS"
+    ],
+    "team": "AS Reggina 1914",
+    "mapped_team": "Reggina",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 155191,
+    "name": "Ivan Juric",
+    "overall": 47,
+    "roles": [
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 157734,
+    "name": "Anssi Jaakkola",
+    "overall": 46,
+    "roles": [
+      "POR"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 183188,
+    "name": "Marcello Gazzola",
+    "overall": 45,
+    "roles": [
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2008"
+  },
+  {
+    "player_id": 172695,
+    "name": "Lino Marzoratti",
+    "overall": 41,
+    "roles": [
+      "TD"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2008"
+  }
+]

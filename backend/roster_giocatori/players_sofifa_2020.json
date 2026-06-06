@@ -1,0 +1,7140 @@
+[
+  {
+    "player_id": 20801,
+    "name": "C. Ronaldo dos Santos Aveiro",
+    "overall": 93,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 138956,
+    "name": "Giorgio Chiellini",
+    "overall": 89,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201024,
+    "name": "Kalidou Koulibaly",
+    "overall": 89,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 162835,
+    "name": "Samir Handanovič",
+    "overall": 88,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 182493,
+    "name": "Diego Godín",
+    "overall": 88,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211110,
+    "name": "Paulo Dybala",
+    "overall": 88,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 175943,
+    "name": "Dries Mertens",
+    "overall": 87,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198219,
+    "name": "Lorenzo Insigne",
+    "overall": 87,
+    "roles": [
+      "AT",
+      "AS",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 232363,
+    "name": "Milan Škriniar",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 180206,
+    "name": "Miralem Pjanić",
+    "overall": 86,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 184344,
+    "name": "Leonardo Bonucci",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186153,
+    "name": "Wojciech Szczęsny",
+    "overall": 86,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192387,
+    "name": "Ciro Immobile",
+    "overall": 86,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 143076,
+    "name": "Alejandro Gómez",
+    "overall": 85,
+    "roles": [
+      "COC",
+      "AT",
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192505,
+    "name": "Romelu Lukaku",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201399,
+    "name": "Mauro Icardi",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 167664,
+    "name": "Gonzalo Higuaín",
+    "overall": 85,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 170890,
+    "name": "Blaise Matuidi",
+    "overall": 85,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 191043,
+    "name": "Alex Sandro Lobo Silva",
+    "overall": 85,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235243,
+    "name": "Matthijs de Ligt",
+    "overall": 85,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223848,
+    "name": "Sergej Milinković-Savić",
+    "overall": 85,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230621,
+    "name": "Gianluigi Donnarumma",
+    "overall": 85,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192774,
+    "name": "Kostas Manolas",
+    "overall": 85,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199914,
+    "name": "Allan Marques Loureiro",
+    "overall": 85,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 200647,
+    "name": "Josip Iličić",
+    "overall": 84,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198176,
+    "name": "Stefan de Vrij",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 181783,
+    "name": "Mario Mandžukić",
+    "overall": 84,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 190483,
+    "name": "Douglas Costa de Souza",
+    "overall": 84,
+    "roles": [
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 176266,
+    "name": "Lucas Pezzini Leiva",
+    "overall": 84,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198706,
+    "name": "Luis Alberto Romero Alconchel",
+    "overall": 84,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 185020,
+    "name": "José María Callejón Bueno",
+    "overall": 84,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 180930,
+    "name": "Edin Džeko",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 168435,
+    "name": "Salvatore Sirigu",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 1179,
+    "name": "Gianluigi Buffon",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 179846,
+    "name": "Sami Khedira",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186561,
+    "name": "Aaron Ramsey",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Cuadrado",
+    "overall": 83,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210008,
+    "name": "Adrien Rabiot",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 212404,
+    "name": "Federico Bernardeschi",
+    "overall": 83,
+    "roles": [
+      "ED",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199845,
+    "name": "Francesco Acerbi",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210413,
+    "name": "Alessio Romagnoli",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205175,
+    "name": "Arkadiusz Milik",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226271,
+    "name": "Fabián Ruiz Peña",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 221087,
+    "name": "Pau López Sabata",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 159261,
+    "name": "Fabio Quagliarella",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178518,
+    "name": "Radja Nainggolan",
+    "overall": 83,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215333,
+    "name": "Duván Zapata",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216409,
+    "name": "Matteo Politano",
+    "overall": 82,
+    "roles": [
+      "ED",
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198009,
+    "name": "Mattia Perin",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211320,
+    "name": "Daniele Rugani",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 212151,
+    "name": "Thomas Strakosha",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 24630,
+    "name": "José Manuel Reina Páez",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 158963,
+    "name": "Lucas Biglia",
+    "overall": 82,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189125,
+    "name": "Giacomo Bonaventura",
+    "overall": 82,
+    "roles": [
+      "CC",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202651,
+    "name": "Jesús Joaquín Fernández Sáez",
+    "overall": 82,
+    "roles": [
+      "AD",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 185103,
+    "name": "Aleksandar Kolarov",
+    "overall": 82,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208596,
+    "name": "Andrea Belotti",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186627,
+    "name": "Mario Balotelli",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 212814,
+    "name": "João Mário Naval Costa Eduardo",
+    "overall": 81,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216352,
+    "name": "Marcelo Brozović",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231478,
+    "name": "Lautaro Martínez",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208333,
+    "name": "Emre Can",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 183498,
+    "name": "Marco Parolo",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210406,
+    "name": "Piotr Zieliński",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 203551,
+    "name": "Alessandro Florenzi",
+    "overall": 81,
+    "roles": [
+      "TD",
+      "AD",
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 188829,
+    "name": "Nicolas Nkoulou",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216145,
+    "name": "Armando Izzo",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205659,
+    "name": "Alessio Cragno",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 163489,
+    "name": "Andrea Consigli",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199110,
+    "name": "Luis Muriel",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219985,
+    "name": "Matias Vecino",
+    "overall": 80,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224232,
+    "name": "Nicolò Barella",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 165109,
+    "name": "Ştefan Radu",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215330,
+    "name": "Joaquín Correa",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222943,
+    "name": "Jonathan Rodríguez Menéndez",
+    "overall": 80,
+    "roles": [
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235374,
+    "name": "Manuel Lazzari",
+    "overall": 80,
+    "roles": [
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186547,
+    "name": "Mateo Musacchio",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193352,
+    "name": "Ricardo Rodríguez",
+    "overall": 80,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208128,
+    "name": "Hakan Çalhanoğlu",
+    "overall": 80,
+    "roles": [
+      "AS",
+      "COC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210617,
+    "name": "Samuel Castillejo Azuaga",
+    "overall": 80,
+    "roles": [
+      "ED",
+      "ES",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220477,
+    "name": "Mattia Caldara",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223113,
+    "name": "Krzysztof Piątek",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 176550,
+    "name": "David Ospina",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 196889,
+    "name": "Simone Verdi",
+    "overall": 80,
+    "roles": [
+      "ES",
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201454,
+    "name": "Faouzi Ghoulam",
+    "overall": 80,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210864,
+    "name": "Elseid Hysaj",
+    "overall": 80,
+    "roles": [
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 179847,
+    "name": "Federico Fazio",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 183900,
+    "name": "Diego Perotti",
+    "overall": 80,
+    "roles": [
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202685,
+    "name": "Simone Zaza",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 166706,
+    "name": "Martin Škrtel",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231969,
+    "name": "Ruslan Malinovskyi",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 161956,
+    "name": "Borja Valero Iglesias",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173221,
+    "name": "Antonio Candreva",
+    "overall": 79,
+    "roles": [
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186832,
+    "name": "Kwadwo Asamoah",
+    "overall": 79,
+    "roles": [
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199304,
+    "name": "Danilo Luiz da Silva",
+    "overall": 79,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 227535,
+    "name": "Rodrigo Bentancur",
+    "overall": 79,
+    "roles": [
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 188427,
+    "name": "Senad Lulić",
+    "overall": 79,
+    "roles": [
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228941,
+    "name": "André Miguel Valente da Silva",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230938,
+    "name": "Franck Yannick Kessié",
+    "overall": 79,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233927,
+    "name": "Lucas Tolentino Coelho de Lima",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 204614,
+    "name": "Mário Rui Silva Duarte",
+    "overall": 79,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 140293,
+    "name": "Antonio Mirante",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 191180,
+    "name": "Javier Pastore",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "AS",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202884,
+    "name": "Leonardo Spinazzola",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228251,
+    "name": "Lorenzo Pellegrini",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 190264,
+    "name": "Iago Falqué Silva",
+    "overall": 79,
+    "roles": [
+      "AT",
+      "AD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205407,
+    "name": "Daniele Baselli",
+    "overall": 79,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201377,
+    "name": "Jeison Murillo",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173909,
+    "name": "Kevin-Prince Boateng",
+    "overall": 79,
+    "roles": [
+      "AT",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193601,
+    "name": "Germán Pezzella",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201144,
+    "name": "Milan Badelj",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235805,
+    "name": "Federico Chiesa",
+    "overall": 79,
+    "roles": [
+      "AD",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173208,
+    "name": "Domenico Criscito",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 169115,
+    "name": "Andrea Masiello",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 187598,
+    "name": "Rafael Tolói",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202024,
+    "name": "Remo Freuler",
+    "overall": 78,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208461,
+    "name": "Marten de Roon",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220093,
+    "name": "Hans Hateboer",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 212153,
+    "name": "Roberto Gagliardini",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 175254,
+    "name": "Felipe Caicedo",
+    "overall": 78,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 182495,
+    "name": "Martín Cáceres",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216655,
+    "name": "Bartolomeu Quissanga",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213400,
+    "name": "Diego Laxalt",
+    "overall": 78,
+    "roles": [
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 183497,
+    "name": "Orestis Karnezis",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198949,
+    "name": "Kévin Malcuit",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215466,
+    "name": "Nikola Maksimović",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225116,
+    "name": "Alex Meret",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 170733,
+    "name": "Gervais Yao Kouassi",
+    "overall": 78,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201519,
+    "name": "Jordan Veretout",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202851,
+    "name": "Gregoire Defrel",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 207557,
+    "name": "Robin Olsen",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208268,
+    "name": "Bryan Cristante",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235889,
+    "name": "Cengiz Ünder",
+    "overall": 78,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173306,
+    "name": "Cristian Ansaldi",
+    "overall": 78,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205391,
+    "name": "Soualiho Meïté",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 212616,
+    "name": "Rodrigo Javier De Paul",
+    "overall": 78,
+    "roles": [
+      "AT",
+      "CC",
+      "AS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 214979,
+    "name": "Juan Musso",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193361,
+    "name": "Roberto Soriano",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "CC",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201508,
+    "name": "Gastón Ramírez",
+    "overall": 78,
+    "roles": [
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 176104,
+    "name": "Valter Birsa",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205850,
+    "name": "Leonardo Pavoletti",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213629,
+    "name": "Erick Pulgar",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 177983,
+    "name": "Cristian Zapata",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210935,
+    "name": "Domenico Berardi",
+    "overall": 78,
+    "roles": [
+      "AD",
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216065,
+    "name": "Marco Sportiello",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 217196,
+    "name": "José Luis Palomino",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223273,
+    "name": "Mario Pašalić",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229857,
+    "name": "Stefano Sensi",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 206058,
+    "name": "Mattia De Sciglio",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 207537,
+    "name": "Jordan Lukaku",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224031,
+    "name": "Adam Marušić",
+    "overall": 77,
+    "roles": [
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236355,
+    "name": "Luiz Felipe Ramos Marchi",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228881,
+    "name": "Davide Calabria",
+    "overall": 77,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201049,
+    "name": "Lorenzo Tonelli",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205943,
+    "name": "Vlad Chiricheș",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205966,
+    "name": "Amin Younes",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 190875,
+    "name": "Juraj Kucka",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 191053,
+    "name": "Tomás Rincón",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225201,
+    "name": "Alejandro Berenguer Remiro",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "ASA",
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 182179,
+    "name": "Sebastian De Maio",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224933,
+    "name": "Kevin Lasagna",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236791,
+    "name": "Antonín Barák",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 166072,
+    "name": "Danilo Larangeira",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 185174,
+    "name": "Andrea Poli",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178007,
+    "name": "Miguel Luís Pinto Veloso",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226536,
+    "name": "Omar Colley",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228413,
+    "name": "Emil Audero",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205633,
+    "name": "Lucas Castro",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230965,
+    "name": "Nahitan Nández",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211354,
+    "name": "Marco Benassi",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216816,
+    "name": "Giovanni Simeone",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 172143,
+    "name": "Lasse Schøne",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193839,
+    "name": "Rômulo Souza Orestes Caldeira",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "CC",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201046,
+    "name": "Riccardo Saponara",
+    "overall": 77,
+    "roles": [
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219932,
+    "name": "Antonio Sanabria",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 200054,
+    "name": "Pedro Mba Obiang Avomo",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215689,
+    "name": "Andrea Petagna",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211515,
+    "name": "Pierluigi Gollini",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222501,
+    "name": "Timothy Castagne",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "ED",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223697,
+    "name": "Robin Gosens",
+    "overall": 76,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229148,
+    "name": "Dalbert Chagas Estevão",
+    "overall": 76,
+    "roles": [
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 47201,
+    "name": "Silvio Proto",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 167514,
+    "name": "Dušan Basta",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216437,
+    "name": "Wallace Fortuna Santos",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186200,
+    "name": "Fabio Borini",
+    "overall": 76,
+    "roles": [
+      "AS",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 232656,
+    "name": "Theo Hernández",
+    "overall": 76,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199559,
+    "name": "Roberto Inglese",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 200752,
+    "name": "Juan Guilherme Nunes Jesus",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229582,
+    "name": "Gianluca Mancini",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234236,
+    "name": "Patrik Schick",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "AT",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192612,
+    "name": "Mato Jajalo",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219536,
+    "name": "Ignacio Pussetto",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "AD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225439,
+    "name": "Rolando Mandragora",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 138699,
+    "name": "Blerim Džemaili",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 152999,
+    "name": "Rodrigo Palacio",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189908,
+    "name": "Łukasz Skorupski",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205756,
+    "name": "Stefano Denswil",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233556,
+    "name": "Riccardo Orsolini",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "AD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 168326,
+    "name": "Salvatore Bocchetti",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 181318,
+    "name": "Albin Ekdal",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198683,
+    "name": "Manolo Gabbiadini",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211408,
+    "name": "Karol Linetty",
+    "overall": 76,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 140620,
+    "name": "Ragnar Klavan",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199254,
+    "name": "João Pedro G. Santos Galvão",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238095,
+    "name": "Nikola Milenković",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186589,
+    "name": "Ivan Radovanović",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222077,
+    "name": "Manuel Locatelli",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189296,
+    "name": "Etrit Berisha",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213814,
+    "name": "Federico Di Francesco",
+    "overall": 76,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 182168,
+    "name": "Andrea Ranocchia",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198946,
+    "name": "Danilo D'Ambrosio",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211147,
+    "name": "Valentino Lazaro",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229593,
+    "name": "Marko Pjaca",
+    "overall": 75,
+    "roles": [
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 191783,
+    "name": "Valon Berisha",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "CC",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211361,
+    "name": "Danilo Cataldi",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223329,
+    "name": "Andrea Conti",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241721,
+    "name": "Rafael da Conceição Leão",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231242,
+    "name": "Adam Ounas",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "AD",
+      "AT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 138918,
+    "name": "Luca Rigoni",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 191011,
+    "name": "Luigi Sepe",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220475,
+    "name": "Alberto Grassi",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231826,
+    "name": "Yann Karamoh",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189484,
+    "name": "Davide Santon",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193116,
+    "name": "Maxime Gonalons",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230613,
+    "name": "Amadou Diawara",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236920,
+    "name": "Justin Kluivert",
+    "overall": 75,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 203884,
+    "name": "Koffi Djidji",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224656,
+    "name": "Ola Aina",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "ED",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201013,
+    "name": "Łukasz Teodorczyk",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213414,
+    "name": "William Troost-Ekong",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216320,
+    "name": "Seko Fofana",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193338,
+    "name": "Mattia Destro",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201335,
+    "name": "Federico Santander",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201858,
+    "name": "Nicola Sansone",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "COC",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 221695,
+    "name": "Godfred Donsah",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 203668,
+    "name": "Alfredo Donnarumma",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241096,
+    "name": "Sandro Tonali",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192575,
+    "name": "Emmanuel Badu",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208144,
+    "name": "Daniel Bessa",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220528,
+    "name": "Gennaro Tutino",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "AD",
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201931,
+    "name": "Gabriel Vasconcelos F.",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226592,
+    "name": "Jakub Jankto",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "ES"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 140082,
+    "name": "Rafael Pinheiro Andrade Bittencourt",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192587,
+    "name": "Artur Ioniță",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236311,
+    "name": "Marko Rog",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201389,
+    "name": "Cristiano Biraghi",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201878,
+    "name": "Valentin Eysseric",
+    "overall": 75,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219712,
+    "name": "Sebastián Cristóforo",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202135,
+    "name": "Stefano Sturaro",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 217605,
+    "name": "Lukas Lerager",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234102,
+    "name": "Ionuţ Andrei Radu",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235866,
+    "name": "Christian Kouamé",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189053,
+    "name": "Francesco Caputo",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208535,
+    "name": "Alfred Duncan",
+    "overall": 75,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186961,
+    "name": "Alberto Paloschi",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201976,
+    "name": "Alfred Gomis",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202061,
+    "name": "Jasmin Kurtić",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238160,
+    "name": "Merih Demiral",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211385,
+    "name": "Riza Durmisi",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226754,
+    "name": "Ismaël Bennacer",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229758,
+    "name": "Rade Krunić",
+    "overall": 74,
+    "roles": [
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 206160,
+    "name": "Amato Ciciretti",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 184312,
+    "name": "Jonathan Biabiany",
+    "overall": 74,
+    "roles": [
+      "AD",
+      "AS",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201943,
+    "name": "Andreas Cornelius",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238067,
+    "name": "Nicolò Zaniolo",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236699,
+    "name": "Saša Lukić",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193133,
+    "name": "Jens Stryger Larsen",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "DC",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199274,
+    "name": "Ilja Nestorovski",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222844,
+    "name": "Walace Souza Silva",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238621,
+    "name": "Rodrigo Nascimento França",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 197926,
+    "name": "Lorenzo Crisetig",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201215,
+    "name": "Ladislav Krejčí",
+    "overall": 74,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236548,
+    "name": "Jaromír Zmrhal",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "ED"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 190745,
+    "name": "Marco Silvestri",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205531,
+    "name": "Valerio Verre",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 212127,
+    "name": "Darko Lazović",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202848,
+    "name": "Gianluca Caprari",
+    "overall": 74,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173146,
+    "name": "Luca Cigarini",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199170,
+    "name": "Bryan Dabo",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235875,
+    "name": "Pol Mikel Lirola Kosok",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 190782,
+    "name": "Sandro R. G. Cordeiro",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202944,
+    "name": "Oscar Hiljemark",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220493,
+    "name": "Antonio Barreca",
+    "overall": 74,
+    "roles": [
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 149185,
+    "name": "Francesco Magnanelli",
+    "overall": 74,
+    "roles": [
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193881,
+    "name": "Filip Đuričić",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "AS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 197231,
+    "name": "Khouma Babacar",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215703,
+    "name": "Marlon da Silva Barbosa",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224808,
+    "name": "Gian Marco Ferrari",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 768,
+    "name": "Felipe Dal Bello",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 176553,
+    "name": "Simone Missiroli",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 188876,
+    "name": "Mirko Valdifiori",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202828,
+    "name": "Federico Viviani",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208165,
+    "name": "Berat Djimsiti",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 206098,
+    "name": "Patricio Gabarrón Gil",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201139,
+    "name": "Ivan Strinić",
+    "overall": 73,
+    "roles": [
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 217870,
+    "name": "Giovanni Di Lorenzo",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "TD",
+      "ADA"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 138110,
+    "name": "Bruno Eduardo Regufe Alves",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205726,
+    "name": "Gaston Brugman",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210859,
+    "name": "Vincent Laurini",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225475,
+    "name": "Hernani Azevedo Júnior",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229594,
+    "name": "Ante Ćorić",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230672,
+    "name": "Lyanco Neves Vojnovic",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193091,
+    "name": "Bram Nuytinck",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215651,
+    "name": "Samir Caetano de Souza Santos",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208459,
+    "name": "Mitchell Dijks",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210320,
+    "name": "Ibrahima Mbaye",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 232938,
+    "name": "Takehiro Tomiyasu",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 172837,
+    "name": "Enrico Alfonso",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186614,
+    "name": "Samuel Di Carmine",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216079,
+    "name": "Antonio Di Gaudio",
+    "overall": 73,
+    "roles": [
+      "AS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 185163,
+    "name": "Luca Rossettini",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 204447,
+    "name": "Fabio Lucioni",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211302,
+    "name": "Gianluca Lapadula",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199763,
+    "name": "Bartosz Bereszyński",
+    "overall": 73,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205934,
+    "name": "Nicola Murru",
+    "overall": 73,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193267,
+    "name": "Fabio Pisacane",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205553,
+    "name": "Luca Ceppitelli",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215502,
+    "name": "Bartłomiej Drągowski",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 137506,
+    "name": "Goran Pandev",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 139668,
+    "name": "Federico Marchetti",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213938,
+    "name": "Davide Biraschi",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225305,
+    "name": "Sinan Gümüş",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 232488,
+    "name": "Cristian Romero",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178418,
+    "name": "Federico Peluso",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223524,
+    "name": "Edoardo Goldaniga",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 237383,
+    "name": "Alessandro Bastoni",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189342,
+    "name": "Carlo Pinsoglio",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240988,
+    "name": "Denis Vavro",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233926,
+    "name": "Leonardo Duarte da Silva",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220534,
+    "name": "Sebastiano Luperto",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173162,
+    "name": "Fabio Ceravolo",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 188949,
+    "name": "Luca Siligardi",
+    "overall": 72,
+    "roles": [
+      "AD",
+      "AS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201363,
+    "name": "Ryder Matos",
+    "overall": 72,
+    "roles": [
+      "AD",
+      "ATT",
+      "AS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219469,
+    "name": "Stipe Perica",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220048,
+    "name": "Simone Scuffet",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189707,
+    "name": "Angelo Esmael da Costa Júnior",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193077,
+    "name": "Diego Falcinelli",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220084,
+    "name": "César Falletti",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "AD",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224378,
+    "name": "Mattia Bani",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229574,
+    "name": "Arturo Calabresi",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235149,
+    "name": "Jerdy Schouten",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240017,
+    "name": "Andreas Skov Olsen",
+    "overall": 72,
+    "roles": [
+      "AD",
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229448,
+    "name": "Florian Ayé",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 137361,
+    "name": "Giampaolo Pazzini",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198136,
+    "name": "Antonino Ragusa",
+    "overall": 72,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189485,
+    "name": "Diego Farías da Silva",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "COC",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189557,
+    "name": "Andrea Rispoli",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 190084,
+    "name": "Panagiotis Tachtsidis",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 152922,
+    "name": "Edgar Barreto",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233943,
+    "name": "Ronaldo Augusto Vieira Nan",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 188334,
+    "name": "Fabrizio Cacciatore",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213829,
+    "name": "Alberto Cerri",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220466,
+    "name": "Federico Mattiello",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 164985,
+    "name": "Cyril Théréau",
+    "overall": 72,
+    "roles": [
+      "AS",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239732,
+    "name": "Szymon Żurkowski",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238013,
+    "name": "Jandrei Chitolina Carniel",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241775,
+    "name": "Jawad El Yamiq",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 214622,
+    "name": "Jeremy Toljan",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 221331,
+    "name": "Luca Mazzitelli",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224422,
+    "name": "Jérémie Boga",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "ED",
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 169386,
+    "name": "Sergio Floccari",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189118,
+    "name": "Thiago Rangel Cionek",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 215433,
+    "name": "Francesco Vicari",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226356,
+    "name": "Mohamed Fares",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "TS",
+      "AS"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231919,
+    "name": "Alessandro Murgia",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229337,
+    "name": "Matheus Pereira da Silva",
+    "overall": 71,
+    "roles": [
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211176,
+    "name": "Ricardo Kishna",
+    "overall": 71,
+    "roles": [
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241390,
+    "name": "Eljif Elmas",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173155,
+    "name": "Antonino Barillà",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235290,
+    "name": "Kevin Bonifazi",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239580,
+    "name": "Gleison Bremer Silva Nascimento",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 133249,
+    "name": "Emil Hallfreðsson",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189288,
+    "name": "Gabriele Angella",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230681,
+    "name": "Giuseppe Pezzella",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173147,
+    "name": "Daniele Dessena",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 199904,
+    "name": "Jesse Joronen",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202489,
+    "name": "Dimitri Bisoli",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 242269,
+    "name": "Felipe Castaldo Curcio",
+    "overall": 71,
+    "roles": [
+      "TS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 194753,
+    "name": "Luca Marrone",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 195272,
+    "name": "Marco Davide Faraoni",
+    "overall": 71,
+    "roles": [
+      "ED",
+      "TD",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220502,
+    "name": "Mattia Zaccagni",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244263,
+    "name": "Amir Rrahmani",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 172786,
+    "name": "Marco Mancosu",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234980,
+    "name": "Yevhen Shakhov",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 197777,
+    "name": "Jacopo Sala",
+    "overall": 71,
+    "roles": [
+      "TD"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234108,
+    "name": "Gonzalo Maroni",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239340,
+    "name": "Julian Chabot",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211394,
+    "name": "Paolo Faragò",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "ED",
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226108,
+    "name": "Filippo Romagna",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234873,
+    "name": "Marko Pajač",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "TS",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205812,
+    "name": "Pietro Terracciano",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210964,
+    "name": "Federico Ceccherini",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 177528,
+    "name": "Alessandro Matri",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198220,
+    "name": "Mehdi Bourabia",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233411,
+    "name": "Claud Adjapong",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "ED",
+      "TD"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189558,
+    "name": "Bartosz Salamon",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235863,
+    "name": "Marco Varnier",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228821,
+    "name": "Zinédine Machach",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "CC",
+      "AT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178310,
+    "name": "Simone Iacoponi",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 189430,
+    "name": "Simone Colombi",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 216067,
+    "name": "Riccardo Gagliolo",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240671,
+    "name": "Yıldırım Mert Çetin",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219451,
+    "name": "Nehuén Paz",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228946,
+    "name": "Mattias Svanberg",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 137410,
+    "name": "Daniele Gastaldello",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 200930,
+    "name": "Luca Tremolada",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201530,
+    "name": "Bruno Martella",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220829,
+    "name": "Ernesto Torregrossa",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226260,
+    "name": "Andrea Cistana",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 242270,
+    "name": "Nikolas Špalek",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 242392,
+    "name": "Giangiacomo Magnani",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178470,
+    "name": "Luigi Vitale",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 204451,
+    "name": "Koray Günter",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219952,
+    "name": "Liam Henderson",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193850,
+    "name": "Marco Calderoni",
+    "overall": 70,
+    "roles": [
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201243,
+    "name": "Andrea La Mantia",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231022,
+    "name": "Cristian Dell'Orco",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235814,
+    "name": "Romario Benzar",
+    "overall": 70,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210548,
+    "name": "Leonardo Capezzi",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222475,
+    "name": "Morten Thorsby",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235834,
+    "name": "Fabio Depaoli",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238232,
+    "name": "Kwang Song Han",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241670,
+    "name": "Filip Bradarić",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 247076,
+    "name": "Christian Oliva",
+    "overall": 70,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235842,
+    "name": "Andrea Pinamonti",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 106795,
+    "name": "Gianluca Pegolo",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236522,
+    "name": "Enrico Brignola",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "AD",
+      "AT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240787,
+    "name": "Hamed Junior Traorè",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241629,
+    "name": "Rogério Oliveira da Silva",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220915,
+    "name": "Gabriele Moncini",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 242374,
+    "name": "Musa Barrow",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243237,
+    "name": "Luca Pellegrini",
+    "overall": 69,
+    "roles": [
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220709,
+    "name": "Ivan Vargić",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222391,
+    "name": "Joseph Minala",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 173130,
+    "name": "Matteo Scozzarella",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 183188,
+    "name": "Marcello Gazzola",
+    "overall": 69,
+    "roles": [
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230143,
+    "name": "Kastriot Dermaku",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 149309,
+    "name": "Antonio Rosati",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213614,
+    "name": "Samuel Gustafson",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205496,
+    "name": "David Nicolas Andrade",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223010,
+    "name": "Leonardo Morosini",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235379,
+    "name": "Emanuele Ndoj",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 200810,
+    "name": "Alessandro Crescenzi",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 204616,
+    "name": "Alberto Almici",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 213404,
+    "name": "Paweł Dawidowicz",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 232000,
+    "name": "Seung Woo Lee",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "AS",
+      "AD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186611,
+    "name": "Mauro Vigorito",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210880,
+    "name": "Riccardo Fiamozzi",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 193686,
+    "name": "Vasco Regini",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219852,
+    "name": "Alex Ferrari",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240100,
+    "name": "Tommaso Augello",
+    "overall": 69,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220509,
+    "name": "Lorenzo Venuti",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235942,
+    "name": "Francesco Cassata",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239550,
+    "name": "Andrew Gravillon",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 192071,
+    "name": "Marco D'Alessandro",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "ED",
+      "AD"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 205089,
+    "name": "Mattia Valoti",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222355,
+    "name": "Luca Valzania",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239613,
+    "name": "Matteo Pessina",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 208523,
+    "name": "Stefano Beltrame",
+    "overall": 68,
+    "roles": [
+      "AS",
+      "COC",
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220152,
+    "name": "Yves Baraye",
+    "overall": 68,
+    "roles": [
+      "AS",
+      "ATT",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223332,
+    "name": "Mattia Sprocati",
+    "overall": 68,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230817,
+    "name": "José Ndong Machín Dicombo",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219995,
+    "name": "Vittorio Parigini",
+    "overall": 68,
+    "roles": [
+      "AS",
+      "AT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226436,
+    "name": "Hidde ter Avest",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235874,
+    "name": "Andrija Balić",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245022,
+    "name": "Nicholas Opoku",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245277,
+    "name": "Kingsley Michael",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 206159,
+    "name": "Stefano Sabelli",
+    "overall": 68,
+    "roles": [
+      "TD"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234059,
+    "name": "Jhon Chancellor",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231073,
+    "name": "Boris Radunović",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210329,
+    "name": "Filippo Falco",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211189,
+    "name": "Biagio Meccariello",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225381,
+    "name": "Jacopo Petriccione",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238944,
+    "name": "Žan Majer",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223137,
+    "name": "Federico Bonazzoli",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 232770,
+    "name": "Santiago Colombatto",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243497,
+    "name": "Sebastian Walukiewicz",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 203187,
+    "name": "Amidu Salifu",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234827,
+    "name": "Jacob Rasmussen",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226468,
+    "name": "Andrea Favilli",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224436,
+    "name": "Sauli Väisänen",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229456,
+    "name": "Lorenzo Dickmann",
+    "overall": 68,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230768,
+    "name": "Luca Clemenza",
+    "overall": 67,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 159040,
+    "name": "Gianni Munari",
+    "overall": 67,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178215,
+    "name": "Luigi Alberto Scaglia",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "AD",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233794,
+    "name": "Simone Edera",
+    "overall": 67,
+    "roles": [
+      "AD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 223009,
+    "name": "Edoardo Lancini",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240282,
+    "name": "Aleš Matějů",
+    "overall": 67,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243251,
+    "name": "Andrea Danzi",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 198701,
+    "name": "Stefano Pettinari",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235474,
+    "name": "Gabriele Rolando",
+    "overall": 67,
+    "roles": [
+      "ED",
+      "ES",
+      "TS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 171490,
+    "name": "Simone Aresti",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234760,
+    "name": "Arkadiusz Reca",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226268,
+    "name": "Federico Dimarco",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211067,
+    "name": "Dario Del Fabro",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 251790,
+    "name": "Hamza Rafia",
+    "overall": 66,
+    "roles": [
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 248874,
+    "name": "Nicolò Armini",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 201179,
+    "name": "Antonio Donnarumma",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244363,
+    "name": "Daniel Cerântula Fuzato",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 214661,
+    "name": "Gaspar Iñíguez",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238282,
+    "name": "Mamadou Coulibaly",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226259,
+    "name": "Lorenzo Andrenacci",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 178150,
+    "name": "Karamoko Cissé",
+    "overall": 66,
+    "roles": [
+      "ATT",
+      "AS",
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 227705,
+    "name": "Alan Empereur",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240660,
+    "name": "Mehdi Léris",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230912,
+    "name": "Paolo Ghiglione",
+    "overall": 66,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244340,
+    "name": "Rok Vodišek",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234984,
+    "name": "Marko Janković",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "AD"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230674,
+    "name": "Fabrizio Alastra",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239838,
+    "name": "Mirko Antonucci",
+    "overall": 65,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 227668,
+    "name": "Salvador Ichazo",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235689,
+    "name": "Andrea Zaccagno",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229910,
+    "name": "Svante Ingelsson",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245023,
+    "name": "Petar Mićin",
+    "overall": 65,
+    "roles": [
+      "AD",
+      "ATT",
+      "AS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202444,
+    "name": "Simone Calvano",
+    "overall": 65,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 163634,
+    "name": "Francesco Cosenza",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 211305,
+    "name": "Andrea Tabanelli",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 236678,
+    "name": "Simone Lo Faso",
+    "overall": 65,
+    "roles": [
+      "AT",
+      "COC",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210381,
+    "name": "Charalampos Lykogiannis",
+    "overall": 65,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225014,
+    "name": "Gaetano Castrovilli",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "COC",
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220912,
+    "name": "Filip Jagiełło",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241585,
+    "name": "Igor Julio dos Santos de Paulo",
+    "overall": 65,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 222488,
+    "name": "Nicolò Fazzi",
+    "overall": 64,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 247257,
+    "name": "Roger Ibañez Da Silva",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 248385,
+    "name": "Roberto Piccoli",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 54037,
+    "name": "Tommaso Berni",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241094,
+    "name": "Rigoberto Rivas",
+    "overall": 64,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245639,
+    "name": "André Anderson Pomilio Lima",
+    "overall": 64,
+    "roles": [
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 247394,
+    "name": "Dejan Kulusevski",
+    "overall": 64,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244836,
+    "name": "Jacopo Segre",
+    "overall": 64,
+    "roles": [
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243172,
+    "name": "Lubomir Tupta",
+    "overall": 64,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 209316,
+    "name": "Thom Haye",
+    "overall": 64,
+    "roles": [
+      "ED",
+      "CC",
+      "ES"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 210676,
+    "name": "Wladimiro Falcone",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243510,
+    "name": "Ognjen Stijepović",
+    "overall": 64,
+    "roles": [
+      "AS"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 229743,
+    "name": "Alessandro Deiola",
+    "overall": 64,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233564,
+    "name": "Andrés Schetino",
+    "overall": 64,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246431,
+    "name": "Riccardo Sottil",
+    "overall": 64,
+    "roles": [
+      "AS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246683,
+    "name": "Lucien Agoume",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 247888,
+    "name": "Sebastiano Esposito",
+    "overall": 63,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239648,
+    "name": "Michele Nardi",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239502,
+    "name": "William Bianda",
+    "overall": 63,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246861,
+    "name": "Alessio Riccardi",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230858,
+    "name": "Samuele Perisan",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243049,
+    "name": "Mattia Viviani",
+    "overall": 63,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231434,
+    "name": "Luca Checchin",
+    "overall": 63,
+    "roles": [
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 224997,
+    "name": "Pedro Miguel Costa Ferreira",
+    "overall": 63,
+    "roles": [
+      "COC",
+      "CC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 252373,
+    "name": "Mohamed Bahlouli",
+    "overall": 63,
+    "roles": [
+      "AS",
+      "COC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 186607,
+    "name": "Daniele Ragatzu",
+    "overall": 63,
+    "roles": [
+      "ATT",
+      "AS",
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245977,
+    "name": "Kiril Despodov",
+    "overall": 63,
+    "roles": [
+      "AD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231264,
+    "name": "Thomas Rodríguez",
+    "overall": 63,
+    "roles": [
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243253,
+    "name": "Kevin Agudelo",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235293,
+    "name": "Patrick Asmah",
+    "overall": 62,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240277,
+    "name": "Matteo Gabbia",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 231917,
+    "name": "Moustapha Seck",
+    "overall": 62,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243241,
+    "name": "Alessandro Buongiorno",
+    "overall": 62,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228681,
+    "name": "Francisco Sierralta",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 227966,
+    "name": "Mouhamadou Sarr",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245564,
+    "name": "Caio Vinicius Pirana",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 219720,
+    "name": "Alberto Boniotti",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 234143,
+    "name": "Massimiliano Mangraviti",
+    "overall": 62,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240437,
+    "name": "Alessandro Semprini",
+    "overall": 62,
+    "roles": [
+      "TD",
+      "DC",
+      "ED"
+    ],
+    "team": "Brescia",
+    "mapped_team": "Brescia",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 202793,
+    "name": "Alessandro Berardi",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 221987,
+    "name": "Pierluigi Cappelluzzo",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244444,
+    "name": "Andrea Saraniti",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 238413,
+    "name": "Antonio Di Nardo",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240777,
+    "name": "Luca Ranieri",
+    "overall": 62,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 247026,
+    "name": "András Schäfer",
+    "overall": 62,
+    "roles": [
+      "ES",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 221332,
+    "name": "Guido Guerrieri",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235690,
+    "name": "Alfredo Bifulco",
+    "overall": 61,
+    "roles": [
+      "ED",
+      "CC",
+      "AT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246877,
+    "name": "Gianluca Gaetano",
+    "overall": 61,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 252802,
+    "name": "Wilfried Singo",
+    "overall": 61,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244717,
+    "name": "Antonino Gallo",
+    "overall": 61,
+    "roles": [
+      "TS",
+      "ES",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 225473,
+    "name": "Giovanni Sbrissa",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 194894,
+    "name": "Francesco Rossi",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240906,
+    "name": "Bobby Adekanye",
+    "overall": 60,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 233745,
+    "name": "Przemysław Bargiel",
+    "overall": 60,
+    "roles": [
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 220565,
+    "name": "Antonio Romano",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240140,
+    "name": "Mario Prezioso",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245565,
+    "name": "Mouhamed Belkheir",
+    "overall": 60,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243513,
+    "name": "Gabriele Corbo",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245426,
+    "name": "Marash Kumbulla",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239573,
+    "name": "Marco Bleve",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 237613,
+    "name": "Marco Pompetti",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240778,
+    "name": "Gabriele Gori",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240785,
+    "name": "Michele Cerofolini",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246430,
+    "name": "Dusan Vlahovic",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240022,
+    "name": "Giacomo Zecca",
+    "overall": 60,
+    "roles": [
+      "AD",
+      "AS",
+      "ATT"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 245784,
+    "name": "Alessandro Tripaldelli",
+    "overall": 60,
+    "roles": [
+      "TS"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235949,
+    "name": "Gabriel Tadeu Strefezza Rebecato",
+    "overall": 60,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 237128,
+    "name": "Tommaso Costantini",
+    "overall": 60,
+    "roles": [
+      "AD",
+      "AS",
+      "AT"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 247887,
+    "name": "Davide Merola",
+    "overall": 59,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 242420,
+    "name": "Vincenzo Millico",
+    "overall": 59,
+    "roles": [
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239515,
+    "name": "Alexandro Cavagnera",
+    "overall": 58,
+    "roles": [
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239884,
+    "name": "Federico Adorni",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 239839,
+    "name": "Sidy Keba Coly",
+    "overall": 58,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244360,
+    "name": "Davide Riccardi",
+    "overall": 58,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246300,
+    "name": "Brayan Vera",
+    "overall": 58,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 241839,
+    "name": "Luca Gagliano",
+    "overall": 58,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 240779,
+    "name": "Marco Meli",
+    "overall": 58,
+    "roles": [
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 252573,
+    "name": "Aleksa Terzic",
+    "overall": 58,
+    "roles": [
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 228186,
+    "name": "Leonardo Fontanesi",
+    "overall": 58,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Sassuolo",
+    "mapped_team": "Sassuolo",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 221958,
+    "name": "Marco Albertoni",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 237615,
+    "name": "Giacomo Poluzzi",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244361,
+    "name": "Radoslav Tsonev",
+    "overall": 56,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 226467,
+    "name": "Giacomo Ricci",
+    "overall": 55,
+    "roles": [
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 230667,
+    "name": "Abdou Diakhate",
+    "overall": 55,
+    "roles": [
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 227892,
+    "name": "Roberto Criscuolo",
+    "overall": 55,
+    "roles": [
+      "CC"
+    ],
+    "team": "Sampdoria",
+    "mapped_team": "Sampdoria",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 246698,
+    "name": "Mattia Zennaro",
+    "overall": 55,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 235284,
+    "name": "Andrea Vassallo",
+    "overall": 54,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244446,
+    "name": "Edgaras Dubickas",
+    "overall": 52,
+    "roles": [
+      "AT",
+      "ATT",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 243200,
+    "name": "Samuele Mulattieri",
+    "overall": 51,
+    "roles": [
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 237127,
+    "name": "Demba Thiam",
+    "overall": 51,
+    "roles": [
+      "POR"
+    ],
+    "team": "SPAL",
+    "mapped_team": "SPAL",
+    "sofifa_year": "2020"
+  },
+  {
+    "player_id": 244443,
+    "name": "Gianmarco Chironi",
+    "overall": 49,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2020"
+  }
+]

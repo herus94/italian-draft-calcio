@@ -1,0 +1,7495 @@
+[
+  {
+    "player_id": 41236,
+    "name": "Zlatan Ibrahimović",
+    "overall": 88,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 139869,
+    "name": "Wesley Sneijder",
+    "overall": 87,
+    "roles": [
+      "COC",
+      "CC",
+      "ED",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 164240,
+    "name": "Thiago Emiliano da Silva",
+    "overall": 87,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1179,
+    "name": "Gianluigi Buffon",
+    "overall": 86,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 179813,
+    "name": "Edinson Cavani",
+    "overall": 86,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 120274,
+    "name": "Antonio Di Natale",
+    "overall": 86,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS",
+      "AD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 48717,
+    "name": "Júlio César Soares Espíndola",
+    "overall": 85,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 135455,
+    "name": "Maicon Douglas Sisenando",
+    "overall": 85,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7763,
+    "name": "Andrea Pirlo",
+    "overall": 85,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159065,
+    "name": "Ezequiel Lavezzi",
+    "overall": 85,
+    "roles": [
+      "AS",
+      "AT",
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 23461,
+    "name": "Walter Samuel",
+    "overall": 84,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 107715,
+    "name": "Lucimar da Silva Ferreira",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137361,
+    "name": "Giampaolo Pazzini",
+    "overall": 84,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138123,
+    "name": "Esteban Cambiasso",
+    "overall": 84,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES",
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 171877,
+    "name": "Marek Hamšik",
+    "overall": 84,
+    "roles": [
+      "COC",
+      "AT",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 180432,
+    "name": "A. Hernanes de Carvalho A. Lima",
+    "overall": 84,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1088,
+    "name": "Alessandro Nesta",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7631,
+    "name": "Antonio Cassano",
+    "overall": 84,
+    "roles": [
+      "AT",
+      "COC",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 136144,
+    "name": "Robson de Souza",
+    "overall": 84,
+    "roles": [
+      "AT",
+      "COC",
+      "AD",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 180175,
+    "name": "Alexandre Rodrigues da Silva",
+    "overall": 84,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 53302,
+    "name": "Daniele De Rossi",
+    "overall": 84,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 2147,
+    "name": "Maarten Stekelenburg",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49072,
+    "name": "Diego Forlán",
+    "overall": 83,
+    "roles": [
+      "ATT",
+      "AT",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138956,
+    "name": "Giorgio Chiellini",
+    "overall": 83,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173210,
+    "name": "Claudio Marchisio",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "ES",
+      "COC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 181872,
+    "name": "Arturo Vidal",
+    "overall": 83,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 11141,
+    "name": "Miroslav Klose",
+    "overall": 83,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173909,
+    "name": "Kevin-Prince Boateng",
+    "overall": 83,
+    "roles": [
+      "COC",
+      "CC",
+      "ED",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 142708,
+    "name": "Diego Milito",
+    "overall": 82,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 106850,
+    "name": "Mirko Vučinić",
+    "overall": 82,
+    "roles": [
+      "AS",
+      "ATT",
+      "AT",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137186,
+    "name": "Andrea Barzagli",
+    "overall": 82,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4667,
+    "name": "Morgan De Sanctis",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 139668,
+    "name": "Federico Marchetti",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 19765,
+    "name": "Mark van Bommel",
+    "overall": 82,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 162835,
+    "name": "Samir Handanovič",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 53116,
+    "name": "Fabrizio Miccoli",
+    "overall": 82,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 181820,
+    "name": "Stevan Jovetić",
+    "overall": 82,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1289,
+    "name": "Sebastien Frey",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1041,
+    "name": "Javier Zanetti",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 108080,
+    "name": "Stephan Lichtsteiner",
+    "overall": 81,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1219,
+    "name": "Christian Abbiati",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 164300,
+    "name": "André Gonçalves Dias",
+    "overall": 81,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 41635,
+    "name": "Philippe Mexès",
+    "overall": 81,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168312,
+    "name": "Ignazio Abate",
+    "overall": 81,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "AD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184431,
+    "name": "Sebastian Giovinco",
+    "overall": 81,
+    "roles": [
+      "AT",
+      "AS",
+      "COC",
+      "AD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1099,
+    "name": "Marco Di Vaio",
+    "overall": 81,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159287,
+    "name": "Riccardo Montolivo",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 152999,
+    "name": "Rodrigo Palacio",
+    "overall": 81,
+    "roles": [
+      "AT",
+      "AD",
+      "AS",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 6908,
+    "name": "Dejan Stanković",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 169051,
+    "name": "Freddy Guarín",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 51100,
+    "name": "Stefano Mauri",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "ES",
+      "CC",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 103936,
+    "name": "Simone Pepe",
+    "overall": 80,
+    "roles": [
+      "ED",
+      "AD",
+      "ES",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123576,
+    "name": "Marco Borriello",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159261,
+    "name": "Fabio Quagliarella",
+    "overall": 80,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163297,
+    "name": "Miloš Krasić",
+    "overall": 80,
+    "roles": [
+      "ED",
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177528,
+    "name": "Alessandro Matri",
+    "overall": 80,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 52797,
+    "name": "Cristian Daniel Ledesma",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149184,
+    "name": "Christian Maggio",
+    "overall": 80,
+    "roles": [
+      "ED",
+      "ADA",
+      "AD",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1256,
+    "name": "Clarence Seedorf",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 103935,
+    "name": "Alberto Aquilani",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 156988,
+    "name": "Antonio Nocerino",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1238,
+    "name": "Francesco Totti",
+    "overall": 80,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123603,
+    "name": "Hugo Campagnaro",
+    "overall": 80,
+    "roles": [
+      "DC",
+      "TD",
+      "TS",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158810,
+    "name": "Gökhan Inler",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177509,
+    "name": "Mehdi Benatia",
+    "overall": 80,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 187800,
+    "name": "Mauricio Isla",
+    "overall": 80,
+    "roles": [
+      "ED",
+      "ADA",
+      "CC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 103496,
+    "name": "Andrea Cossu",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "AT",
+      "AD",
+      "AS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 113176,
+    "name": "Federico Balzaretti",
+    "overall": 80,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 200647,
+    "name": "Josip Iličić",
+    "overall": 80,
+    "roles": [
+      "COC",
+      "CC",
+      "AT",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 167305,
+    "name": "Juan Manuel Vargas",
+    "overall": 80,
+    "roles": [
+      "ES",
+      "ASA",
+      "AS",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 5879,
+    "name": "Alberto Gilardino",
+    "overall": 80,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 143587,
+    "name": "Fernando Belluschi",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC",
+      "ED",
+      "AD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 6747,
+    "name": "Cristian Chivu",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 182168,
+    "name": "Andrea Ranocchia",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1075,
+    "name": "Alessandro Del Piero",
+    "overall": 79,
+    "roles": [
+      "AT",
+      "COC",
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 172049,
+    "name": "Eljero Elia",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "AS",
+      "ED",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1178,
+    "name": "Paolo Cannavaro",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 53055,
+    "name": "Massimo Ambrosini",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137506,
+    "name": "Goran Pandev",
+    "overall": 79,
+    "roles": [
+      "AT",
+      "COC",
+      "AD",
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 182859,
+    "name": "Walter Gargano",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178535,
+    "name": "Pablo Osvaldo",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149571,
+    "name": "Sergio Pellissier",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168354,
+    "name": "Emiliano Viviano",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178007,
+    "name": "Miguel Luís Pinto Veloso",
+    "overall": 79,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184410,
+    "name": "Andrei Murgu",
+    "overall": 79,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 142938,
+    "name": "Germán Denis",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183895,
+    "name": "Maximiliano Moralez",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "ES",
+      "ED",
+      "AT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 16619,
+    "name": "Iván Córdoba",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 153177,
+    "name": "Mauro Zárate",
+    "overall": 78,
+    "roles": [
+      "AT",
+      "AS",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137854,
+    "name": "Marco Storari",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 204555,
+    "name": "Ricardo Álvarez",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "ED",
+      "ES",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 182495,
+    "name": "Martín Cáceres",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "DC",
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184344,
+    "name": "Leonardo Bonucci",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192841,
+    "name": "Emanuele Giaccherini",
+    "overall": 78,
+    "roles": [
+      "AS",
+      "AD",
+      "ES",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 161999,
+    "name": "Abdoulay Konko",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "ED",
+      "ADA"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165109,
+    "name": "Stefan Radu",
+    "overall": 78,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138806,
+    "name": "Maxi López",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 139038,
+    "name": "Nicolás Burdisso",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 46042,
+    "name": "Juan Silveira dos Santos",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 180206,
+    "name": "Miralem Pjanić",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "ES",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 166072,
+    "name": "Danilo Larangeira",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176605,
+    "name": "Pablo Estifer Armero",
+    "overall": 78,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49031,
+    "name": "Stefano Sorrentino",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 113045,
+    "name": "Mauricio Pinilla",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173198,
+    "name": "Davide Astori",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178518,
+    "name": "Radja Nainggolan",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159028,
+    "name": "Matías Silvestre",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 5213,
+    "name": "Alessandro Gamberini",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137380,
+    "name": "Mattia Cassani",
+    "overall": 78,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 161805,
+    "name": "Valon Behrami",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "CC",
+      "AD",
+      "ADA"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 52829,
+    "name": "Angelo Palombo",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194359,
+    "name": "Yuto Nagatomo",
+    "overall": 77,
+    "roles": [
+      "TS",
+      "TD",
+      "ES",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149242,
+    "name": "Francelino Da Silva",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188992,
+    "name": "Marcelo Estigarribia",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "AS",
+      "ED",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 24438,
+    "name": "Mario Yepes",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49633,
+    "name": "Andrea Dossena",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 51113,
+    "name": "Tommaso Rocchi",
+    "overall": 77,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 134956,
+    "name": "Lorik Cana",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188427,
+    "name": "Senad Lulic",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "TS",
+      "ED",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206655,
+    "name": "Eduardo Vargas",
+    "overall": 77,
+    "roles": [
+      "AT",
+      "AD",
+      "AS",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4202,
+    "name": "Gennaro Gattuso",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45595,
+    "name": "Daniele Bonera",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123621,
+    "name": "Sulley Muntari",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137160,
+    "name": "Marco Amelia",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137427,
+    "name": "Luca Antonini",
+    "overall": 77,
+    "roles": [
+      "TS",
+      "TD",
+      "ED",
+      "ADA"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 156722,
+    "name": "Mathieu Flamini",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 169808,
+    "name": "Urby Emanuelson",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "CC",
+      "ES",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 8222,
+    "name": "Gabriel Heinze",
+    "overall": 77,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176546,
+    "name": "Juan Camilo Zúñiga",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "ES",
+      "COC",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165517,
+    "name": "Fernando Gago",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 164,
+    "name": "Giampiero Pinzi",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 34824,
+    "name": "Antonio Floro Flores",
+    "overall": 77,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186832,
+    "name": "Kwadwo Asamoah",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137440,
+    "name": "Giulio Migliaccio",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188484,
+    "name": "Abel Hernández",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194108,
+    "name": "Armin Bačinovič",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 143076,
+    "name": "Alejandro Gómez",
+    "overall": 77,
+    "roles": [
+      "AD",
+      "COC",
+      "AS",
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 171830,
+    "name": "Nicolás Spolli",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178604,
+    "name": "Boško Janković",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "AS",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 52810,
+    "name": "Giuseppe Sculli",
+    "overall": 77,
+    "roles": [
+      "AS",
+      "AD",
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 190875,
+    "name": "Juraj Kucka",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 24332,
+    "name": "Vincenzo Iaquinta",
+    "overall": 77,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123629,
+    "name": "Mario Santana",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "ES",
+      "COC",
+      "AD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192838,
+    "name": "Ezequiel Schelotto",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "TD",
+      "AD",
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173212,
+    "name": "Paolo De Ceglie",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177643,
+    "name": "Mobido Diakité",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 182860,
+    "name": "Álvaro González",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189067,
+    "name": "Miguel Angel Britos",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 5099,
+    "name": "Gianluca Zambrotta",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "TS",
+      "ED",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 140293,
+    "name": "Antonio Mirante",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4731,
+    "name": "Simone Perrotta",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138699,
+    "name": "Blerim Džemaili",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49617,
+    "name": "Cristian Zaccardo",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 179645,
+    "name": "Simon Kjær",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184312,
+    "name": "Jonathan Biabiany",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "AD",
+      "AS",
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 51101,
+    "name": "Maurizio Domizzi",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC",
+      "ASA"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149231,
+    "name": "Rodrigo Ferrante Taddei",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "ES",
+      "TS",
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 170368,
+    "name": "Erik Lamela",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "AS",
+      "AD",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176993,
+    "name": "Bojan Krkic Perez",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "ATT",
+      "AS",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137519,
+    "name": "Michele Pazienza",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 167514,
+    "name": "Dušan Basta",
+    "overall": 76,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105308,
+    "name": "Jean Francois Gillet",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163925,
+    "name": "Alessandro Diamanti",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "COC",
+      "AS",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7647,
+    "name": "Dario Dainelli",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201508,
+    "name": "Gastón Ramirez",
+    "overall": 76,
+    "roles": [
+      "AT",
+      "COC",
+      "ATT",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 139274,
+    "name": "Boštjan Cesar",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105330,
+    "name": "Gaetano D'Agostino",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149224,
+    "name": "Emanuele Calaió",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163490,
+    "name": "Michele Canini",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 150267,
+    "name": "Alexandros Tzorvas",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 204399,
+    "name": "Eran Zahavi",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "ES",
+      "ED",
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105846,
+    "name": "Artur Boruc",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 52935,
+    "name": "Cesare Natali",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149568,
+    "name": "Amauri Carvalho De Oliv.",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123610,
+    "name": "Giandomenico Mesto",
+    "overall": 76,
+    "roles": [
+      "ED",
+      "TD",
+      "AD",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7142,
+    "name": "Kakhaber Kaladze",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149218,
+    "name": "Marco Rossi",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "ED",
+      "ES",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 156713,
+    "name": "Andreas Granqvist",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "CDC",
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123597,
+    "name": "Stefano Lucchini",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173146,
+    "name": "Luca Cigarini",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7584,
+    "name": "Luca Castellazzi",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 185174,
+    "name": "Andrea Poli",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 6895,
+    "name": "Alexander Manninger",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193337,
+    "name": "Joel Obi",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "ES",
+      "ED",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4514,
+    "name": "Christian Brocchi",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 102056,
+    "name": "Simone Padoin",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "CC",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137133,
+    "name": "Giuseppe Biava",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 122361,
+    "name": "Marco Donadel",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173221,
+    "name": "Antonio Candreva",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "ED",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 190813,
+    "name": "Stephan El Shaarawy",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "AS",
+      "COC",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 136185,
+    "name": "Fábio Henrique Simplício",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "AT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137185,
+    "name": "Salvatore Aronica",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 102088,
+    "name": "Stefano Morrone",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105318,
+    "name": "Jaime Valdés",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163461,
+    "name": "Daniele Galloppa",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165816,
+    "name": "Jonathan Cícero Moreira",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 169386,
+    "name": "Sergio Floccari",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 182177,
+    "name": "Fabiano Santacroce",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186200,
+    "name": "Fabio Borini",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AD",
+      "AS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159518,
+    "name": "Diego Pérez",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 155887,
+    "name": "Michael Bradley",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 172233,
+    "name": "Perparim Hetemaj",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149306,
+    "name": "Valeri Bojinov",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Guillermo Cuadrado",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "AD",
+      "TD",
+      "ADA"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105474,
+    "name": "Daniele Conti",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165235,
+    "name": "Thiago Ribeiro Cardoso",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT",
+      "AD",
+      "AS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 181318,
+    "name": "Albin Ekdal",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186695,
+    "name": "Ezequiel Muñoz",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177537,
+    "name": "Nicolás Bertolo",
+    "overall": 75,
+    "roles": [
+      "AS",
+      "ES",
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 104047,
+    "name": "Sergio Bernardo Almirón",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4724,
+    "name": "Nicola Legrottaglie",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 41378,
+    "name": "Per Krøldrup",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 48826,
+    "name": "Rubén Olivera",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "COC",
+      "AS",
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137241,
+    "name": "Houssine Kharja",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163491,
+    "name": "Andrea Lazzari",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176104,
+    "name": "Valter Birsa",
+    "overall": 75,
+    "roles": [
+      "ES",
+      "ED",
+      "COC",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178393,
+    "name": "Alessio Cerci",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "ES",
+      "COC",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 190544,
+    "name": "Adem Ljajić",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177935,
+    "name": "Kévin Constant",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "ES",
+      "CC",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 181132,
+    "name": "José Eduardo Bischofe de Almeida",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183498,
+    "name": "Marco Parolo",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149217,
+    "name": "Giuseppe Mascara",
+    "overall": 75,
+    "roles": [
+      "AT",
+      "COC",
+      "AS"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45605,
+    "name": "Matteo Brighi",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149147,
+    "name": "Guglielmo Stendardo",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188413,
+    "name": "Carlos Carmona",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 195272,
+    "name": "Marco Faraoni",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "TD",
+      "ADA",
+      "AD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 111023,
+    "name": "Javier Garrido Behobide",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188871,
+    "name": "Libor Kozák",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49025,
+    "name": "Marius Stankevicius",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD",
+      "ED",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4556,
+    "name": "Cristiano Lucarelli",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137228,
+    "name": "Gianluca Grava",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165526,
+    "name": "Gabriel Paletta",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 200700,
+    "name": "Alexander Merkel",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ES",
+      "ED",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 144511,
+    "name": "Leandro Greco",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201988,
+    "name": "Federico Fernández",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138698,
+    "name": "Almen Abdi",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184704,
+    "name": "Marco Antônio de Mattos Filho",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ES",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 190143,
+    "name": "José Ángel Valdés Díaz",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES",
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45618,
+    "name": "Gaby Mudingayi",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201326,
+    "name": "Gabriel Torje",
+    "overall": 74,
+    "roles": [
+      "AD",
+      "AT",
+      "COC",
+      "ED"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137179,
+    "name": "Daniele Portanova",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 172882,
+    "name": "Panagiotis Kone",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178490,
+    "name": "Robert Acquafresca",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 172835,
+    "name": "Marco Andreolli",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 164985,
+    "name": "Cyril Théréau",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT",
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186961,
+    "name": "Alberto Paloschi",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 27971,
+    "name": "Alessandro Agostini",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123586,
+    "name": "Michael Agazzi",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 204550,
+    "name": "Víctor Ibarbo",
+    "overall": 74,
+    "roles": [
+      "AT",
+      "ATT",
+      "COC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123611,
+    "name": "Andrea Mantovani",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 152922,
+    "name": "Edgar Barreto",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149165,
+    "name": "Marco Biagianti",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES",
+      "COC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105477,
+    "name": "David Suazo",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 167666,
+    "name": "Juan Pablo Carrizo",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 171975,
+    "name": "Gonzalo Bergessio",
+    "overall": 74,
+    "roles": [
+      "AT",
+      "ATT",
+      "AS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 203798,
+    "name": "Felipe Seymour",
+    "overall": 74,
+    "roles": [
+      "CC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4832,
+    "name": "Marco Marchionni",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 154634,
+    "name": "Manuel Pasqual",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137129,
+    "name": "Francesco Antonioli",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105866,
+    "name": "Cesare Bovo",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 162174,
+    "name": "Davide Biondini",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205555,
+    "name": "Cristóbal Jorquera",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45083,
+    "name": "Steve von Bergen",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49026,
+    "name": "Andrea Caracciolo",
+    "overall": 74,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45437,
+    "name": "Thomas Manfredini",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163489,
+    "name": "Andrea Consigli",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163653,
+    "name": "Adriano Ferreira Pinto",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "ED",
+      "AD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177915,
+    "name": "Daniele Capelli",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189125,
+    "name": "Giacomo Bonaventura",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "ES",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198175,
+    "name": "Luc Castaignos",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 14907,
+    "name": "Albano Bizzarri",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 207677,
+    "name": "Emiliano Alfaro",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1198,
+    "name": "Filippo Inzaghi",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 113278,
+    "name": "Francesco Modesto",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "ASA",
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137373,
+    "name": "Massimo Gobbi",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 142359,
+    "name": "Alessandro Lucarelli",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 157581,
+    "name": "Djamel Mesbah",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "TS",
+      "CC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 136875,
+    "name": "Bogdan Lobonţ",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178117,
+    "name": "Aleandro Rosi",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 146435,
+    "name": "José Fernando Marqués Martín",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "ES",
+      "COC",
+      "AT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159284,
+    "name": "Raffaele Palladino",
+    "overall": 73,
+    "roles": [
+      "AT",
+      "AS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176846,
+    "name": "McDonald Mariga",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 2,
+    "name": "Giovanni Pasquale",
+    "overall": 73,
+    "roles": [
+      "ASA",
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45462,
+    "name": "Marco Cassetti",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC",
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163402,
+    "name": "Andrea Coda",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163979,
+    "name": "Paulo Vitor Barreto de Souza",
+    "overall": 73,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 140488,
+    "name": "Damiano Ferronetti",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45534,
+    "name": "Mikael Antonsson",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189736,
+    "name": "Federico Casarini",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "ES",
+      "CC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201342,
+    "name": "Frederik Sørensen",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138871,
+    "name": "Davide Moscardelli",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138918,
+    "name": "Luca Rigoni",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 159265,
+    "name": "Christian Puggioni",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 164375,
+    "name": "Andrea Esposito",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 136126,
+    "name": "Júlio Sérgio Bertagnoli",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137199,
+    "name": "Franco Brienza",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "ED",
+      "COC",
+      "AT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158128,
+    "name": "Daniele Mannini",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "ES",
+      "TD",
+      "COC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198863,
+    "name": "Pablo González",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT",
+      "AD",
+      "AS"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178264,
+    "name": "Anderson Miguel da Silva",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189849,
+    "name": "Moestafa El Kabir",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AD",
+      "AS",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 1210,
+    "name": "Massimo Donati",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 18591,
+    "name": "Igor Budan",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 161941,
+    "name": "Edgar Álvarez",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "AD",
+      "AS",
+      "ES"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 207471,
+    "name": "Franco Vázquez",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "AS"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 120238,
+    "name": "Francesco Lodi",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "AD",
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201223,
+    "name": "Afriyie Acquah",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 162932,
+    "name": "Pablo Barrientos",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 167423,
+    "name": "Cristian Llama",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "AS",
+      "CC",
+      "TS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184338,
+    "name": "Giuseppe Bellusci",
+    "overall": 73,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 171097,
+    "name": "Marco Motta",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED",
+      "AD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194404,
+    "name": "Norberto Murara Neto",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 46736,
+    "name": "Emiliano Moretti",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "DC",
+      "ASA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45754,
+    "name": "Roberto Guana",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC",
+      "ES"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173204,
+    "name": "Luca Antonelli",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES",
+      "AS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 146769,
+    "name": "Daniel Jensen",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ES"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 120270,
+    "name": "Simone Tiribocchi",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 169115,
+    "name": "Andrea Masiello",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 45733,
+    "name": "Fabio Grosso",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 200752,
+    "name": "Juan Guilherme Nunes Jesus",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 169388,
+    "name": "Francesco Valiani",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "ED",
+      "AD",
+      "AS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 190604,
+    "name": "Rodney Strasser",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168297,
+    "name": "Gianluca Curci",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 191181,
+    "name": "Ignacio Fideleff",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192575,
+    "name": "Emmanuel Agyemang-Badu",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198932,
+    "name": "Neuton Sergio Piccoli",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158438,
+    "name": "Gelson Fernandes",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137483,
+    "name": "Simone Loria",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163407,
+    "name": "Andrea Raggi",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC",
+      "TS",
+      "ADA"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194988,
+    "name": "Henry Damián Gimenez",
+    "overall": 72,
+    "roles": [
+      "AT",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149572,
+    "name": "Paolo Sammarco",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 156986,
+    "name": "Gennaro Sardo",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177149,
+    "name": "Bojan Jokič",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178430,
+    "name": "Nicolas Frey",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 179695,
+    "name": "Rinaldo Cruzado",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "ES"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7656,
+    "name": "Manuele Blasi",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC",
+      "ED",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7687,
+    "name": "David Di Michele",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 49613,
+    "name": "Guillermo Giacomazzi",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194203,
+    "name": "Nenad Tomović",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 199110,
+    "name": "Luis Fernando Muriel",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138892,
+    "name": "Matteo Contini",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149077,
+    "name": "Reginaldo Ferreira da Silva",
+    "overall": 72,
+    "roles": [
+      "AT",
+      "ES",
+      "ED",
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193338,
+    "name": "Mattia Destro",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 164370,
+    "name": "Francesco Pisano",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "TS",
+      "ADA",
+      "ASA"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 179751,
+    "name": "Joaquin Larrivey",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189436,
+    "name": "Lorenzo Ariaudo",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 154563,
+    "name": "Ciro Capuano",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 169383,
+    "name": "Adrian Ricchiuti",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC",
+      "AT",
+      "AS"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184976,
+    "name": "Davide Lanzafame",
+    "overall": 72,
+    "roles": [
+      "AD",
+      "AS",
+      "AT",
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205362,
+    "name": "Matija Nastasić",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 167098,
+    "name": "Guillermo Rodríguez",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 199205,
+    "name": "R. Martinho Alves de Lima",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "AS",
+      "COC",
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149086,
+    "name": "Jedaias Capucho Neves",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "AT",
+      "AD"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168353,
+    "name": "Leandro Rinaudo",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 11808,
+    "name": "Gianpaolo Bellini",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178418,
+    "name": "Federico Peluso",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189728,
+    "name": "Guido Marilungo",
+    "overall": 71,
+    "roles": [
+      "AT",
+      "AD",
+      "AS",
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198683,
+    "name": "Manolo Gabbiadini",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT",
+      "AS",
+      "AD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138928,
+    "name": "Ayodele Stephen Makinwa",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 603,
+    "name": "Flavio Roma",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 10584,
+    "name": "Luciano Zauri",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "TS",
+      "DC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 135423,
+    "name": "Cícero João De Cezare",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188625,
+    "name": "Joel Ekstrand",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193061,
+    "name": "Roberto Pereyra",
+    "overall": 71,
+    "roles": [
+      "ED",
+      "ES",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138129,
+    "name": "György Garics",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183437,
+    "name": "Matteo Rubin",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ASA",
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 113184,
+    "name": "Davide Mandelli",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176636,
+    "name": "Kamil Vacek",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC",
+      "ED",
+      "CDC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189669,
+    "name": "Santiago Morero",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202460,
+    "name": "Fernando Uribe",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 199845,
+    "name": "Francesco Acerbi",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 5203,
+    "name": "Massimo Oddo",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 105338,
+    "name": "Moris Carrozzieri",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123581,
+    "name": "Christian Obodo",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188016,
+    "name": "Massimiliano Benassi",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149449,
+    "name": "Daniele Corvia",
+    "overall": 71,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 102064,
+    "name": "Claudio Terzi",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173305,
+    "name": "Cristiano Del Grosso",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 185163,
+    "name": "Luca Rossettini",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 195090,
+    "name": "Željko Brkić",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173147,
+    "name": "Daniele Dessena",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED",
+      "ADA"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149269,
+    "name": "Alessandro Potenza",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165490,
+    "name": "Mariano Izco",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC",
+      "TD"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188612,
+    "name": "Andrea Catellani",
+    "overall": 71,
+    "roles": [
+      "AT",
+      "AS",
+      "AD",
+      "ATT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 768,
+    "name": "Felipe Dal Bello",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201914,
+    "name": "Michele Camporese",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 203187,
+    "name": "Amidu Salifu",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 4626,
+    "name": "Simone Del Nero",
+    "overall": 71,
+    "roles": [
+      "AS",
+      "ES",
+      "ASA"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149073,
+    "name": "Gianluca Comotto",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ADA"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 8830,
+    "name": "Giuseppe Colucci",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 142627,
+    "name": "Jorge Andrés Martínez",
+    "overall": 71,
+    "roles": [
+      "AS",
+      "AT",
+      "ES",
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 172494,
+    "name": "Luca Ceccarelli",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178315,
+    "name": "Takayuki Morimoto",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184310,
+    "name": "Alessandro Carrozza",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "ED",
+      "AS",
+      "AD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 11061,
+    "name": "Paolo Orlandoni",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194753,
+    "name": "Luca Marrone",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138462,
+    "name": "Gonçalo Jardim Brandão",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178091,
+    "name": "Stefano Okaka Chuka",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184761,
+    "name": "Stefano Ferrario",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 197785,
+    "name": "Diego Fabbrini",
+    "overall": 70,
+    "roles": [
+      "AS",
+      "AD",
+      "COC",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 157801,
+    "name": "Nico Pulzetti",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "ED",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192823,
+    "name": "Archimede Morleo",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 106874,
+    "name": "Davide Brivio",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149136,
+    "name": "Gennaro Delvecchio",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184833,
+    "name": "Carlos Grossmüller",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176376,
+    "name": "Ignacio Piatti",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192073,
+    "name": "Andrea Bertolacci",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7517,
+    "name": "Simone Vergassola",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137378,
+    "name": "Alessandro Gazzi",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 140906,
+    "name": "Erjon Bogdani",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163989,
+    "name": "Alessio Sestu",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "ES",
+      "AD",
+      "AS"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165440,
+    "name": "Angelo Mariano de Almeida",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED",
+      "ADA",
+      "AD"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184328,
+    "name": "Gabriele Perico",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ADA",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178043,
+    "name": "Francesco Della Rocca",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "ES",
+      "COC",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183454,
+    "name": "Eros Pisano",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 107494,
+    "name": "Andrea Campagnolo",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205671,
+    "name": "Ignacio Lores Varela",
+    "overall": 70,
+    "roles": [
+      "AS",
+      "AD",
+      "ES",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 6,
+    "name": "Alessio Scarpi",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193839,
+    "name": "Rômulo Souza Orestes Caldeira",
+    "overall": 70,
+    "roles": [
+      "AD",
+      "ADA",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 150035,
+    "name": "Vangelis Moras",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TD",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183660,
+    "name": "Dominique Sosso Malonga",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "AD",
+      "AS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137232,
+    "name": "Massimo Paci",
+    "overall": 70,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 175897,
+    "name": "Samir Ujkani",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 197688,
+    "name": "Gabriel Moisés Antunes da Silva",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158996,
+    "name": "Ciro Polito",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149309,
+    "name": "Antonio Rosati",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202828,
+    "name": "Federico Viviani",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178451,
+    "name": "Gianluca Musacci",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 107579,
+    "name": "Federico Agliardi",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 161995,
+    "name": "Daniele Vantaggiato",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 176791,
+    "name": "Edward Ofere",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168397,
+    "name": "Leonardo Miglionico",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "CDC",
+      "TD",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198068,
+    "name": "Manuel Giandonato",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149153,
+    "name": "Paul Codrea",
+    "overall": 69,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138920,
+    "name": "Roberto Vitiello",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184982,
+    "name": "Marcelo Larrondo",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188076,
+    "name": "Francesco Bolzoni",
+    "overall": 69,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 199085,
+    "name": "Fernando Rui V. Pinto Sampaio",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 139669,
+    "name": "Giovanni Marchese",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 199529,
+    "name": "Osariemen Ebagua",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 12011,
+    "name": "Cristiano Lupatelli",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163972,
+    "name": "Maurizio Lauro",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183288,
+    "name": "Yohan Benalouane",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 203255,
+    "name": "Roger de Carvalho",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177805,
+    "name": "Marco Rossi",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "DC",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 181247,
+    "name": "Daniel Pudil",
+    "overall": 69,
+    "roles": [
+      "TS",
+      "ES",
+      "ASA"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177960,
+    "name": "Simone Pesce",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "ED",
+      "CC",
+      "TS"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 7597,
+    "name": "Giorgio Frezzolini",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168365,
+    "name": "Riccardo Cazzola",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 197926,
+    "name": "Lorenzo Crisetig",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 8842,
+    "name": "Lionel Scaloni",
+    "overall": 68,
+    "roles": [
+      "ADA",
+      "TD",
+      "ED",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205941,
+    "name": "Cristian Chávez",
+    "overall": 68,
+    "roles": [
+      "AT",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 200888,
+    "name": "Danilo Luís Hélio Pereira",
+    "overall": 68,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 172685,
+    "name": "José Ángel Crespo Rincón",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "TD",
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177803,
+    "name": "Daniele Paponi",
+    "overall": 68,
+    "roles": [
+      "AT",
+      "AS",
+      "ES",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192205,
+    "name": "Rene Krhin",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194728,
+    "name": "Ishak Belfodil",
+    "overall": 68,
+    "roles": [
+      "AT",
+      "ATT",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 168799,
+    "name": "Boukary Dramé",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "DC",
+      "ES",
+      "TD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186753,
+    "name": "Nikola Gulan",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "CDC",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137453,
+    "name": "Souleymane Diamoutene",
+    "overall": 68,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193408,
+    "name": "Haris Seferovic",
+    "overall": 68,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194990,
+    "name": "Paolo Grossi",
+    "overall": 68,
+    "roles": [
+      "ES",
+      "COC",
+      "ED",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 113188,
+    "name": "Vlada Avramov",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189143,
+    "name": "Sebastian Eriksson",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194228,
+    "name": "Giacomo Brichetto",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173165,
+    "name": "Nicola Ravaglia",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138878,
+    "name": "Marco Rigoni",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 154568,
+    "name": "Carlalberto Ludi",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158738,
+    "name": "Filippo Porcari",
+    "overall": 68,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205089,
+    "name": "Mattia Valoti",
+    "overall": 67,
+    "roles": [
+      "COC",
+      "ED",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138971,
+    "name": "Nicola Pavarini",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178424,
+    "name": "Vitorino Pacheco Antunes",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178386,
+    "name": "Cesare Gianf. Rickler Del Mare",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183365,
+    "name": "Nicolò Cherubin",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198760,
+    "name": "Saphir Taïder",
+    "overall": 67,
+    "roles": [
+      "COC",
+      "CC",
+      "ES",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149263,
+    "name": "Luciano de Oliveira",
+    "overall": 67,
+    "roles": [
+      "ED",
+      "AD",
+      "CC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 149570,
+    "name": "Marcos de Paula",
+    "overall": 67,
+    "roles": [
+      "ATT",
+      "AD"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 106795,
+    "name": "Gianluca Pegolo",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 165244,
+    "name": "Emanuele Pesoli",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 170516,
+    "name": "Nicola Belmonte",
+    "overall": 67,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202558,
+    "name": "Pablo Ceppellini",
+    "overall": 67,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 187338,
+    "name": "Agon Mehmeti",
+    "overall": 67,
+    "roles": [
+      "ATT",
+      "ED"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 187361,
+    "name": "Milan Milanović",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205522,
+    "name": "Mario Paglialunga",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183488,
+    "name": "Vincenzo Rennella",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 170307,
+    "name": "Hernán Dellafiore",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TS",
+      "TD"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186589,
+    "name": "Ivan Radovanovic",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189192,
+    "name": "Andrea Mazzarani",
+    "overall": 67,
+    "roles": [
+      "COC",
+      "CC",
+      "ED",
+      "ES"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 200278,
+    "name": "Santiago García",
+    "overall": 67,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137151,
+    "name": "Cristian Raimondi",
+    "overall": 66,
+    "roles": [
+      "TD",
+      "ADA",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208144,
+    "name": "Daniel Bessa",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 203399,
+    "name": "Ouasim Bouy",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208141,
+    "name": "Gabriel Appelt Pires",
+    "overall": 66,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202793,
+    "name": "Alessandro Berardi",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189415,
+    "name": "Jean-Alain Fanchone",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178470,
+    "name": "Luigi Vitale",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158455,
+    "name": "Lorenzo Squizzi",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186845,
+    "name": "Luca Di Matteo",
+    "overall": 66,
+    "roles": [
+      "TS",
+      "TD",
+      "ES",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184339,
+    "name": "Luigi Giorgi",
+    "overall": 66,
+    "roles": [
+      "ES",
+      "ED",
+      "COC",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198641,
+    "name": "Kenneth Zohore",
+    "overall": 66,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 52951,
+    "name": "Alex Calderoni",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123617,
+    "name": "Alberto Maria Fontana",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137207,
+    "name": "Matteo Centurioni",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 154545,
+    "name": "Francesco Marianini",
+    "overall": 66,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198826,
+    "name": "Andrea Lisuzzo",
+    "overall": 66,
+    "roles": [
+      "DC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202026,
+    "name": "Alberto Libertazzi",
+    "overall": 65,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205852,
+    "name": "Lucas Ramos Roggia",
+    "overall": 65,
+    "roles": [
+      "AT",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205105,
+    "name": "Elio De Silvestro",
+    "overall": 65,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 158718,
+    "name": "Roberto Colombo",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 183819,
+    "name": "Rolf Feltscher",
+    "overall": 65,
+    "roles": [
+      "TD",
+      "DC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198331,
+    "name": "Matěj Vydra",
+    "overall": 65,
+    "roles": [
+      "ATT",
+      "AD",
+      "AS",
+      "COC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 178536,
+    "name": "Davide Petrachi",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 199392,
+    "name": "Matías Aguirregaray",
+    "overall": 65,
+    "roles": [
+      "ED",
+      "TD",
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201897,
+    "name": "Daniel Martínez",
+    "overall": 65,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 123620,
+    "name": "Giuseppe Gemiti",
+    "overall": 65,
+    "roles": [
+      "TS",
+      "TD",
+      "ES",
+      "ED"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205715,
+    "name": "Nadir Minotti",
+    "overall": 64,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206042,
+    "name": "Jacopo Dezi",
+    "overall": 64,
+    "roles": [
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193359,
+    "name": "Rafael Romo",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 173211,
+    "name": "Andrea Rossi",
+    "overall": 64,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193511,
+    "name": "Marco Ruzittu",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188285,
+    "name": "Tomas Kosicky",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198080,
+    "name": "Boadu Maxwell Acosty",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201363,
+    "name": "Ryder Matos Santos",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202850,
+    "name": "Daniele Ferri",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 179973,
+    "name": "Michel Morganella",
+    "overall": 64,
+    "roles": [
+      "TD",
+      "DC",
+      "ADA",
+      "ED"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 138901,
+    "name": "Michele Ferri",
+    "overall": 63,
+    "roles": [
+      "TS",
+      "ASA",
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208145,
+    "name": "Nejc Praprotnik",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208089,
+    "name": "Matteo Monteforte",
+    "overall": 63,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208156,
+    "name": "Giammario Piscitella",
+    "overall": 63,
+    "roles": [
+      "AS",
+      "ES",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 189115,
+    "name": "Mickaël Facchinetti",
+    "overall": 63,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206110,
+    "name": "Joel Acosta",
+    "overall": 63,
+    "roles": [
+      "ED",
+      "AT",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 184448,
+    "name": "Simone Gozzi",
+    "overall": 63,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 197089,
+    "name": "Daniel Kofi Agyei",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 207534,
+    "name": "Nii Nortey Ashong",
+    "overall": 63,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 163901,
+    "name": "Achille Coser",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208143,
+    "name": "Marek Kysela",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208103,
+    "name": "Antonio Rozzi",
+    "overall": 62,
+    "roles": [
+      "AD",
+      "AS",
+      "AT",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208147,
+    "name": "Alessio Di Falco",
+    "overall": 62,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205302,
+    "name": "Alberto Gallinetta",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 207715,
+    "name": "Nico López",
+    "overall": 62,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205868,
+    "name": "Radoslav Kirilov",
+    "overall": 62,
+    "roles": [
+      "COC",
+      "AT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137220,
+    "name": "Francesco Parravicini",
+    "overall": 62,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186611,
+    "name": "Mauro Vigorito",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202513,
+    "name": "Giuseppe Prestia",
+    "overall": 62,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 203976,
+    "name": "Masahudu Alhassan",
+    "overall": 62,
+    "roles": [
+      "TS",
+      "ASA"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205855,
+    "name": "Marko Livaja",
+    "overall": 62,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205983,
+    "name": "Damian Djokovic",
+    "overall": 62,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137425,
+    "name": "Raffaele Rubino",
+    "overall": 62,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201391,
+    "name": "Andrea Romanò",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201882,
+    "name": "Matteo Liviero",
+    "overall": 61,
+    "roles": [
+      "TS",
+      "ASA",
+      "ES"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208146,
+    "name": "Davide Adorni",
+    "overall": 61,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205530,
+    "name": "Mirko Pigliacelli",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 188537,
+    "name": "Loïc Nego",
+    "overall": 61,
+    "roles": [
+      "TD",
+      "TS",
+      "ED",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 201916,
+    "name": "Francesco Grandolfo",
+    "overall": 61,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205519,
+    "name": "Luigi Falcone",
+    "overall": 61,
+    "roles": [
+      "AS",
+      "AD",
+      "AT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205110,
+    "name": "Emanuele Panzeri",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205363,
+    "name": "Matteo Bianchetti",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206044,
+    "name": "Daniel Bello",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206046,
+    "name": "Simone Deana",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206053,
+    "name": "Davide Marsura",
+    "overall": 60,
+    "roles": [
+      "ATT",
+      "AT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205759,
+    "name": "Dejan Stojanovic",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 177684,
+    "name": "Simone Grippo",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 193524,
+    "name": "Gianmarco Ingrosso",
+    "overall": 60,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206148,
+    "name": "Federico Bonu",
+    "overall": 60,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208028,
+    "name": "Nicola Bovi",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205812,
+    "name": "Pietro Terracino",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Catania",
+    "mapped_team": "Catania",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 186612,
+    "name": "Edoardo Pazzagli",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202135,
+    "name": "Stefano Sturaro",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 192831,
+    "name": "Luca Ricci",
+    "overall": 60,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205853,
+    "name": "Stefan Popescu",
+    "overall": 60,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205854,
+    "name": "Tibor Cica",
+    "overall": 60,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 208106,
+    "name": "Nicolò Lolli",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206020,
+    "name": "Enrico Zampa",
+    "overall": 59,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 202827,
+    "name": "Cristian Battocchio",
+    "overall": 59,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206049,
+    "name": "Mattia Bedin",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205513,
+    "name": "Jacopo Coletta",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC ChievoVerona",
+    "mapped_team": "Chievo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205642,
+    "name": "Ugo Gabrieli",
+    "overall": 59,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206604,
+    "name": "Carlos Labrín",
+    "overall": 59,
+    "roles": [
+      "DC"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206601,
+    "name": "Mario Sampirisi",
+    "overall": 59,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205714,
+    "name": "Renato Facheris",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206021,
+    "name": "Luca Crescenzi",
+    "overall": 58,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206160,
+    "name": "Amato Ciciretti",
+    "overall": 58,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 207461,
+    "name": "Luigi Turbacci",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 137356,
+    "name": "Simone Farelli",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Siena",
+    "mapped_team": "Siena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 207869,
+    "name": "Matteo Meucci",
+    "overall": 58,
+    "roles": [
+      "ED",
+      "AD",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205303,
+    "name": "Marco D'Arsie",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206159,
+    "name": "Stefano Sabelli",
+    "overall": 57,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206602,
+    "name": "Mauro Bollino",
+    "overall": 57,
+    "roles": [
+      "AT"
+    ],
+    "team": "Palermo FC",
+    "mapped_team": "Palermo",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205531,
+    "name": "Valerio Verre",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205643,
+    "name": "Alessio Esposito",
+    "overall": 56,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206657,
+    "name": "Alberto Marchiori",
+    "overall": 56,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206586,
+    "name": "Alessandro Saporetti",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 198828,
+    "name": "Jean-Christophe Coubronne",
+    "overall": 56,
+    "roles": [
+      "TD"
+    ],
+    "team": "Novara",
+    "mapped_team": "Novara",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205645,
+    "name": "Raffaele Rosato",
+    "overall": 55,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205934,
+    "name": "Nicola Murru",
+    "overall": 55,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 205700,
+    "name": "Aleksejs Giļničs",
+    "overall": 55,
+    "roles": [
+      "DC",
+      "CDC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 194040,
+    "name": "Filippo Lombardi",
+    "overall": 54,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2012"
+  },
+  {
+    "player_id": 206551,
+    "name": "Tommaso Arrigoni",
+    "overall": 54,
+    "roles": [
+      "CC"
+    ],
+    "team": "Cesena FC",
+    "mapped_team": "Cesena",
+    "sofifa_year": "2012"
+  }
+]

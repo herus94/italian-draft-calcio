@@ -1,0 +1,6689 @@
+[
+  {
+    "player_id": 231478,
+    "name": "Lautaro Martínez",
+    "overall": 89,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 177683,
+    "name": "Yann Sommer",
+    "overall": 87,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224232,
+    "name": "Nicolò Barella",
+    "overall": 87,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237383,
+    "name": "Alessandro Bastoni",
+    "overall": 87,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 215698,
+    "name": "Mike Maignan",
+    "overall": 87,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 232656,
+    "name": "Theo Hernández",
+    "overall": 87,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211110,
+    "name": "Paulo Dybala",
+    "overall": 87,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 208128,
+    "name": "Hakan Çalhanoğlu",
+    "overall": 86,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239580,
+    "name": "Gleison Bremer Silva Nascimento",
+    "overall": 86,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241721,
+    "name": "Rafael da Conceição Leão",
+    "overall": 86,
+    "roles": [
+      "AS",
+      "ES",
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247635,
+    "name": "Khvicha Kvaratskhelia",
+    "overall": 85,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 178603,
+    "name": "Mats Hummels",
+    "overall": 85,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 199845,
+    "name": "Francesco Acerbi",
+    "overall": 84,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 226268,
+    "name": "Federico Dimarco",
+    "overall": 84,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 226851,
+    "name": "Benjamin Pavard",
+    "overall": 84,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246430,
+    "name": "Dušan Vlahović",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242458,
+    "name": "Artem Dovbyk",
+    "overall": 84,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 193080,
+    "name": "David De Gea Quintana",
+    "overall": 84,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 192883,
+    "name": "Henrikh Mkhitaryan",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 198176,
+    "name": "Stefan de Vrij",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228093,
+    "name": "Marcus Thuram",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 222077,
+    "name": "Manuel Locatelli",
+    "overall": 83,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236499,
+    "name": "Douglas Luiz Soares de Paulo",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240679,
+    "name": "Teun Koopmeiners",
+    "overall": 83,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210413,
+    "name": "Alessio Romagnoli",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220502,
+    "name": "Mattia Zaccagni",
+    "overall": 83,
+    "roles": [
+      "AS",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224987,
+    "name": "Ivan Provedel",
+    "overall": 83,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201153,
+    "name": "Álvaro Borja Morata Martín",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 226754,
+    "name": "Ismaël Bennacer",
+    "overall": 83,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 227796,
+    "name": "Christian Pulisic",
+    "overall": 83,
+    "roles": [
+      "AD",
+      "ED",
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 232756,
+    "name": "Fikayo Tomori",
+    "overall": 83,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228251,
+    "name": "Lorenzo Pellegrini",
+    "overall": 83,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 215333,
+    "name": "Duván Zapata",
+    "overall": 83,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230899,
+    "name": "Ademola Lookman",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252154,
+    "name": "Marco Carnesecchi",
+    "overall": 82,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 233096,
+    "name": "Denzel Dumfries",
+    "overall": 82,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 199304,
+    "name": "Danilo Luiz da Silva",
+    "overall": 82,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240638,
+    "name": "Tijjani Reijnders",
+    "overall": 82,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 192505,
+    "name": "Romelu Lukaku",
+    "overall": 82,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216435,
+    "name": "Stanislav Lobotka",
+    "overall": 82,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 217870,
+    "name": "Giovanni Di Lorenzo",
+    "overall": 82,
+    "roles": [
+      "TD",
+      "ED",
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 229582,
+    "name": "Gianluca Mancini",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 229668,
+    "name": "Mario Hermoso Canseco",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201535,
+    "name": "Raphaël Varane",
+    "overall": 82,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246875,
+    "name": "Odilon Kossounou",
+    "overall": 81,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 184392,
+    "name": "Matteo Darmian",
+    "overall": 81,
+    "roles": [
+      "TD",
+      "DC",
+      "ED"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210406,
+    "name": "Piotr Zieliński",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239807,
+    "name": "Davide Frattesi",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205175,
+    "name": "Arkadiusz Milik",
+    "overall": 81,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 213666,
+    "name": "Ruben Loftus-Cheek",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 245630,
+    "name": "Youssouf Fofana",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225116,
+    "name": "Alex Meret",
+    "overall": 81,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 208268,
+    "name": "Bryan Cristante",
+    "overall": 81,
+    "roles": [
+      "CC",
+      "CDC",
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 202024,
+    "name": "Remo Freuler",
+    "overall": 81,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 233556,
+    "name": "Riccardo Orsolini",
+    "overall": 81,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 223273,
+    "name": "Mario Pašalić",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266866,
+    "name": "Éderson José dos Santos",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 184200,
+    "name": "Marko Arnautović",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241788,
+    "name": "Mehdi Taremi",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235840,
+    "name": "Michele Di Gregorio",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240690,
+    "name": "Nicolás González",
+    "overall": 80,
+    "roles": [
+      "AD",
+      "ED",
+      "AS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236496,
+    "name": "Mattéo Guendouzi",
+    "overall": 80,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228881,
+    "name": "Davide Calabria",
+    "overall": 80,
+    "roles": [
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246172,
+    "name": "Samuel Chukwueze",
+    "overall": 80,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216409,
+    "name": "Matteo Politano",
+    "overall": 80,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 227236,
+    "name": "André-Franck Zambo Anguissa",
+    "overall": 80,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236632,
+    "name": "David Neres Campos",
+    "overall": 80,
+    "roles": [
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243241,
+    "name": "Alessandro Buongiorno",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244263,
+    "name": "Amir Rrahmani",
+    "overall": 80,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 184941,
+    "name": "Alexis Sánchez",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210676,
+    "name": "Wladimiro Falcone",
+    "overall": 80,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238004,
+    "name": "Albert Guðmundsson",
+    "overall": 80,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 187598,
+    "name": "Rafael Tolói",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 193082,
+    "name": "Juan Cuadrado",
+    "overall": 79,
+    "roles": [
+      "ED",
+      "TD",
+      "AD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 207993,
+    "name": "Sead Kolašinac",
+    "overall": 79,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 208461,
+    "name": "Marten de Roon",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC",
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216150,
+    "name": "Davide Zappacosta",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "ES",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 226710,
+    "name": "Gianluca Scamacca",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251470,
+    "name": "Charles De Ketelaere",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258648,
+    "name": "Carlos Augusto Zopolato Neves",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 198009,
+    "name": "Mattia Perin",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224031,
+    "name": "Adam Marušić",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235374,
+    "name": "Manuel Lazzari",
+    "overall": 79,
+    "roles": [
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237712,
+    "name": "Valentin Castellanos",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246242,
+    "name": "Boulaye Dia",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 232432,
+    "name": "Luka Jović",
+    "overall": 79,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 202884,
+    "name": "Leonardo Spinazzola",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 204614,
+    "name": "Mário Rui Silva Duarte",
+    "overall": 79,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 190813,
+    "name": "Stephan El Shaarawy",
+    "overall": 79,
+    "roles": [
+      "ES",
+      "AS",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241095,
+    "name": "Nikola Vlašić",
+    "overall": 79,
+    "roles": [
+      "COC",
+      "AD",
+      "AS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241854,
+    "name": "Perr Schuurs",
+    "overall": 79,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 189908,
+    "name": "Łukasz Skorupski",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242280,
+    "name": "Lewis Ferguson",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 199564,
+    "name": "Sergio Roberto Carnicer",
+    "overall": 79,
+    "roles": [
+      "TD",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228413,
+    "name": "Emil Audero",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201389,
+    "name": "Cristiano Biraghi",
+    "overall": 79,
+    "roles": [
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205812,
+    "name": "Pietro Terracciano",
+    "overall": 79,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 223697,
+    "name": "Robin Gosens",
+    "overall": 79,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239613,
+    "name": "Matteo Pessina",
+    "overall": 79,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 208165,
+    "name": "Berat Djimsiti",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238067,
+    "name": "Nicolò Zaniolo",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "AD",
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 260697,
+    "name": "Isak Hien",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 265188,
+    "name": "Giorgio Scalvini",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238744,
+    "name": "Weston McKennie",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247246,
+    "name": "Khéphren Thuram",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255654,
+    "name": "Pierre Kalulu",
+    "overall": 78,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 261050,
+    "name": "Francisco F. da Conceição",
+    "overall": 78,
+    "roles": [
+      "ED",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266872,
+    "name": "Federico Gatti",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219985,
+    "name": "Matías Vecino",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255001,
+    "name": "Nicolò Rovella",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231352,
+    "name": "Tammy Abraham",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242530,
+    "name": "Noah Okafor",
+    "overall": 78,
+    "roles": [
+      "ATT",
+      "AS",
+      "COC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 256261,
+    "name": "Malick Thiaw",
+    "overall": 78,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237238,
+    "name": "Scott McTominay",
+    "overall": 78,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253002,
+    "name": "Giacomo Raspadori",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "ATT",
+      "AS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 199005,
+    "name": "Mathew Ryan",
+    "overall": 78,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 207439,
+    "name": "Leandro Paredes",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242664,
+    "name": "Alexis Saelemaekers",
+    "overall": 78,
+    "roles": [
+      "ES",
+      "ED",
+      "AD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246688,
+    "name": "Saud Abdulhamid",
+    "overall": 78,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 223671,
+    "name": "Stefan Posch",
+    "overall": 78,
+    "roles": [
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 208596,
+    "name": "Andrea Belotti",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236610,
+    "name": "Moise Kean",
+    "overall": 78,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251988,
+    "name": "Andrea Colpani",
+    "overall": 78,
+    "roles": [
+      "COC",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 229857,
+    "name": "Stefano Sensi",
+    "overall": 78,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241736,
+    "name": "Yann Aurel Bisseck",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230658,
+    "name": "Arthur Henrique Ramos Oliveira Melo",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258966,
+    "name": "Andrea Cambiaso",
+    "overall": 77,
+    "roles": [
+      "TD",
+      "TS",
+      "ED"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 206098,
+    "name": "Patricio Gabarrón Gil",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219581,
+    "name": "Samuel Gigot",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225014,
+    "name": "Gaetano Castrovilli",
+    "overall": 77,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216065,
+    "name": "Marco Sportiello",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240277,
+    "name": "Matteo Gabbia",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216816,
+    "name": "Giovanni Simeone",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240716,
+    "name": "Mathías Olivera",
+    "overall": 77,
+    "roles": [
+      "TS"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220651,
+    "name": "José Ángel Esmoris Tasende",
+    "overall": 77,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236403,
+    "name": "Evan Ndicka",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246350,
+    "name": "Enzo Le Fée",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262113,
+    "name": "Nicola Zalewski",
+    "overall": 77,
+    "roles": [
+      "ES",
+      "TS",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 265695,
+    "name": "Matías Soulé",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "AD",
+      "COC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219145,
+    "name": "Guillermo Maripán",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219932,
+    "name": "Antonio Sanabria",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224836,
+    "name": "Vanja Milinković-Savić",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253473,
+    "name": "Samuele Ricci",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258683,
+    "name": "Ivan Ilić",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231207,
+    "name": "Jhon Lucumí",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239770,
+    "name": "Nicolò Casale",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252021,
+    "name": "Thijs Dallinga",
+    "overall": 77,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262394,
+    "name": "Sam Beukema",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 215363,
+    "name": "Lorenzo Montipò",
+    "overall": 77,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230065,
+    "name": "Suat Serdar",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220534,
+    "name": "Sebastiano Luperto",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211361,
+    "name": "Danilo Cataldi",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225439,
+    "name": "Rolando Mandragora",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228708,
+    "name": "Lucas Martínez Quarta",
+    "overall": 77,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 234112,
+    "name": "Domilson Cordeiro dos Santos",
+    "overall": 77,
+    "roles": [
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 234612,
+    "name": "Jonathan Ikoné",
+    "overall": 77,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243627,
+    "name": "Yacine Adli",
+    "overall": 77,
+    "roles": [
+      "CDC",
+      "CC",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231969,
+    "name": "Ruslan Malinovskyi",
+    "overall": 77,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 202848,
+    "name": "Gianluca Caprari",
+    "overall": 77,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219812,
+    "name": "Patrick Ciurria",
+    "overall": 77,
+    "roles": [
+      "ED",
+      "ES",
+      "COC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 178005,
+    "name": "Rui Pedro dos Santos Patrício",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241850,
+    "name": "Mateo Retegui",
+    "overall": 76,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247229,
+    "name": "Raoul Bellanova",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 260823,
+    "name": "Nicolò Fagioli",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 189505,
+    "name": "Pedro Rodríguez Ledesma",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 248729,
+    "name": "Gustav Isaksen",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "AS",
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268804,
+    "name": "Mario Gila Fuentes",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 203551,
+    "name": "Alessandro Florenzi",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247204,
+    "name": "Emerson Leite De Souza",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 254840,
+    "name": "Strahinja Pavlović",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268683,
+    "name": "Michael Folorunsho",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225475,
+    "name": "Hernani Azevedo Júnior",
+    "overall": 76,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 250723,
+    "name": "Kouadio Manu Koné",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269312,
+    "name": "Tommaso Baldanzi",
+    "overall": 76,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 213242,
+    "name": "Adrien Tameze",
+    "overall": 76,
+    "roles": [
+      "DC",
+      "CDC",
+      "CC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231836,
+    "name": "Jesper Karlsson",
+    "overall": 76,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236898,
+    "name": "Michel Aebischer",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240915,
+    "name": "Juan Miranda González",
+    "overall": 76,
+    "roles": [
+      "TS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268573,
+    "name": "Federico Baschirotto",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 24630,
+    "name": "José Manuel Reina Páez",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205566,
+    "name": "Alberto Moreno Pérez",
+    "overall": 76,
+    "roles": [
+      "TS"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235949,
+    "name": "Gabriel Tadeu Strefezza Rebelato",
+    "overall": 76,
+    "roles": [
+      "AD",
+      "ED"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 206058,
+    "name": "Mattia De Sciglio",
+    "overall": 76,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220523,
+    "name": "Yerry Mina",
+    "overall": 76,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235866,
+    "name": "Christian Kouamé",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "AS",
+      "AD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246431,
+    "name": "Riccardo Sottil",
+    "overall": 76,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258976,
+    "name": "Fabiano Parisi",
+    "overall": 76,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211515,
+    "name": "Pierluigi Gollini",
+    "overall": 76,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242633,
+    "name": "Morten Frendrup",
+    "overall": 76,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 234147,
+    "name": "Dany Mota Carvalho",
+    "overall": 76,
+    "roles": [
+      "ATT",
+      "COC",
+      "ES"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225793,
+    "name": "Ben Godfrey",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD",
+      "TS"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 256115,
+    "name": "Lazar Samardžić",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243311,
+    "name": "Josep Martínez Riera",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264699,
+    "name": "Kristjan Asllani",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243237,
+    "name": "Luca Pellegrini",
+    "overall": 75,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264257,
+    "name": "Tijjani Noslin",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "AD",
+      "AS"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253177,
+    "name": "Yunus Musah",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 245992,
+    "name": "Billy Gilmour",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239978,
+    "name": "Dennis Man",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252442,
+    "name": "Enrico Delprato",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252794,
+    "name": "Adrián Bernabé García",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 261539,
+    "name": "Mandela Keita",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224490,
+    "name": "Zeki Çelik",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230872,
+    "name": "Mile Svilar",
+    "overall": 75,
+    "roles": [
+      "POR"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 226093,
+    "name": "Ché Adams",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243388,
+    "name": "Borna Sosa",
+    "overall": 75,
+    "roles": [
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 265650,
+    "name": "Saúl Basilio Coco Bassey Oubiña",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244238,
+    "name": "Jaka Bijol",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244270,
+    "name": "Nikola Moro",
+    "overall": 75,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257980,
+    "name": "Dan Ndoye",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "ES",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271019,
+    "name": "Giovanni Fabbian",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220165,
+    "name": "Joel Pohjanpalo",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 195272,
+    "name": "Marco Davide Faraoni",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242392,
+    "name": "Giangiacomo Magnani",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220018,
+    "name": "Ante Rebić",
+    "overall": 75,
+    "roles": [
+      "AS",
+      "ATT",
+      "ES"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 227222,
+    "name": "Frédéric Guilbert",
+    "overall": 75,
+    "roles": [
+      "TD",
+      "DC",
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277839,
+    "name": "Nikola Krstović",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 196889,
+    "name": "Simone Verdi",
+    "overall": 75,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235813,
+    "name": "Răzvan Marin",
+    "overall": 75,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238370,
+    "name": "Marin Pongračić",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246258,
+    "name": "Lucas Beltrán",
+    "overall": 75,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240938,
+    "name": "Junior Messias",
+    "overall": 75,
+    "roles": [
+      "ED",
+      "AD",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263829,
+    "name": "Vítor Manuel Carvalho Oliveira",
+    "overall": 75,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 198946,
+    "name": "Danilo D'Ambrosio",
+    "overall": 75,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 206654,
+    "name": "Pablo Marí Villar",
+    "overall": 75,
+    "roles": [
+      "DC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 215330,
+    "name": "Joaquín Correa",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "ES"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246800,
+    "name": "Tajon Buchanan",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241496,
+    "name": "Timothy Weah",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251870,
+    "name": "Juan David Cabal",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210864,
+    "name": "Elseid Hysaj",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 245275,
+    "name": "Toma Bašić",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251530,
+    "name": "Nuno Albertino Varela Tavares",
+    "overall": 74,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 200752,
+    "name": "Juan Guilherme Nunes Jesus",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255303,
+    "name": "Elia Caprile",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211408,
+    "name": "Karol Linetty",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257288,
+    "name": "Maduka Okoye",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246656,
+    "name": "Emil Holm",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252060,
+    "name": "Tommaso Pobega",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268703,
+    "name": "Nicolò Cambiaghi",
+    "overall": 74,
+    "roles": [
+      "AS",
+      "ATT"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 199904,
+    "name": "Jesse Joronen",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 208535,
+    "name": "Alfred Duncan",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 212127,
+    "name": "Darko Lazović",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 222148,
+    "name": "Ondrej Duda",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC",
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252017,
+    "name": "Flavius Daniliuc",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255233,
+    "name": "Tomáš Suslov",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "COC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201858,
+    "name": "Nicola Sansone",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230107,
+    "name": "Lassana Coulibaly",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244717,
+    "name": "Antonino Gallo",
+    "overall": 74,
+    "roles": [
+      "TS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 221331,
+    "name": "Luca Mazzitelli",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237586,
+    "name": "Alberto Dossena",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237715,
+    "name": "Patrick Cutrone",
+    "overall": 74,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 254579,
+    "name": "Lucas Da Cunha",
+    "overall": 74,
+    "roles": [
+      "ES",
+      "ED",
+      "COC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220491,
+    "name": "Emmanuel Gyasi",
+    "overall": 74,
+    "roles": [
+      "ED",
+      "ES",
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224213,
+    "name": "Tyronne Ebuehi",
+    "overall": 74,
+    "roles": [
+      "TD"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278013,
+    "name": "Saba Sazonov",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 217196,
+    "name": "José Luis Palomino",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246877,
+    "name": "Gianluca Gaetano",
+    "overall": 74,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240777,
+    "name": "Luca Ranieri",
+    "overall": 74,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262171,
+    "name": "Edoardo Bove",
+    "overall": 74,
+    "roles": [
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244349,
+    "name": "Johan Vásquez",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268802,
+    "name": "Fabio Miretti",
+    "overall": 74,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205659,
+    "name": "Alessio Cragno",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 212153,
+    "name": "Roberto Gagliardini",
+    "overall": 74,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216145,
+    "name": "Armando Izzo",
+    "overall": 74,
+    "roles": [
+      "DC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237003,
+    "name": "Samuele Birindelli",
+    "overall": 74,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 254502,
+    "name": "Stefano Turati",
+    "overall": 74,
+    "roles": [
+      "POR"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 259584,
+    "name": "Matteo Ruggeri",
+    "overall": 73,
+    "roles": [
+      "ES"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205343,
+    "name": "Jean-Daniel Akpa Akpro",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 213135,
+    "name": "Divock Origi",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246457,
+    "name": "Cyril Ngonge",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "COC",
+      "ATT"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 259565,
+    "name": "Yoan Bonny",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268913,
+    "name": "Alessandro Circati",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211147,
+    "name": "Valentino Lazaro",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "ED",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243481,
+    "name": "Marcus Holmgren Pedersen",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "ES",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220421,
+    "name": "Hassane Kamara",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 223866,
+    "name": "Sandi Lovrič",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240970,
+    "name": "Martín Payero",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210381,
+    "name": "Charalampos Lykogiannis",
+    "overall": 73,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 234671,
+    "name": "Jens Odgaard",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 267861,
+    "name": "Santiago Castro",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "AD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 272379,
+    "name": "Samuel Iling-Junior",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242332,
+    "name": "Gianluca Busio",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 213404,
+    "name": "Paweł Dawidowicz",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237335,
+    "name": "Grigoris Kastanos",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241937,
+    "name": "Abdou Harroui",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262937,
+    "name": "Jackson Tchatchoua",
+    "overall": 73,
+    "roles": [
+      "TD",
+      "ED",
+      "ES"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239671,
+    "name": "José Antonio Morente Oliva",
+    "overall": 73,
+    "roles": [
+      "ES",
+      "ED"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210719,
+    "name": "Marc-Oliver Kempf",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242090,
+    "name": "Ola Solbakken",
+    "overall": 73,
+    "roles": [
+      "ED",
+      "AD",
+      "AS"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 256899,
+    "name": "Lorenzo Colombo",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 173160,
+    "name": "Nicolas Viola",
+    "overall": 73,
+    "roles": [
+      "COC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211302,
+    "name": "Gianluca Lapadula",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220048,
+    "name": "Simone Scuffet",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 259011,
+    "name": "Zito André Sebastião Luvumbo",
+    "overall": 73,
+    "roles": [
+      "ATT",
+      "ES",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270597,
+    "name": "Antoine Makoumbou",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 272725,
+    "name": "Matteo Prati",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236758,
+    "name": "Oliver Christensen",
+    "overall": 73,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237499,
+    "name": "Abdelhamid Sabiri",
+    "overall": 73,
+    "roles": [
+      "COC",
+      "CC",
+      "ATT"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262236,
+    "name": "Amir Richardson",
+    "overall": 73,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201144,
+    "name": "Milan Badelj",
+    "overall": 73,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235842,
+    "name": "Andrea Pinamonti",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 199776,
+    "name": "Luca Caldirola",
+    "overall": 73,
+    "roles": [
+      "DC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 215689,
+    "name": "Andrea Petagna",
+    "overall": 73,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 234102,
+    "name": "Ionuț Andrei Radu",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 189342,
+    "name": "Carlo Pinsoglio",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278032,
+    "name": "Christos Mandas",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239679,
+    "name": "Pasquale Mazzocchi",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "ES",
+      "TD"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 191628,
+    "name": "Leandro Chichizola",
+    "overall": 72,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 216799,
+    "name": "Gianluca Di Chiara",
+    "overall": 72,
+    "roles": [
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236706,
+    "name": "Pontus Almqvist",
+    "overall": 72,
+    "roles": [
+      "ED",
+      "AD",
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237297,
+    "name": "Yordan Osorio",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240992,
+    "name": "Nahuel Estévez",
+    "overall": 72,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243154,
+    "name": "Adrian Benedyczak",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "ATT",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 248060,
+    "name": "Valentin Mihăilă",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251335,
+    "name": "Woyo Coulibaly",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258714,
+    "name": "Emanuele Valeri",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263929,
+    "name": "Matteo Cancellieri",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "COC",
+      "ED"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239964,
+    "name": "Eldor Shomurodov",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225410,
+    "name": "Adam Masina",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231826,
+    "name": "Yann Karamoh",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "ATT",
+      "ED"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 204970,
+    "name": "Florian Thauvin",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 215147,
+    "name": "Lautaro Giannetti",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240332,
+    "name": "Brenner Souza da Silva",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243249,
+    "name": "Jurgen Ekkelenkamp",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258615,
+    "name": "Oier Zarraga Egaña",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258972,
+    "name": "Isaak Touré",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268474,
+    "name": "Lorenzo Lucca",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 170320,
+    "name": "Lorenzo De Silvestri",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244456,
+    "name": "Martin Erlić",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269558,
+    "name": "Benjamín Domínguez",
+    "overall": 72,
+    "roles": [
+      "ES",
+      "COC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219655,
+    "name": "Francesco Zampano",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "TD",
+      "ES"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252315,
+    "name": "Antonio Candela",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257920,
+    "name": "Casper Tengstedt",
+    "overall": 72,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 233265,
+    "name": "Rémi Oudin",
+    "overall": 72,
+    "roles": [
+      "AD",
+      "AS",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271197,
+    "name": "Lameck Banda",
+    "overall": 72,
+    "roles": [
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 275783,
+    "name": "Kialonda Gaspar",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 211557,
+    "name": "Federico Barba",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 223524,
+    "name": "Edoardo Goldaniga",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258505,
+    "name": "Matthias Braunöder",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236838,
+    "name": "Youssef Maleh",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239732,
+    "name": "Szymon Żurkowski",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242429,
+    "name": "Liberato Cacace",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247888,
+    "name": "Sebastiano Esposito",
+    "overall": 72,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224302,
+    "name": "Mateusz Wieteska",
+    "overall": 72,
+    "roles": [
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240100,
+    "name": "Tommaso Augello",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277869,
+    "name": "Michael Kayode",
+    "overall": 72,
+    "roles": [
+      "TD"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 222475,
+    "name": "Morten Thorsby",
+    "overall": 72,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236295,
+    "name": "Aarón Martín Caricol",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 265774,
+    "name": "Koni De Winter",
+    "overall": 72,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268656,
+    "name": "Alessandro Zanoli",
+    "overall": 72,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205089,
+    "name": "Mattia Valoti",
+    "overall": 72,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253213,
+    "name": "Giorgos Kyriakopoulos",
+    "overall": 72,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255611,
+    "name": "Daniel Maldini",
+    "overall": 72,
+    "roles": [
+      "COC",
+      "AS"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258407,
+    "name": "Brandon Soppy",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271577,
+    "name": "Ibrahim Sulemana",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271579,
+    "name": "Filippo Terracciano",
+    "overall": 71,
+    "roles": [
+      "ED",
+      "TD",
+      "TS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237669,
+    "name": "Alessio Zerbin",
+    "overall": 71,
+    "roles": [
+      "AS",
+      "ES"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277244,
+    "name": "Rafael Marín Zamora",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 212886,
+    "name": "Wylan Cyprien",
+    "overall": 71,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 244634,
+    "name": "Simon Sohm",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "CC",
+      "CDC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255981,
+    "name": "Zion Suzuki",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228349,
+    "name": "Mërgim Vojvoda",
+    "overall": 71,
+    "roles": [
+      "ES",
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235740,
+    "name": "Alberto Paleari",
+    "overall": 71,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 190324,
+    "name": "Christian Kabasele",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231743,
+    "name": "Keinan Davis",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241007,
+    "name": "Enzo Ebosse",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269276,
+    "name": "Gaetano Oristanio",
+    "overall": 71,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238009,
+    "name": "Martin Frese",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269181,
+    "name": "Diego Coppola",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247412,
+    "name": "Andy Pelmard",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271196,
+    "name": "Joan González Cañellas",
+    "overall": 71,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 267991,
+    "name": "Máximo Perrone",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268673,
+    "name": "Alessio Iovine",
+    "overall": 71,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220475,
+    "name": "Alberto Grassi",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230681,
+    "name": "Giuseppe Pezzella",
+    "overall": 71,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258782,
+    "name": "Ardian Ismajli",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264044,
+    "name": "Mattia Viti",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 226592,
+    "name": "Jakub Jankto",
+    "overall": 71,
+    "roles": [
+      "CC",
+      "ES",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 248385,
+    "name": "Roberto Piccoli",
+    "overall": 71,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 224378,
+    "name": "Mattia Bani",
+    "overall": 71,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257000,
+    "name": "Andrea Carboni",
+    "overall": 71,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 228698,
+    "name": "Viktor Kovalenko",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219715,
+    "name": "Raffaele Di Gennaro",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277954,
+    "name": "Kenan Yıldız",
+    "overall": 70,
+    "roles": [
+      "AS",
+      "ATT"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258890,
+    "name": "Fisayo Dele-Bashiru",
+    "overall": 70,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264880,
+    "name": "Loum Tchaouna",
+    "overall": 70,
+    "roles": [
+      "AD",
+      "ATT",
+      "COC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236723,
+    "name": "Fodé Ballo-Touré",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258708,
+    "name": "Botond Balogh",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243497,
+    "name": "Sebastian Walukiewicz",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 214658,
+    "name": "Jesper Karlström",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225669,
+    "name": "Kingsley Ehizibue",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 261573,
+    "name": "Thomas Thiesson Kristensen",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240657,
+    "name": "Federico Ravaglia",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269745,
+    "name": "Oussama El Azzouzi",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201285,
+    "name": "Christian Gytkjær",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210384,
+    "name": "Ridgeciano Haps",
+    "overall": 70,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263647,
+    "name": "Giorgio Altare",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269271,
+    "name": "Filip Stanković",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266585,
+    "name": "Daniel Mosquera",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235266,
+    "name": "Christian Früchtl",
+    "overall": 70,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235290,
+    "name": "Kevin Bonifazi",
+    "overall": 70,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 243787,
+    "name": "Ylber Ramadani",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263469,
+    "name": "Mohamed Kaba",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251464,
+    "name": "Ignace Van der Brempt",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252704,
+    "name": "Marco Sala",
+    "overall": 70,
+    "roles": [
+      "TS",
+      "ES",
+      "TD"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262906,
+    "name": "Yannik Engelhardt",
+    "overall": 70,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263882,
+    "name": "Alieu Fadera",
+    "overall": 70,
+    "roles": [
+      "ES"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 219952,
+    "name": "Liam Henderson",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205850,
+    "name": "Leonardo Pavoletti",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252440,
+    "name": "Nadir Zortea",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252964,
+    "name": "Gabriele Zappa",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED",
+      "DC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 206159,
+    "name": "Stefano Sabelli",
+    "overall": 70,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 234894,
+    "name": "Emil Bohinen",
+    "overall": 70,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 239795,
+    "name": "Caleb Ekuban",
+    "overall": 70,
+    "roles": [
+      "ATT",
+      "AD",
+      "ED"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 192840,
+    "name": "Milan Đurić",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230824,
+    "name": "Pedro Miguel Lopes Pereira",
+    "overall": 70,
+    "roles": [
+      "ED",
+      "TD",
+      "ES"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 236213,
+    "name": "Davide Diaw",
+    "overall": 70,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257785,
+    "name": "Marco Brescianini",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246164,
+    "name": "Lautaro Valenti",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277252,
+    "name": "Samuel Dahl",
+    "overall": 69,
+    "roles": [
+      "TS"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 162297,
+    "name": "Daniele Padelli",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266803,
+    "name": "Răzvan Sava",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 254819,
+    "name": "Kacper Urbański",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "CC",
+      "ES"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237840,
+    "name": "Magnus Kofod Andersen",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 240343,
+    "name": "Luca Fiordilino",
+    "overall": 69,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 242755,
+    "name": "John Yeboah",
+    "overall": 69,
+    "roles": [
+      "AD",
+      "COC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 250779,
+    "name": "Michael Svoboda",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 269182,
+    "name": "Antonio Raimondo",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 73853,
+    "name": "Dailon Rocha Livramento",
+    "overall": 69,
+    "roles": [
+      "ATT",
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 252000,
+    "name": "Domagoj Bradarić",
+    "overall": 69,
+    "roles": [
+      "ES",
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264409,
+    "name": "Faride Alidou",
+    "overall": 69,
+    "roles": [
+      "ED",
+      "AS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270686,
+    "name": "Daniel Filipe Bandeira e Silva",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277695,
+    "name": "Daniele Ghilardi",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 246649,
+    "name": "Filip Marchwiński",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "ATT",
+      "AD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 205407,
+    "name": "Daniele Baselli",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268674,
+    "name": "Alessandro Gabrielloni",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277846,
+    "name": "Nicolás Paz Martínez",
+    "overall": 69,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 223570,
+    "name": "Junior Sambia",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "ED"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225117,
+    "name": "Nicolas Haas",
+    "overall": 69,
+    "roles": [
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230858,
+    "name": "Samuele Perisan",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 222388,
+    "name": "Paulo Daniel Azzi Dentello",
+    "overall": 69,
+    "roles": [
+      "TD",
+      "TS",
+      "ES"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 229743,
+    "name": "Alessandro Deiola",
+    "overall": 69,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266636,
+    "name": "Adam Obert",
+    "overall": 69,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201299,
+    "name": "Nicola Leali",
+    "overall": 69,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 245566,
+    "name": "Alessandro Vogliacco",
+    "overall": 69,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258027,
+    "name": "Mirko Marić",
+    "overall": 69,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 241410,
+    "name": "Eddie Salcedo",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268464,
+    "name": "Gabriel Charpentier",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 259634,
+    "name": "Jordan Zemura",
+    "overall": 68,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 272783,
+    "name": "Arthur Atta",
+    "overall": 68,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 274270,
+    "name": "Rui Manuel Muati Modesto",
+    "overall": 68,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70482,
+    "name": "Mihajlo Ilić",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 262396,
+    "name": "Jay Idzes",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 256453,
+    "name": "Amin Sarr",
+    "overall": 68,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253139,
+    "name": "Santiago Pierotti",
+    "overall": 68,
+    "roles": [
+      "AD",
+      "ATT",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263657,
+    "name": "Þórir Jóhann Helgason",
+    "overall": 68,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266501,
+    "name": "Balthazar Pierret",
+    "overall": 68,
+    "roles": [
+      "CDC",
+      "CC",
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270888,
+    "name": "Gaby Jean",
+    "overall": 68,
+    "roles": [
+      "DC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 233189,
+    "name": "Devis Vásquez",
+    "overall": 68,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238873,
+    "name": "Pietro Pellegri",
+    "overall": 68,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266596,
+    "name": "Jacopo Fazzini",
+    "overall": 68,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 248857,
+    "name": "Mattia Felici",
+    "overall": 68,
+    "roles": [
+      "ES",
+      "AS"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74566,
+    "name": "Samuel Mbangula",
+    "overall": 67,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 273934,
+    "name": "Diego González",
+    "overall": 67,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277013,
+    "name": "Chaka Traorè",
+    "overall": 67,
+    "roles": [
+      "AS"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 220532,
+    "name": "Nikita Contini",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Napoli",
+    "mapped_team": "Napoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268396,
+    "name": "Damián Pizarro",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 73379,
+    "name": "Issa Doumbia",
+    "overall": 67,
+    "roles": [
+      "CC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 231137,
+    "name": "Domen Črnigoj",
+    "overall": 67,
+    "roles": [
+      "CC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 235800,
+    "name": "Marin Šverko",
+    "overall": 67,
+    "roles": [
+      "DC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277214,
+    "name": "Joël Schingtienne",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 210940,
+    "name": "Simone Perilli",
+    "overall": 67,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271458,
+    "name": "Yllan Okou",
+    "overall": 67,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 275163,
+    "name": "Reda Belahyane",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 251790,
+    "name": "Hamza Rafia",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 213829,
+    "name": "Alberto Cerri",
+    "overall": 67,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 238474,
+    "name": "Moutir Chajia",
+    "overall": 67,
+    "roles": [
+      "ES",
+      "COC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270507,
+    "name": "Luca Belardinelli",
+    "overall": 67,
+    "roles": [
+      "CDC",
+      "CC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 254982,
+    "name": "Michel Ndary Adopo",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 260653,
+    "name": "Brooke Norton-Cuffy",
+    "overall": 67,
+    "roles": [
+      "TD"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257353,
+    "name": "Warren Bondo",
+    "overall": 67,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 201179,
+    "name": "Antonio Donnarumma",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253162,
+    "name": "Hans Nicolussi Caviglia",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 275087,
+    "name": "Richie Sagrado",
+    "overall": 66,
+    "roles": [
+      "ED",
+      "TD",
+      "TS"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 255453,
+    "name": "Juan Manuel Cruz",
+    "overall": 66,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 253120,
+    "name": "Ben Lhassine Kone",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 248474,
+    "name": "Tino Anjorin",
+    "overall": 66,
+    "roles": [
+      "COC",
+      "ES"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258104,
+    "name": "Gino Infantino",
+    "overall": 66,
+    "roles": [
+      "AD",
+      "AS",
+      "CC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 274082,
+    "name": "Alan Matturro",
+    "overall": 66,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268875,
+    "name": "Semuel Pizzignacco",
+    "overall": 66,
+    "roles": [
+      "POR"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271477,
+    "name": "Alessandro Bianco",
+    "overall": 66,
+    "roles": [
+      "CC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268558,
+    "name": "Tomás Palacios",
+    "overall": 65,
+    "roles": [
+      "DC",
+      "TS"
+    ],
+    "team": "Inter",
+    "mapped_team": "Milano Nerazzurra",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 73162,
+    "name": "Cristobal Muñoz López",
+    "overall": 65,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 245639,
+    "name": "André Anderson Pomilio Lima",
+    "overall": 65,
+    "roles": [
+      "COC",
+      "ATT"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278351,
+    "name": "Kevin Zeroli",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "COC",
+      "CDC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278928,
+    "name": "Sánchez Alejandro Jiménez",
+    "overall": 65,
+    "roles": [
+      "TS",
+      "TD"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70824,
+    "name": "Giovanni Leoni",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 275291,
+    "name": "Niccolò Pisilli",
+    "overall": 65,
+    "roles": [
+      "CC"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 273932,
+    "name": "Gvidas Gineitis",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 265194,
+    "name": "Iker Bravo Solanilla",
+    "overall": 65,
+    "roles": [
+      "ATT",
+      "AS",
+      "AD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277704,
+    "name": "Tommaso Corazza",
+    "overall": 65,
+    "roles": [
+      "TS",
+      "ES",
+      "TD"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 258533,
+    "name": "Bjarki Steinn Bjarkason",
+    "overall": 65,
+    "roles": [
+      "ED",
+      "CC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264436,
+    "name": "Mikael Egill Ellertsson",
+    "overall": 65,
+    "roles": [
+      "CC",
+      "ES",
+      "ED"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271578,
+    "name": "Mattia Chiesa",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 276787,
+    "name": "Ayanda Sishuba",
+    "overall": 65,
+    "roles": [
+      "COC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 73838,
+    "name": "Alen Sherri",
+    "overall": 65,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278340,
+    "name": "Pietro Comuzzo",
+    "overall": 65,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 268437,
+    "name": "Omari Forson",
+    "overall": 65,
+    "roles": [
+      "ED",
+      "COC"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264364,
+    "name": "Drissa Camara",
+    "overall": 64,
+    "roles": [
+      "ED",
+      "COC",
+      "ES"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271385,
+    "name": "Edoardo Corvi",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 266257,
+    "name": "Emirhan İlkhan",
+    "overall": 64,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270485,
+    "name": "Franco Carboni",
+    "overall": 64,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278326,
+    "name": "Alphadjo Cissè",
+    "overall": 64,
+    "roles": [
+      "COC",
+      "ES"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277432,
+    "name": "Patrick Dorgu",
+    "overall": 64,
+    "roles": [
+      "TS",
+      "ES"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 186611,
+    "name": "Mauro Vigorito",
+    "overall": 64,
+    "roles": [
+      "POR"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70049,
+    "name": "Kingstone Mutandwa",
+    "overall": 64,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 276820,
+    "name": "Matías Moreno",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 276477,
+    "name": "Alessandro Marcandalli",
+    "overall": 64,
+    "roles": [
+      "DC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74310,
+    "name": "Nicolò Savona",
+    "overall": 63,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271856,
+    "name": "Antoine Hainaut",
+    "overall": 63,
+    "roles": [
+      "TD",
+      "DC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 279200,
+    "name": "Aboubacar Sangaré Traoré",
+    "overall": 63,
+    "roles": [
+      "TD"
+    ],
+    "team": "Roma",
+    "mapped_team": "Roma Capitolina",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 274089,
+    "name": "Niklas Pyyhtiä",
+    "overall": 63,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 247289,
+    "name": "Bruno Oliveira Bertinato",
+    "overall": 63,
+    "roles": [
+      "POR"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278230,
+    "name": "Mathis Lambourde",
+    "overall": 63,
+    "roles": [
+      "ED"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271923,
+    "name": "Emmanuel Ekong",
+    "overall": 63,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 237382,
+    "name": "Filippo Melegoni",
+    "overall": 63,
+    "roles": [
+      "COC",
+      "ED",
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74094,
+    "name": "Mattia Liberali",
+    "overall": 62,
+    "roles": [
+      "COC",
+      "AD",
+      "ED"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278237,
+    "name": "Davide Bartesaghi",
+    "overall": 62,
+    "roles": [
+      "TS",
+      "DC"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70481,
+    "name": "Aaron Ciammaglichella",
+    "overall": 62,
+    "roles": [
+      "CC",
+      "CDC"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271480,
+    "name": "Brian Jepthe Bayeye",
+    "overall": 62,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 202793,
+    "name": "Alessandro Berardi",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 225432,
+    "name": "Daniele Sommariva",
+    "overall": 62,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 194894,
+    "name": "Francesco Rossi",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74329,
+    "name": "Jonas Jakob Rouhi",
+    "overall": 61,
+    "roles": [
+      "TS"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74706,
+    "name": "Lorenzo Anghelè",
+    "overall": 61,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Juventus",
+    "mapped_team": "Torino Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270217,
+    "name": "Alessio Furlanetto",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lazio",
+    "mapped_team": "Lazio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70163,
+    "name": "Luis Hasa",
+    "overall": 61,
+    "roles": [
+      "CC",
+      "COC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277636,
+    "name": "Rares Burnete",
+    "overall": 61,
+    "roles": [
+      "ATT",
+      "AS"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278623,
+    "name": "Jasper Samooja",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 279815,
+    "name": "Henri Salomaa",
+    "overall": 61,
+    "roles": [
+      "AD"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74705,
+    "name": "Ali Jasim",
+    "overall": 61,
+    "roles": [
+      "AS",
+      "AD"
+    ],
+    "team": "Como",
+    "mapped_team": "Como",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 275325,
+    "name": "Tommaso Martinelli",
+    "overall": 61,
+    "roles": [
+      "POR"
+    ],
+    "team": "Fiorentina",
+    "mapped_team": "Firenze Viola",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 273936,
+    "name": "Ali Bina Dembélé",
+    "overall": 60,
+    "roles": [
+      "TD"
+    ],
+    "team": "Torino",
+    "mapped_team": "Torino Granata",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271420,
+    "name": "Nicola Bagnolini",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Bologna",
+    "mapped_team": "Bologna",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 230636,
+    "name": "Matteo Grandi",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271198,
+    "name": "Medon Berisha",
+    "overall": 60,
+    "roles": [
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278181,
+    "name": "Hemsley Akpa-Chukwu",
+    "overall": 60,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 271199,
+    "name": "Giuseppe Ciocci",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70524,
+    "name": "Franz Stolz",
+    "overall": 60,
+    "roles": [
+      "POR"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 260789,
+    "name": "David Ankeye",
+    "overall": 60,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 72029,
+    "name": "Christian Corradi",
+    "overall": 59,
+    "roles": [
+      "DC"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 276485,
+    "name": "Patrizio Masini",
+    "overall": 59,
+    "roles": [
+      "CC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 265595,
+    "name": "Samuele Vignato",
+    "overall": 59,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278331,
+    "name": "Lapo Nava",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277734,
+    "name": "Alexandru Borbei",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 277628,
+    "name": "Velizar-Iliya Iliev",
+    "overall": 58,
+    "roles": [
+      "POR"
+    ],
+    "team": "Cagliari",
+    "mapped_team": "Cagliari",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 72179,
+    "name": "Lorenzo Torriani",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "AC Milan",
+    "mapped_team": "Milano Rossonera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 264509,
+    "name": "James Abankwah",
+    "overall": 57,
+    "roles": [
+      "DC",
+      "TD"
+    ],
+    "team": "Udinese",
+    "mapped_team": "Udine Bianconera",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 263714,
+    "name": "Ed McJannet",
+    "overall": 57,
+    "roles": [
+      "COC",
+      "CC"
+    ],
+    "team": "Lecce",
+    "mapped_team": "Lecce",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70252,
+    "name": "Saba Goglichidze",
+    "overall": 57,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 257580,
+    "name": "Federico Brancolini",
+    "overall": 57,
+    "roles": [
+      "POR"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278319,
+    "name": "Luca Marianucci",
+    "overall": 57,
+    "roles": [
+      "DC"
+    ],
+    "team": "Empoli",
+    "mapped_team": "Empoli",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 274721,
+    "name": "Federico Accornero",
+    "overall": 57,
+    "roles": [
+      "AS",
+      "COC"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 279574,
+    "name": "Alberto Manzoni",
+    "overall": 56,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 270716,
+    "name": "Mateusz Kowalski",
+    "overall": 56,
+    "roles": [
+      "ATT",
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278287,
+    "name": "Anas Haj Mohamed",
+    "overall": 56,
+    "roles": [
+      "COC"
+    ],
+    "team": "Parma",
+    "mapped_team": "Parma",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 72322,
+    "name": "Junior Ajayi",
+    "overall": 56,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Hellas Verona FC",
+    "mapped_team": "Verona Gialloblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74664,
+    "name": "Saad El Haddad",
+    "overall": 54,
+    "roles": [
+      "COC"
+    ],
+    "team": "Venezia",
+    "mapped_team": "Venezia Arancioneroverde",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 70251,
+    "name": "Andrea Mazza",
+    "overall": 54,
+    "roles": [
+      "POR"
+    ],
+    "team": "Monza",
+    "mapped_team": "Monza",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 278339,
+    "name": "Marco Palestra",
+    "overall": 53,
+    "roles": [
+      "ED",
+      "TD"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74485,
+    "name": "Jeff Ekhator",
+    "overall": 52,
+    "roles": [
+      "ATT"
+    ],
+    "team": "Genoa",
+    "mapped_team": "Genova Rossoblu",
+    "sofifa_year": "2025"
+  },
+  {
+    "player_id": 74576,
+    "name": "Federico Cassa",
+    "overall": 51,
+    "roles": [
+      "CC"
+    ],
+    "team": "Atalanta",
+    "mapped_team": "Bergamo Calcio",
+    "sofifa_year": "2025"
+  }
+]
