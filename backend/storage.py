@@ -20,8 +20,8 @@ class Store:
         self.filename = filename
         self._redis = None
         if REDIS_URL:
-            import redis as redis_mod
             try:
+                import redis as redis_mod
                 self._redis = redis_mod.from_url(
                     REDIS_URL,
                     decode_responses=True,
