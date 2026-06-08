@@ -31,8 +31,17 @@ app.add_middleware(
 
 
 @app.get("/api/health")
-def health() -> dict[str, str]:
-    return {"status": "ok"}
+def health() -> dict:
+    from storage import REDIS_URL, DATA_DIR
+    has_redis = REDIS_URL is not None
+    return {
+        "status": "ok",
+        "storage": "redis" if draft_engine.store._redis else "json",
+        "redis_url_set": has_redis,
+        "data_dir": str(DATA_DIR),
+        "draft_sessions": len(draft_engine.sessions),
+        "seasons": len(match_engine.seasons),
+    }
 
 
 @app.get("/api/years")

@@ -1,19 +1,58 @@
 from __future__ import annotations
 
 import json
+import logging
 import os
-import sys
+import shutil
 from pathlib import Path
 from typing import TypeVar
 
 from pydantic import BaseModel
 
+logging.basicConfig(level=logging.INFO, format="[storage] %(message)s")
+_log = logging.getLogger("storage")
+
 T = TypeVar("T", bound=BaseModel)
 
-DATA_DIR = Path(
-    os.environ.get("DATA_DIR", str(Path(__file__).resolve().parent / "data"))
-)
+_BUNDLED_DATA = Path(__file__).resolve().parent / "data"
+
+
+def _compute_data_dir() -> Path:
+    env_dir = os.environ.get("DATA_DIR")
+    if env_dir:
+        return Path(env_dir)
+    if os.environ.get("VERCEL", "") == "1":
+        return Path("/tmp/data")
+    return _BUNDLED_DATA
+
+
+DATA_DIR = _compute_data_dir()
 REDIS_URL = os.environ.get("REDIS_URL") or os.environ.get("KV_URL")
+
+_vercel = os.environ.get("VERCEL", "")
+_redacted = (REDIS_URL or "")[:30] + "..." if REDIS_URL else "<not set>"
+_log.info(
+    "init | VERCEL=%s | DATA_DIR=%s | REDIS_URL=%s | KV_URL=%s",
+    "1" if _vercel == "1" else "0",
+    DATA_DIR,
+    _redacted,
+    "set" if os.environ.get("KV_URL") else "<not set>",
+)
+
+
+def _seed_file(filename: str) -> None:
+    target = DATA_DIR / filename
+    if target.exists():
+        return
+    source = _BUNDLED_DATA / filename
+    if not source.exists():
+        return
+    try:
+        DATA_DIR.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source, target)
+        _log.info("seeded %s from bundle", filename)
+    except OSError as exc:
+        _log.warning("seed %s failed: %s", filename, exc)
 
 
 class Store:
@@ -35,10 +74,45 @@ class Store:
                     retry_on_timeout=True,
                 )
                 self._redis.ping()
-                print(f"[storage] Redis OK ({filename})", file=sys.stderr)
+                _log.info("Redis OK (%s)", filename)
+                self._seed_redis_from_bundle()
             except Exception as exc:
-                print(f"[storage] Redis KO ({filename}): {exc}", file=sys.stderr)
+                _log.warning("Redis KO (%s): %s", filename, exc)
                 self._redis = None
+
+        if not self._redis:
+            _seed_file(filename)
+
+    def _seed_redis_from_bundle(self) -> None:
+        try:
+            existing = list(self._redis.scan_iter(match=f"{self._prefix}*"))
+            if existing:
+                return
+        except Exception:
+            return
+
+        source = _BUNDLED_DATA / self.filename
+        if not source.exists():
+            return
+        try:
+            with open(source, encoding="utf-8") as f:
+                raw = json.load(f)
+        except Exception:
+            return
+
+        if not raw:
+            return
+        try:
+            pipe = self._redis.pipeline()
+            for item_id, item in raw.items():
+                pipe.set(
+                    self._item_key(item_id),
+                    json.dumps(item, ensure_ascii=False),
+                )
+            pipe.execute()
+            _log.info("seeded Redis with %d items from %s", len(raw), self.filename)
+        except Exception as exc:
+            _log.warning("seed Redis failed for %s: %s", self.filename, exc)
 
     def _item_key(self, item_id: str) -> str:
         return f"{self._prefix}{item_id}"
@@ -46,10 +120,10 @@ class Store:
     def load_all(self, model: type[T]) -> dict[str, T]:
         if self._redis:
             result = self._load_all_redis(model)
-            print(f"[storage] load {self.filename} -> {len(result)} items (redis)", file=sys.stderr)
+            _log.info("load %s -> %d items (redis)", self.filename, len(result))
             return result
         result = self._load_json(model)
-        print(f"[storage] load {self.filename} -> {len(result)} items (json)", file=sys.stderr)
+        _log.info("load %s -> %d items (json)", self.filename, len(result))
         return result
 
     def save_one(self, item_id: str, item: BaseModel) -> None:
@@ -71,10 +145,10 @@ class Store:
         serialized = {k: v.model_dump(mode="json") for k, v in data.items()}
         if self._redis:
             ok = self._save_all_redis(serialized)
-            print(f"[storage] save {self.filename} -> {len(serialized)} items (redis {'OK' if ok else 'KO'})", file=sys.stderr)
+            _log.info("save %s -> %d items (redis %s)", self.filename, len(serialized), "OK" if ok else "KO")
         else:
             self._save_json(serialized)
-            print(f"[storage] save {self.filename} -> {len(serialized)} items (json)", file=sys.stderr)
+            _log.info("save %s -> %d items (json)", self.filename, len(serialized))
 
     # ── JSON (local dev) ──────────────────────────────────────────────
 
@@ -116,7 +190,7 @@ class Store:
                 except Exception:
                     continue
         except Exception as exc:
-            print(f"[storage] load redis error {self.filename}: {exc}", file=sys.stderr)
+            _log.warning("load redis error %s: %s", self.filename, exc)
         return result
 
     def _save_all_redis(self, data: dict[str, dict]) -> bool:
@@ -130,5 +204,5 @@ class Store:
             pipe.execute()
             return True
         except Exception as exc:
-            print(f"[storage] save redis error {self.filename}: {exc}", file=sys.stderr)
+            _log.warning("save redis error %s: %s", exc)
             return False
