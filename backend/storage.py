@@ -32,6 +32,7 @@ class Store:
                     decode_responses=True,
                     socket_connect_timeout=5,
                     socket_keepalive=True,
+                    retry_on_timeout=True,
                 )
                 self._redis.ping()
                 print(f"[storage] Redis OK ({filename})", file=sys.stderr)
@@ -44,15 +45,36 @@ class Store:
 
     def load_all(self, model: type[T]) -> dict[str, T]:
         if self._redis:
-            return self._load_all_redis(model)
-        return self._load_json(model)
+            result = self._load_all_redis(model)
+            print(f"[storage] load {self.filename} -> {len(result)} items (redis)", file=sys.stderr)
+            return result
+        result = self._load_json(model)
+        print(f"[storage] load {self.filename} -> {len(result)} items (json)", file=sys.stderr)
+        return result
+
+    def save_one(self, item_id: str, item: BaseModel) -> None:
+        serialized = item.model_dump(mode="json")
+        if self._redis:
+            try:
+                self._redis.set(
+                    self._item_key(item_id),
+                    json.dumps(serialized, ensure_ascii=False),
+                )
+            except Exception:
+                pass
+        else:
+            all_data = self._load_json(type(item))
+            all_data[item_id] = item
+            self._save_json({k: v.model_dump(mode="json") for k, v in all_data.items()})
 
     def save_all(self, data: dict[str, BaseModel]) -> None:
         serialized = {k: v.model_dump(mode="json") for k, v in data.items()}
         if self._redis:
-            self._save_all_redis(serialized)
+            ok = self._save_all_redis(serialized)
+            print(f"[storage] save {self.filename} -> {len(serialized)} items (redis {'OK' if ok else 'KO'})", file=sys.stderr)
         else:
             self._save_json(serialized)
+            print(f"[storage] save {self.filename} -> {len(serialized)} items (json)", file=sys.stderr)
 
     # ── JSON (local dev) ──────────────────────────────────────────────
 
@@ -78,7 +100,7 @@ class Store:
         except OSError:
             pass
 
-    # ── Redis (multi-utente serverless) ───────────────────────────────
+    # ── Redis ─────────────────────────────────────────────────────────
 
     def _load_all_redis(self, model: type[T]) -> dict[str, T]:
         result: dict[str, T] = {}
@@ -93,11 +115,11 @@ class Store:
                     result[item_id] = model.model_validate(item)
                 except Exception:
                     continue
-        except Exception:
-            pass
+        except Exception as exc:
+            print(f"[storage] load redis error {self.filename}: {exc}", file=sys.stderr)
         return result
 
-    def _save_all_redis(self, data: dict[str, dict]) -> None:
+    def _save_all_redis(self, data: dict[str, dict]) -> bool:
         try:
             pipe = self._redis.pipeline()
             for item_id, item in data.items():
@@ -106,5 +128,7 @@ class Store:
                     json.dumps(item, ensure_ascii=False),
                 )
             pipe.execute()
-        except Exception:
-            pass
+            return True
+        except Exception as exc:
+            print(f"[storage] save redis error {self.filename}: {exc}", file=sys.stderr)
+            return False

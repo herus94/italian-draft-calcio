@@ -19,8 +19,8 @@ class MatchEngine:
         self.store = Store("seasons.json")
         self.seasons: dict[str, Season] = self.store.load_all(Season)
 
-    def _save_seasons(self) -> None:
-        self.store.save_all(self.seasons)
+    def _save_season(self, season: Season) -> None:
+        self.store.save_one(season.id, season)
 
     def start_season(
         self,
@@ -65,11 +65,14 @@ class MatchEngine:
             year=season_year,
         )
         self.seasons[season.id] = season
-        self._save_seasons()
+        self._save_season(season)
         return season
 
     def get(self, season_id: str) -> Season:
         season = self.seasons.get(season_id)
+        if season is None:
+            self.seasons = self.store.load_all(Season)
+            season = self.seasons.get(season_id)
         if season is None:
             raise ValueError("Campionato non trovato.")
         return season
@@ -89,7 +92,7 @@ class MatchEngine:
         if season.current_matchday > MATCHDAYS_PER_SEASON:
             season.completed = True
             season.current_matchday = MATCHDAYS_PER_SEASON
-        self._save_seasons()
+        self._save_season(season)
         return season
 
     def simulate_until_matchday(self, season_id: str, draft_session: DraftSession, target_matchday: int) -> Season:
