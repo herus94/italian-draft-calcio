@@ -7,13 +7,7 @@ if (!backendUrl) {
   process.exit(0);
 }
 
-const indexPath = path.join(
-  __dirname,
-  'dist',
-  'progetto-calcio-frontend',
-  'browser',
-  'index.html',
-);
+const indexPath = path.join(__dirname, 'dist', 'browser', 'index.html');
 let html = fs.readFileSync(indexPath, 'utf8');
 html = html.replace(
   '<app-root>',

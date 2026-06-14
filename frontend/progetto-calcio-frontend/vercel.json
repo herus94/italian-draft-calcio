@@ -1,9 +1,4 @@
 {
-  "outputDirectory": "dist/progetto-calcio-frontend/browser",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  "buildCommand": "ng build --output-path=dist && node inject-env.js",
+  "outputDirectory": "dist/browser"
 }
