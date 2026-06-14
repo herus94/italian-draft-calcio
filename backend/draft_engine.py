@@ -61,10 +61,8 @@ class DraftEngine:
         return session
 
     def get(self, session_id: str) -> DraftSession:
+        self.sessions = self.store.load_all(DraftSession)
         session = self.sessions.get(session_id)
-        if session is None:
-            self.sessions = self.store.load_all(DraftSession)
-            session = self.sessions.get(session_id)
         if session is None:
             raise ValueError("Sessione draft non trovata.")
         return session

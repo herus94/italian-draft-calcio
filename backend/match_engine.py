@@ -69,10 +69,8 @@ class MatchEngine:
         return season
 
     def get(self, season_id: str) -> Season:
+        self.seasons = self.store.load_all(Season)
         season = self.seasons.get(season_id)
-        if season is None:
-            self.seasons = self.store.load_all(Season)
-            season = self.seasons.get(season_id)
         if season is None:
             raise ValueError("Campionato non trovato.")
         return season

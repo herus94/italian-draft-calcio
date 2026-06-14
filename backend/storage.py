@@ -134,8 +134,8 @@ class Store:
                     self._item_key(item_id),
                     json.dumps(serialized, ensure_ascii=False),
                 )
-            except Exception:
-                pass
+            except Exception as exc:
+                _log.warning("save_one %s failed: %s", item_id, exc)
         else:
             all_data = self._load_json(type(item))
             all_data[item_id] = item
