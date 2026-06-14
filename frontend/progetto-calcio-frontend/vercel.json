@@ -1,10 +1,14 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/browser",
+  "outputDirectory": "dist/progetto-calcio-frontend/browser",
   "rewrites": [
     {
       "source": "/api/(.*)",
       "destination": "https://{{ env.BACKEND_URL }}/api/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
