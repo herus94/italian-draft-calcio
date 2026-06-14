@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import os
 import sys
 from pathlib import Path
 
@@ -8,8 +7,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
 
 from data_loader import available_years, list_teams, load_players, load_team_overalls
 from draft_engine import FORMATIONS, DraftEngine
@@ -161,6 +158,4 @@ def simulate_to_end(season_id: str):
         raise HTTPException(status_code=400, detail=str(error)) from error
 
 
-STATIC_DIR = os.path.join(os.path.dirname(__file__), "static")
-if os.path.isdir(STATIC_DIR):
-    app.mount("/", StaticFiles(directory=STATIC_DIR, html=True), name="static")
+

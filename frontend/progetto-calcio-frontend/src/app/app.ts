@@ -81,6 +81,12 @@ type StandingRow = {
   points: number;
 };
 
+type ScorerRow = {
+  player: string;
+  team: string;
+  goals: number;
+};
+
 type Season = {
   id: string;
   user_team: string;
@@ -88,6 +94,7 @@ type Season = {
   current_matchday: number;
   matches: Match[];
   standings: StandingRow[];
+  top_scorers: ScorerRow[];
   completed: boolean;
 };
 
@@ -117,6 +124,9 @@ export class App {
   season = signal<Season | null>(null);
   loading = signal(false);
   message = signal('');
+  hoveredPlayer = signal<DraftPlayer | null>(null);
+  hoveredDepartments = computed(() => this.hoveredPlayer()?.departments ?? []);
+  standingsTab = signal<'classifica' | 'marcatori'>('classifica');
 
 
   remainingSlots = computed(() => {
@@ -195,6 +205,10 @@ export class App {
       .filter((match) => match.played)
       .slice(-5)
       .reverse();
+  });
+
+  topScorers = computed(() => {
+    return this.season()?.top_scorers?.slice(0, 10) ?? [];
   });
 
   constructor() {

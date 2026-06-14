@@ -98,6 +98,12 @@ class StandingRow(BaseModel):
         return self.goals_for - self.goals_against
 
 
+class ScorerRow(BaseModel):
+    player: str
+    team: str
+    goals: int
+
+
 class Season(BaseModel):
     id: str
     draft_session_id: str
@@ -106,5 +112,6 @@ class Season(BaseModel):
     current_matchday: int = 1
     matches: list[Match]
     standings: list[StandingRow]
+    top_scorers: list[ScorerRow] = Field(default_factory=list)
     completed: bool = False
     year: int = 2026

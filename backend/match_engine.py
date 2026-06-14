@@ -6,7 +6,7 @@ from uuid import uuid4
 
 from data_loader import latest_year, load_team_overalls, strip_roster_suffix
 from draft_engine import departments_for_player
-from models import DraftSession, GoalEvent, Match, Player, Season, StandingRow
+from models import DraftSession, GoalEvent, Match, Player, ScorerRow, Season, StandingRow
 from storage import Store
 
 
@@ -88,6 +88,7 @@ class MatchEngine:
                 simulate_match(match, season, draft_session)
 
         recalculate_standings(season)
+        season.top_scorers = calculate_top_scorers(season)
         season.current_matchday += 1
         if season.current_matchday > MATCHDAYS_PER_SEASON:
             season.completed = True
@@ -155,12 +156,58 @@ def build_single_round_robin(teams: list[str]) -> list[list[tuple[str, str]]]:
     return rounds
 
 
+def team_form_bonus(team: str, season: Season, window: int = 5) -> float:
+    recent = [
+        m for m in season.matches
+        if m.played and m.home_goals is not None and m.away_goals is not None
+        and (m.home_team == team or m.away_team == team)
+    ]
+    if not recent:
+        return 0.0
+    recent.sort(key=lambda m: m.matchday, reverse=True)
+    recent = recent[:window]
+    points = 0
+    for m in recent:
+        if m.home_team == team:
+            if m.home_goals > m.away_goals:
+                points += 3
+            elif m.home_goals == m.away_goals:
+                points += 1
+        else:
+            if m.away_goals > m.home_goals:
+                points += 3
+            elif m.away_goals == m.home_goals:
+                points += 1
+    max_points = len(recent) * 3
+    ratio = points / max_points if max_points > 0 else 0.5
+    return (ratio - 0.5) * 3.0
+
+
+def match_variance(team_rating: float, opponent_rating: float) -> float:
+    delta = team_rating - opponent_rating
+    if delta > 7:
+        return 2.0
+    if delta > 4:
+        return 3.0
+    if delta < -7:
+        return 5.5
+    if delta < -4:
+        return 5.0
+    return 4.0
+
+
 def simulate_match(match: Match, season: Season, draft_session: DraftSession) -> None:
     home_rating = team_rating(match.home_team, season, draft_session)
     away_rating = team_rating(match.away_team, season, draft_session)
 
-    home_match_rating = home_rating + random.uniform(-4.5, 4.5)
-    away_match_rating = away_rating + random.uniform(-4.5, 4.5)
+    home_form = team_form_bonus(match.home_team, season)
+    away_form = team_form_bonus(match.away_team, season)
+
+    home_var = match_variance(home_rating, away_rating)
+    away_var = match_variance(away_rating, home_rating)
+
+    home_match_rating = home_rating + home_form + random.uniform(-home_var, home_var)
+    away_match_rating = away_rating + away_form + random.uniform(-away_var, away_var)
 
     home_expected = expected_goals(home_match_rating, away_match_rating, home_advantage=0.22)
     away_expected = expected_goals(away_match_rating, home_match_rating, home_advantage=0)
@@ -191,33 +238,40 @@ def build_goal_events(match: Match, season: Season, draft_session: DraftSession)
     assert match.home_goals is not None and match.away_goals is not None
 
     for _ in range(match.home_goals):
-        goals.append(GoalEvent(minute=random.randint(1, 90), team=match.home_team, scorer=pick_scorer(match.home_team, season, draft_session)))
+        scorer_name, is_gk = pick_scorer(match.home_team, season, draft_session)
+        minute = random.randint(90, 95) if is_gk else random.randint(1, 90)
+        goals.append(GoalEvent(minute=minute, team=match.home_team, scorer=scorer_name))
     for _ in range(match.away_goals):
-        goals.append(GoalEvent(minute=random.randint(1, 90), team=match.away_team, scorer=pick_scorer(match.away_team, season, draft_session)))
+        scorer_name, is_gk = pick_scorer(match.away_team, season, draft_session)
+        minute = random.randint(90, 95) if is_gk else random.randint(1, 90)
+        goals.append(GoalEvent(minute=minute, team=match.away_team, scorer=scorer_name))
 
     return sorted(goals, key=lambda goal: goal.minute)
 
 
-def pick_scorer(team: str, season: Season, draft_session: DraftSession) -> str:
+def pick_scorer(team: str, season: Season, draft_session: DraftSession) -> tuple[str, bool]:
     players = players_for_team(team, season, draft_session)
-    weighted_players = []
+    weighted_players: list[tuple[Player, float]] = []
     for player in players:
         departments = departments_for_player(player)
         if "ATT" in departments:
-            weight = 8
+            weight = 8.0
         elif "CC" in departments:
-            weight = 4
+            weight = 4.0
         elif "DIF" in departments:
-            weight = 1
+            weight = 1.0
         else:
-            weight = 0.05
+            weight = 0.001
         weighted_players.append((player, weight * max(1, player.overall - 50)))
 
-    return random.choices(
-        [item[0].name for item in weighted_players],
+    chosen = random.choices(
+        [item[0] for item in weighted_players],
         weights=[item[1] for item in weighted_players],
         k=1,
     )[0]
+
+    is_gk = "POR" in departments_for_player(chosen)
+    return chosen.name, is_gk
 
 
 def players_for_team(team: str, season: Season, draft_session: DraftSession) -> list[Player]:
@@ -250,6 +304,19 @@ def team_rating(team: str, season: Season, draft_session: DraftSession) -> float
             return team_overall["best_11_avg_overall"]
 
     raise ValueError("Squadra non trovata.")
+
+
+def calculate_top_scorers(season: Season) -> list[ScorerRow]:
+    scorer_goals: dict[tuple[str, str], int] = {}
+    for match in season.matches:
+        if not match.played:
+            continue
+        for goal in match.goals:
+            key = (goal.scorer, goal.team)
+            scorer_goals[key] = scorer_goals.get(key, 0) + 1
+    rows = [ScorerRow(player=name, team=team, goals=goals) for (name, team), goals in scorer_goals.items()]
+    rows.sort(key=lambda r: r.goals, reverse=True)
+    return rows
 
 
 def recalculate_standings(season: Season) -> None:

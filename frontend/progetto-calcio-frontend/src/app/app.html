@@ -93,10 +93,13 @@
 
       @if (rolledPlayers().length > 0) {
         <div class="players-list">
-          @for (player of rolledPlayers(); track player.player_id) {
+          @for (player of rolledPlayers(); track player.player_id; let index = $index) {
           <article class="player-row"
+                   [style.--i]="index"
                    [class.locked]="!player.pickable"
                    [class.selected]="selectedPlayer()?.player_id === player.player_id"
+                   (mouseenter)="hoveredPlayer.set(player)"
+                   (mouseleave)="hoveredPlayer.set(null)"
                    (click)="selectPlayer(player)">
             <div class="rating">{{ player.overall }}</div>
             <div class="player-main">
@@ -148,12 +151,28 @@
       </div>
 
       <div class="pitch">
+        <div class="pitch-markings">
+          <div class="centre-line"></div>
+          <div class="centre-circle"></div>
+          <div class="centre-spot"></div>
+          <div class="penalty-area top"></div>
+          <div class="penalty-area bottom"></div>
+          <div class="penalty-spot top"></div>
+          <div class="penalty-spot bottom"></div>
+          <div class="goal-area top"></div>
+          <div class="goal-area bottom"></div>
+          <div class="corner-arc tl"></div>
+          <div class="corner-arc tr"></div>
+          <div class="corner-arc bl"></div>
+          <div class="corner-arc br"></div>
+        </div>
         @for (dept of ['POR', 'DIF', 'CC', 'ATT']; track dept) {
           <div class="pitch-row">
             @for (slot of formationSlots().filter(s => s.department === dept); track slot.id) {
               <div class="pitch-card"
                    [class.filled]="!!slot.player"
                    [class.selectable]="!!selectedPlayer() && !slot.player && selectedPlayer()?.departments?.includes(dept) && remainingSlots()[dept] > 0"
+                   [class.highlighted]="!!hoveredPlayer() && !slot.player && hoveredDepartments().includes(dept) && remainingSlots()[dept] > 0"
                    (click)="assignToSlot(slot)">
                 @if (slot.player) {
                   <span class="pitch-card-ovr">{{ slot.player.player.overall }}</span>
@@ -248,41 +267,75 @@
       <div class="panel-head">
         <div>
           <p class="eyebrow">Campionato</p>
-          <h2>Classifica</h2>
+          <div class="tabs">
+            <button class="tab-btn" [class.active]="standingsTab() === 'classifica'" (click)="standingsTab.set('classifica')">Classifica</button>
+            <button class="tab-btn" [class.active]="standingsTab() === 'marcatori'" (click)="standingsTab.set('marcatori')">Marcatori</button>
+          </div>
         </div>
         <span class="replaced">Sostituita: {{ season()?.replaced_team }}</span>
       </div>
 
-      <div class="table-wrap">
-        <table>
-          <thead>
-            <tr>
-              <th>#</th>
-              <th>Squadra</th>
-              <th>Pt</th>
-              <th>G</th>
-              <th>V</th>
-              <th>N</th>
-              <th>P</th>
-              <th>DR</th>
-            </tr>
-          </thead>
-          <tbody>
-            @for (row of season()?.standings ?? []; track row.team; let index = $index) {
-              <tr [class.user-team]="row.team === season()?.user_team">
-                <td>{{ index + 1 }}</td>
-                <td>{{ row.team }}</td>
-                <td>{{ row.points }}</td>
-                <td>{{ row.played }}</td>
-                <td>{{ row.wins }}</td>
-                <td>{{ row.draws }}</td>
-                <td>{{ row.losses }}</td>
-                <td>{{ row.goal_difference }}</td>
+      @if (standingsTab() === 'classifica') {
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Squadra</th>
+                <th>Pt</th>
+                <th>G</th>
+                <th>V</th>
+                <th>N</th>
+                <th>P</th>
+                <th>DR</th>
               </tr>
-            }
-          </tbody>
-        </table>
-      </div>
+            </thead>
+            <tbody>
+              @for (row of season()?.standings ?? []; track row.team; let index = $index) {
+                <tr [class.user-team]="row.team === season()?.user_team">
+                  <td>{{ index + 1 }}</td>
+                  <td>{{ row.team }}</td>
+                  <td>{{ row.points }}</td>
+                  <td>{{ row.played }}</td>
+                  <td>{{ row.wins }}</td>
+                  <td>{{ row.draws }}</td>
+                  <td>{{ row.losses }}</td>
+                  <td>{{ row.goal_difference }}</td>
+                </tr>
+              }
+            </tbody>
+          </table>
+        </div>
+      }
+
+      @if (standingsTab() === 'marcatori') {
+        <div class="table-wrap">
+          @if (topScorers().length > 0) {
+            <table>
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Giocatore</th>
+                  <th>Squadra</th>
+                  <th>Gol</th>
+                </tr>
+              </thead>
+              <tbody>
+                @for (row of topScorers(); track row.player + row.team; let index = $index) {
+                  <tr [class.user-team]="row.team === season()?.user_team">
+                    <td>{{ index + 1 }}</td>
+                    <td>{{ row.player }}</td>
+                    <td>{{ row.team }}</td>
+                    <td>{{ row.goals }}</td>
+                  </tr>
+                }
+              </tbody>
+            </table>
+          } @else {
+            <p class="empty-tab">Nessun marcatore ancora.</p>
+          }
+        </div>
+      }
     </section>
   }
 </main>

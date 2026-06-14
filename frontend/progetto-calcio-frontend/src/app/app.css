@@ -1,19 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;900&family=Barlow:wght@400;500;600;700;800&display=swap');
 
 :host {
-  --bg-base: #0d0c0a;
-  --bg-panel: #1a1814;
-  --bg-elevated: #24211c;
-  --bg-hover: #2d2a24;
-  --gold: #f0c040;
-  --gold-dim: rgba(240, 192, 64, 0.12);
-  --gold-subtle: rgba(240, 192, 64, 0.06);
-  --text-primary: #f0ede5;
-  --text-secondary: #a09b92;
-  --text-muted: #6b675f;
+  --bg-base: #0b0b0c;
+  --bg-panel: rgba(18, 19, 22, 0.90);
+  --bg-panel-dim: rgba(18, 19, 22, 0.75);
+  --bg-elevated: rgba(255, 255, 255, 0.05);
+  --bg-hover: rgba(255, 255, 255, 0.07);
+  --gold: #ffd000;
+  --gold-dim: rgba(255, 208, 0, 0.12);
+  --gold-subtle: rgba(255, 208, 0, 0.06);
+  --text-primary: #e8e6e3;
+  --text-secondary: #989590;
+  --text-muted: #5e5b56;
   --border-subtle: 1px solid rgba(255, 255, 255, 0.06);
-  --border-strong: 1px solid rgba(255, 255, 255, 0.09);
-  --radius: 12px;
+  --border-strong: 1px solid rgba(255, 255, 255, 0.10);
+  --shadow-sm: 0 2px 16px rgba(10, 10, 30, 0.4);
+  --shadow-md: 0 8px 40px rgba(10, 10, 30, 0.5);
+  --radius: 16px;
   --radius-sm: 8px;
   --radius-xs: 6px;
 
@@ -21,7 +24,8 @@
   min-height: 100vh;
   background: var(--bg-base);
   background-image:
-    radial-gradient(ellipse at 20% 0%, rgba(240, 192, 64, 0.06), transparent 50%);
+    radial-gradient(ellipse at 50% 30%, rgba(50, 35, 15, 0.3) 0%, transparent 70%),
+    linear-gradient(180deg, #131416 0%, #090a0a 100%);
   color: var(--text-primary);
   font-family: 'Barlow', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   font-size: 14px;
@@ -78,16 +82,16 @@ button:disabled {
 
 .primary {
   background: var(--gold);
-  color: #12100c;
+  color: #1a1a0e;
   font-weight: 700;
   font-size: 0.82rem;
   letter-spacing: 0.02em;
-  box-shadow: 0 0 24px rgba(240, 192, 64, 0.18);
+  box-shadow: 0 0 24px rgba(255, 208, 0, 0.18);
 }
 
 .primary:hover:not(:disabled) {
-  background: #f5cd60;
-  box-shadow: 0 0 32px rgba(240, 192, 64, 0.3);
+  background: #ffe033;
+  box-shadow: 0 0 32px rgba(255, 208, 0, 0.3);
 }
 
 .primary:disabled {
@@ -101,11 +105,11 @@ button:disabled {
   color: var(--gold);
   font-weight: 700;
   min-width: 96px;
-  border: 1px solid rgba(240, 192, 64, 0.2);
+  border: 1px solid rgba(255, 208, 0, 0.2);
 }
 
 .dice:hover:not(:disabled) {
-  background: rgba(240, 192, 64, 0.2);
+  background: rgba(255, 208, 0, 0.2);
 }
 
 .shell {
@@ -132,10 +136,15 @@ button:disabled {
 
 .panel {
   background: var(--bg-panel);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   border-radius: var(--radius);
-  border: var(--border-subtle);
-  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.03) inset,
+    var(--shadow-md);
   padding: 18px;
+  overflow-x: hidden;
 }
 
 .panel-head {
@@ -170,8 +179,10 @@ button:disabled {
 .year-bar {
   align-items: center;
   background: var(--bg-elevated);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   border-radius: var(--radius-sm);
-  border: var(--border-subtle);
+  border: 1px solid rgba(255, 255, 255, 0.06);
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
@@ -211,7 +222,7 @@ button:disabled {
 
 .year-options label.active {
   background: var(--gold-dim);
-  border-color: rgba(240, 192, 64, 0.25);
+  border-color: rgba(255, 208, 0, 0.25);
   color: var(--gold);
 }
 
@@ -263,7 +274,7 @@ button:disabled {
 }
 
 .team-filter-bar select:focus {
-  border-color: rgba(240, 192, 64, 0.3);
+  border-color: rgba(255, 208, 0, 0.3);
 }
 
 .team-filter-bar select option {
@@ -306,8 +317,11 @@ button:disabled {
   max-width: 100%;
 }
 
+/* ── PLAYER CARDS (sidebar list) ── */
+
 .players-list {
   display: grid;
+  margin: 0 -18px;
 }
 
 .player-row {
@@ -319,18 +333,40 @@ button:disabled {
   cursor: pointer;
   display: flex;
   gap: 12px;
-  padding: 10px 14px;
-  transition: background 0.2s ease;
-  border-left: 2px solid transparent;
+  padding: 10px 18px;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+}
+
+.player-row::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  bottom: 6px;
+  width: 3px;
+  border-radius: 0 2px 2px 0;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.02) 100%);
+  transition: background 0.2s ease, opacity 0.2s ease;
 }
 
 .player-row:hover {
-  background: rgba(255, 255, 255, 0.03);
+  background-color: rgba(255, 255, 255, 0.04);
+  border-bottom-color: rgba(255, 208, 0, 0.15);
+  transform: translateX(4px);
+}
+
+.player-row:hover::before {
+  background: linear-gradient(180deg, rgba(255, 208, 0, 0.5) 0%, rgba(255, 208, 0, 0.08) 100%);
 }
 
 .player-row.selected {
-  border-left-color: var(--gold);
-  background: var(--gold-subtle);
+  background: rgba(255, 208, 0, 0.06);
+  border-bottom-color: rgba(255, 208, 0, 0.2);
+}
+
+.player-row.selected::before {
+  background: linear-gradient(180deg, rgba(255, 208, 0, 0.7) 0%, rgba(255, 208, 0, 0.12) 100%);
 }
 
 .player-row.locked {
@@ -340,7 +376,7 @@ button:disabled {
 }
 
 .rating {
-  background: #1a1814;
+  background: rgba(255, 255, 255, 0.07);
   border-radius: var(--radius-xs);
   display: grid;
   font-family: 'Barlow Condensed', sans-serif;
@@ -351,13 +387,13 @@ button:disabled {
   width: 44px;
   flex: 0 0 44px;
   color: var(--gold);
-  border: 1px solid rgba(240, 192, 64, 0.2);
+  border: 1px solid rgba(255, 208, 0, 0.15);
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
 .player-row:hover .rating {
-  border-color: rgba(240, 192, 64, 0.4);
-  box-shadow: 0 0 12px rgba(240, 192, 64, 0.15);
+  border-color: rgba(255, 208, 0, 0.5);
+  box-shadow: 0 0 12px rgba(255, 208, 0, 0.2);
 }
 
 .player-main {
@@ -411,7 +447,7 @@ button:disabled {
 
 .dept-badge {
   background: rgba(255, 255, 255, 0.04);
-  border: 1px solid rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(255, 255, 255, 0.06);
   border-radius: 4px;
   color: var(--text-muted);
   font-size: 0.65rem;
@@ -419,38 +455,42 @@ button:disabled {
   padding: 2px 7px;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  transition: border-color 0.15s ease, color 0.15s ease;
 }
 
 .dept-badge.dept-open {
-  border-color: rgba(240, 192, 64, 0.15);
+  border-color: rgba(255, 208, 0, 0.2);
+  background: rgba(255, 208, 0, 0.06);
   color: var(--gold);
+  cursor: pointer;
 }
 
-/* ── Role badge tints ── */
+.dept-badge.dept-open:hover {
+  border-color: rgba(255, 208, 0, 0.35);
+  background: rgba(255, 208, 0, 0.1);
+}
 
 .dept-badge.dept-por {
-  background: rgba(99, 200, 99, 0.10);
-  border-color: rgba(99, 200, 99, 0.15);
+  border-left: 2px solid #7dd87d;
   color: #7dd87d;
 }
 
 .dept-badge.dept-dif {
-  background: rgba(80, 150, 240, 0.10);
-  border-color: rgba(80, 150, 240, 0.15);
+  border-left: 2px solid #70b0f0;
   color: #70b0f0;
 }
 
 .dept-badge.dept-cc {
-  background: rgba(240, 180, 60, 0.10);
-  border-color: rgba(240, 180, 60, 0.15);
+  border-left: 2px solid #e8b848;
   color: #e8b848;
 }
 
 .dept-badge.dept-att {
-  background: rgba(240, 80, 60, 0.10);
-  border-color: rgba(240, 80, 60, 0.15);
+  border-left: 2px solid #f07058;
   color: #f07058;
 }
+
+/* ── FORMATION BAR ── */
 
 .pitch-panel .panel-head {
   margin-bottom: 12px;
@@ -482,7 +522,7 @@ button:disabled {
 
 .formation-bar label.active {
   background: var(--gold-dim);
-  border-color: rgba(240, 192, 64, 0.25);
+  border-color: rgba(255, 208, 0, 0.25);
   color: var(--gold);
 }
 
@@ -496,45 +536,139 @@ button:disabled {
   display: none;
 }
 
-/* ── PITCH ── */
+/* ── TACTICAL PITCH (dark grid board) ── */
 
 .pitch {
-  background-color: #1a5c2a;
+  background-color: #090a0c;
   background-image:
-    repeating-linear-gradient(
-      to right,
-      transparent,
-      transparent 50%,
-      rgba(0, 0, 0, 0.05) 50%,
-      rgba(0, 0, 0, 0.05) 100%
-    );
-  background-size: 10% 100%;
-  border: 1px solid rgba(255, 255, 255, 0.12);
+    radial-gradient(ellipse at 50% 50%, rgba(30, 40, 60, 0.30) 0%, rgba(5, 6, 10, 0.60) 100%),
+    radial-gradient(circle, rgba(255, 255, 255, 0.012) 1px, transparent 1px);
+  background-size: 100% 100%, 24px 24px;
+  border: 1px solid rgba(255, 255, 255, 0.07);
   border-radius: var(--radius-sm);
   display: flex;
   flex-direction: column;
   gap: 24px;
   min-height: 420px;
   justify-content: space-around;
-  overflow: hidden;
+  overflow: visible;
   padding: 32px 20px;
   position: relative;
+  box-shadow: inset 0 2px 20px rgba(0, 0, 0, 0.5);
 }
 
-.pitch::before {
-  content: '';
+/* ── Pitch field markings ── */
+
+.pitch-markings {
   position: absolute;
   inset: 0;
-  background:
-    repeating-linear-gradient(
-      to bottom,
-      transparent,
-      transparent 25%,
-      rgba(255, 255, 255, 0.07) 25%,
-      rgba(255, 255, 255, 0.07) 25.2%
-    );
   pointer-events: none;
+  overflow: hidden;
+  z-index: 0;
 }
+
+.pitch-markings .centre-line {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.10);
+}
+
+.pitch-markings .centre-circle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: 150px;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 50%;
+}
+
+.pitch-markings .centre-spot {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 6px;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 50%;
+}
+
+.pitch-markings .penalty-area {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 40%;
+  height: 22%;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.pitch-markings .penalty-area.top {
+  top: 0;
+  border-top: none;
+  border-radius: 0 0 4px 4px;
+}
+
+.pitch-markings .penalty-area.bottom {
+  bottom: 0;
+  border-bottom: none;
+  border-radius: 4px 4px 0 0;
+}
+
+.pitch-markings .penalty-spot {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 50%;
+}
+
+.pitch-markings .penalty-spot.top {
+  top: 20%;
+}
+
+.pitch-markings .penalty-spot.bottom {
+  bottom: 20%;
+}
+
+.pitch-markings .goal-area {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20%;
+  height: 10%;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.pitch-markings .goal-area.top {
+  top: 0;
+  border-top: none;
+  border-radius: 0 0 3px 3px;
+}
+
+.pitch-markings .goal-area.bottom {
+  bottom: 0;
+  border-bottom: none;
+  border-radius: 3px 3px 0 0;
+}
+
+.pitch-markings .corner-arc {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.pitch-markings .corner-arc.tl { top: 0; left: 0; border-bottom: none; border-right: none; border-radius: 4px 0 0 0; }
+.pitch-markings .corner-arc.tr { top: 0; right: 0; border-bottom: none; border-left: none; border-radius: 0 4px 0 0; }
+.pitch-markings .corner-arc.bl { bottom: 0; left: 0; border-top: none; border-right: none; border-radius: 0 0 0 4px; }
+.pitch-markings .corner-arc.br { bottom: 0; right: 0; border-top: none; border-left: none; border-radius: 0 0 4px 0; }
 
 .pitch-row {
   display: flex;
@@ -543,11 +677,18 @@ button:disabled {
   align-items: center;
   position: relative;
   z-index: 1;
+  padding-bottom: 20px;
 }
 
+.pitch-row:last-child {
+  padding-bottom: 0;
+}
+
+/* ── PLAYER TOKENS ── */
+
 .pitch-card {
-  width: 48px;
-  height: 48px;
+  width: 56px;
+  height: 56px;
   border-radius: 50%;
   flex: 0 0 auto;
   position: relative;
@@ -557,57 +698,81 @@ button:disabled {
   justify-content: center;
   transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
   cursor: default;
+  will-change: transform;
 }
 
 .pitch-card:not(.filled) {
-  border: 1px dashed rgba(255, 255, 255, 0.15);
-  background: rgba(0, 0, 0, 0.2);
+  border: 1px dashed rgba(255, 255, 255, 0.10);
+  background: rgba(255, 255, 255, 0.02);
 }
 
+/* Glass token — filled */
 .pitch-card.filled {
-  background: var(--gold);
-  border: 1px solid rgba(240, 192, 64, 0.4);
-  box-shadow: 0 0 14px rgba(240, 192, 64, 0.3);
+  background: rgba(20, 22, 26, 0.85);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1.5px solid rgba(255, 208, 0, 0.4);
+  box-shadow:
+    0 0 18px rgba(255, 208, 0, 0.25),
+    0 4px 16px rgba(10, 10, 30, 0.5);
 }
 
 .pitch-card.selectable {
-  border: 1px solid var(--gold);
-  background: rgba(240, 192, 64, 0.08);
+  border: 1px solid rgba(255, 208, 0, 0.3);
+  background: rgba(255, 208, 0, 0.05);
   cursor: pointer;
 }
 
 .pitch-card.selectable:hover {
-  background: rgba(240, 192, 64, 0.18);
-  transform: scale(1.1);
+  background: rgba(255, 208, 0, 0.12);
+  transform: scale(1.12);
+  box-shadow: 0 0 20px rgba(255, 208, 0, 0.3);
+}
+
+/* Highlighted slot from card hover */
+.pitch-card.highlighted {
+  border-color: var(--gold);
+  background: rgba(255, 208, 0, 0.08);
+  box-shadow: 0 0 20px rgba(255, 208, 0, 0.35);
+  animation: slotPulse 1.2s ease-in-out infinite alternate;
+}
+
+@keyframes slotPulse {
+  from { transform: scale(1); }
+  to   { transform: scale(1.06); }
 }
 
 .pitch-card-ovr {
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 900;
-  font-size: 1rem;
-  color: #12100c;
+  font-size: 1.15rem;
+  color: var(--gold);
   line-height: 1;
   display: block;
 }
 
+/* Name tag — dark glossy badge below the circle */
 .pitch-card-name {
   position: absolute;
-  bottom: -16px;
+  top: 100%;
   left: 50%;
   transform: translateX(-50%);
-  color: #ffffff;
-  font-size: 0.7rem;
+  margin-top: 4px;
+  background: #18191b;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+  padding: 2px 8px;
+  color: var(--text-primary);
+  font-size: 0.68rem;
   font-weight: 600;
   line-height: 1;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 80px;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.85);
-  background: rgba(0, 0, 0, 0.45);
-  padding: 1px 5px;
-  border-radius: 3px;
+  max-width: 90px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
   pointer-events: none;
+  z-index: 2;
 }
 
 .pitch-card-empty {
@@ -620,15 +785,25 @@ button:disabled {
   text-align: center;
 }
 
+/* ── SQUAD PANEL ── */
+
+.squad-panel {
+  background: var(--bg-panel-dim);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-color: rgba(255, 255, 255, 0.05);
+  box-shadow: var(--shadow-sm);
+}
+
 .squad-metrics {
   display: flex;
   gap: 8px;
 }
 
 .squad-metric {
-  background: var(--bg-elevated);
+  background: rgba(255, 255, 255, 0.03);
   border-radius: var(--radius-xs);
-  border: var(--border-subtle);
+  border: 1px solid rgba(255, 255, 255, 0.04);
   padding: 6px 12px;
   text-align: center;
   min-width: 62px;
@@ -659,27 +834,27 @@ button:disabled {
 
 .squad-metric.clickable:hover:not(.disabled) {
   background: var(--bg-hover);
-  border-color: rgba(240, 192, 64, 0.25);
+  border-color: rgba(255, 208, 0, 0.25);
 }
 
 .squad-metric.clickable:not(.disabled) {
   background: var(--gold);
   border-color: var(--gold);
-  box-shadow: 0 0 16px rgba(240, 192, 64, 0.3);
+  box-shadow: 0 0 16px rgba(255, 208, 0, 0.3);
 }
 
 .squad-metric.clickable:not(.disabled) span {
-  color: #12100c;
+  color: #1a1a0e;
 }
 
 .squad-metric.clickable:not(.disabled) strong {
-  color: #12100c;
+  color: #1a1a0e;
 }
 
 .squad-metric.clickable:not(.disabled):hover {
-  background: #f5cd60;
-  border-color: #f5cd60;
-  box-shadow: 0 0 24px rgba(240, 192, 64, 0.45);
+  background: #ffe033;
+  border-color: #ffe033;
+  box-shadow: 0 0 24px rgba(255, 208, 0, 0.45);
 }
 
 .squad-metric.clickable.disabled {
@@ -698,8 +873,8 @@ button:disabled {
 
 .squad-list article {
   align-items: center;
-  background: var(--bg-elevated);
-  border: var(--border-strong);
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.04);
   border-radius: var(--radius-sm);
   display: grid;
   gap: 10px;
@@ -709,7 +884,7 @@ button:disabled {
 }
 
 .squad-list article:hover {
-  border-color: rgba(255, 255, 255, 0.14);
+  border-color: rgba(255, 255, 255, 0.08);
 }
 
 .pick-num {
@@ -810,11 +985,13 @@ button:disabled {
   margin: 6px 0 0;
 }
 
+/* ── VICTORY ── */
+
 .victory-panel {
   margin-top: 16px;
-  background: linear-gradient(135deg, rgba(240, 192, 64, 0.12), rgba(240, 192, 64, 0.04));
-  border: 1px solid rgba(240, 192, 64, 0.3);
-  box-shadow: 0 0 40px rgba(240, 192, 64, 0.12), 0 8px 40px rgba(0, 0, 0, 0.35);
+  background: linear-gradient(135deg, rgba(255, 208, 0, 0.12), rgba(255, 208, 0, 0.04));
+  border: 1px solid rgba(255, 208, 0, 0.3);
+  box-shadow: 0 0 40px rgba(255, 208, 0, 0.12), 0 8px 40px rgba(0, 0, 0, 0.5);
   text-align: center;
   padding: 32px 18px;
 }
@@ -839,7 +1016,7 @@ button:disabled {
   font-weight: 900;
   font-size: 3.2rem;
   color: var(--gold);
-  text-shadow: 0 0 30px rgba(240, 192, 64, 0.35);
+  text-shadow: 0 0 30px rgba(255, 208, 0, 0.35);
   text-transform: uppercase;
 }
 
@@ -849,6 +1026,8 @@ button:disabled {
   font-weight: 500;
   margin: 4px 0 0;
 }
+
+/* ── TABLE ── */
 
 .table-panel {
   margin-top: 16px;
@@ -901,6 +1080,63 @@ td {
   font-weight: 500;
 }
 
+/* ── TABS ── */
+
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-top: 8px;
+}
+
+.tab-btn {
+  background: var(--card-bg);
+  color: var(--text-muted);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 6px;
+  padding: 6px 16px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.tab-btn:hover {
+  color: var(--text-secondary);
+}
+
+.tab-btn.active {
+  background: var(--gold-subtle);
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+.empty-tab {
+  color: var(--text-muted);
+  text-align: center;
+  padding: 24px;
+  font-size: 0.85rem;
+}
+
+/* ── STAGGERED CARD ENTRANCE ── */
+
+@keyframes cardIn {
+  from {
+    opacity: 0;
+    transform: translateX(-12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.player-row {
+  animation: cardIn 0.35s cubic-bezier(0.4, 0, 0.2, 1) both;
+  animation-delay: calc(var(--i, 0) * 55ms);
+}
+
+/* ── RESPONSIVE ── */
+
 @media (max-width: 768px) {
   .shell {
     padding: 10px;
@@ -915,34 +1151,49 @@ td {
   }
 
   .pitch {
-    gap: 16px;
-    min-height: 280px;
-    padding: 24px 12px;
+    gap: 20px;
+    min-height: 440px;
+    padding: 32px 16px;
+    background-size: 100% 100%, 20px 20px;
+  }
+
+  .pitch-markings .centre-circle {
+    width: 110px;
+    height: 110px;
   }
 
   .pitch-row {
     gap: 28px;
-    min-height: 62px;
   }
 
   .pitch-card {
-    width: 38px;
-    height: 38px;
+    width: 64px;
+    height: 64px;
   }
 
   .pitch-card-ovr {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
   }
 
   .pitch-card-name {
-    bottom: -16px;
-    max-width: 72px;
-    font-size: 0.7rem;
-    padding: 1px 5px;
+    top: 100%;
+    margin-top: 3px;
+    max-width: 96px;
+    font-size: 0.78rem;
+    padding: 2px 8px;
   }
 
   .pitch-card-empty {
-    font-size: 8px;
+    font-size: 10px;
+  }
+
+  .pitch-card.highlighted {
+    animation: none;
+    box-shadow: 0 0 14px rgba(255, 208, 0, 0.3);
+  }
+
+  .player-row {
+    animation: none;
   }
 
   .head-actions {
@@ -972,6 +1223,7 @@ td {
 
   .roll-panel {
     min-width: 0;
+    overflow: visible;
   }
 
   .players-list {
@@ -994,13 +1246,17 @@ td {
     border-radius: var(--radius-sm);
     background: var(--bg-elevated);
     scroll-snap-align: start;
-    border-left: none;
+  }
+
+  .player-row:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 208, 0, 0.3);
   }
 
   .player-row.selected {
     border-color: var(--gold);
     background: var(--gold-dim);
-    box-shadow: inset 0 0 10px rgba(240, 192, 64, 0.15);
+    box-shadow: inset 0 0 10px rgba(255, 208, 0, 0.15);
   }
 
   .player-main {
@@ -1010,7 +1266,8 @@ td {
 
   .player-main strong {
     display: block;
-    font-size: 0.78rem;
+    font-size: 0.82rem;
+    margin-bottom: 2px;
   }
 
   .player-main span {
@@ -1070,8 +1327,6 @@ td {
     gap: 8px;
   }
 
-
-
   .squad-metrics {
     flex-direction: column;
     gap: 4px;
@@ -1101,34 +1356,40 @@ td {
   }
 
   .pitch {
-    min-height: 240px;
-    padding: 20px 10px;
+    min-height: 320px;
+    padding: 24px 12px;
     gap: 16px;
+    background-size: 100% 100%, 16px 16px;
+  }
+
+  .pitch-markings .centre-circle {
+    width: 80px;
+    height: 80px;
   }
 
   .pitch-row {
     gap: 24px;
-    min-height: 54px;
   }
 
   .pitch-card {
-    width: 32px;
-    height: 32px;
+    width: 48px;
+    height: 48px;
   }
 
   .pitch-card-ovr {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
   }
 
   .pitch-card-name {
-    bottom: -14px;
-    max-width: 65px;
+    top: 100%;
+    margin-top: 3px;
+    max-width: 72px;
     font-size: 0.65rem;
-    padding: 1px 4px;
+    padding: 1px 5px;
   }
 
   .pitch-card-empty {
-    font-size: 7px;
+    font-size: 8px;
   }
 
   table {
@@ -1144,8 +1405,8 @@ td {
     font-size: 0.6rem;
   }
 
-  th:nth-child(n+4):nth-child(-n+7),
-  td:nth-child(n+4):nth-child(-n+7) {
+  th:nth-child(n+5):nth-child(-n+7),
+  td:nth-child(n+5):nth-child(-n+7) {
     display: none;
   }
 
@@ -1155,4 +1416,30 @@ td {
   }
 }
 
+/* ── TOUCH DEVICES ── */
+@media (hover: none) and (pointer: coarse) {
+  .pitch-card {
+    transition-duration: 0.1s;
+  }
 
+  .pitch-card.selectable:hover {
+    background: rgba(255, 208, 0, 0.08);
+    transform: none;
+    box-shadow: none;
+  }
+
+  .pitch-card.highlighted {
+    animation: none;
+    box-shadow: 0 0 14px rgba(255, 208, 0, 0.25);
+  }
+
+  .pitch-card.filled {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+
+  .panel {
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+  }
+}
